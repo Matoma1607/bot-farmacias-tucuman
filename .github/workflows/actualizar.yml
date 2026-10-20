@@ -1,0 +1,50 @@
+# Actualiza las farmacias de turno todos los dias.
+# Va en el repositorio en: .github/workflows/actualizar.yml
+#
+# Horarios en UTC (Tucuman = UTC-3):
+#   11:10 UTC = 8:10 en Tucuman  (el turno nuevo empieza a las 8:00)
+#   11:40 UTC = 8:40             (reintento, por si la pagina se actualizo tarde)
+#   13:10 UTC = 10:10            (ultimo reintento)
+# Si los datos no cambiaron, no guarda nada.
+
+name: Actualizar farmacias de turno
+
+on:
+  schedule:
+    - cron: "10 11 * * *"
+    - cron: "40 11 * * *"
+    - cron: "10 13 * * *"
+  workflow_dispatch:   # permite correrlo a mano desde la pestana Actions
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Leer farmacias de turno de cofatuc
+        run: python farmacias_turno.py
+
+      - name: Buscar coordenadas de farmacias nuevas
+        run: python farmacias_cercanas.py coordenadas
+
+      - name: Guardar los datos nuevos
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add farmacias_turno.json coordenadas_farmacias.json
+          if git diff --staged --quiet; then
+            echo "Sin cambios."
+          else
+            git commit -m "Farmacias de turno $(TZ=America/Argentina/Tucuman date +%d/%m/%Y)"
+            git push
+          fi
