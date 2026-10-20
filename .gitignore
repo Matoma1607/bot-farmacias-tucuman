@@ -1,0 +1,8 @@
+# Datos privados: NUNCA subir a GitHub
+config_bot.txt
+
+# Archivos de prueba
+debug_pagina.html
+debug_lineas.txt
+cloudflared.exe
+__pycache__/
