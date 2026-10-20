@@ -1,0 +1,159 @@
+{
+  "fecha": "20/10/2026",
+  "turno": "de 08:00 de ese dia a 08:00 del dia siguiente",
+  "fuente": "https://cofatuc.org.ar/farmacias-de-turno/",
+  "actualizado": "20/10/2026 15:06",
+  "localidades": {
+    "Aguilares": [
+      {
+        "nombre": "SANTO TOMAS",
+        "telefono": "03865 - 482192",
+        "direccion": "DIEGO DE VILLARROEL Y V.SARSFI"
+      }
+    ],
+    "Alderetes": [
+      {
+        "nombre": "DEL ESTE 2 GUTIERREZ",
+        "telefono": "4945314",
+        "direccion": "Av. Rivadavia 2100"
+      },
+      {
+        "nombre": "SAN JOSE",
+        "telefono": "3814729357",
+        "direccion": "Av. Eva Peron esq. Manuela Pedraza"
+      }
+    ],
+    "Bella Vista": [
+      {
+        "nombre": "LIBERTAD",
+        "telefono": "4820234",
+        "direccion": "San Martin 100"
+      }
+    ],
+    "Concepción": [
+      {
+        "nombre": "SAN CAMILO DE LELIS",
+        "telefono": "03865 - 426498",
+        "direccion": "24 de Septiembre 1473"
+      }
+    ],
+    "Famaillá": [
+      {
+        "nombre": "LA BOTICA",
+        "telefono": "03863-461011",
+        "direccion": "Diego de Villarroel 256 BºOeste"
+      },
+      {
+        "nombre": "VITRA FAMAILLÁ",
+        "telefono": "03863426944",
+        "direccion": "RUTA 38 Y AV. CALCHAQUI"
+      }
+    ],
+    "Juan Bautista Alberdi": [
+      {
+        "nombre": "SOL",
+        "telefono": "03865 - 472052",
+        "direccion": "Av. Campero 216"
+      },
+      {
+        "nombre": "FHARMASEN",
+        "telefono": "",
+        "direccion": "Filgueira Oviedo 941"
+      }
+    ],
+    "La Cocha": [
+      {
+        "nombre": "SANTA TERESITA",
+        "telefono": "03865-496163",
+        "direccion": "SARMIENTO 69"
+      }
+    ],
+    "Lules": [
+      {
+        "nombre": "SAN ISIDRO",
+        "telefono": "4812746",
+        "direccion": "Juan Luis Nogués 98"
+      }
+    ],
+    "Monteros": [
+      {
+        "nombre": "DEL MILAGRO",
+        "telefono": "03865-427943",
+        "direccion": "ALBERDI 260"
+      },
+      {
+        "nombre": "PACARA",
+        "telefono": "",
+        "direccion": "Ernesto Padilla180"
+      }
+    ],
+    "San Miguel de Tucumán": [
+      {
+        "nombre": "DEL AHORRO",
+        "telefono": "4340245",
+        "direccion": "Av. Ejercito del Norte 2695 - Loc. 2"
+      },
+      {
+        "nombre": "MUÑECAS",
+        "telefono": "2321924",
+        "direccion": "Congreso 1088"
+      },
+      {
+        "nombre": "RAMIS",
+        "telefono": "4512875",
+        "direccion": "Mendoza 2525"
+      },
+      {
+        "nombre": "SANTA ROSA",
+        "telefono": "4277187",
+        "direccion": "Av. Republica del Líbano 1954"
+      },
+      {
+        "nombre": "PUEYRREDON",
+        "telefono": "4362272",
+        "direccion": "Pueyrredon 2062"
+      },
+      {
+        "nombre": "DEL PUEBLO JUAN B. JUSTO",
+        "telefono": "",
+        "direccion": "Av. Juan B. Justo 1361"
+      },
+      {
+        "nombre": "SUSY",
+        "telefono": "",
+        "direccion": "AV, REPUBLICA DEL LIBANO 1405"
+      },
+      {
+        "nombre": "ALBA",
+        "telefono": "4223073",
+        "direccion": "Av. Sarmiento 955"
+      }
+    ],
+    "Tafí Viejo": [
+      {
+        "nombre": "LA NUEVA MAGISTRAL",
+        "telefono": "4614681",
+        "direccion": "Congreso 801"
+      }
+    ],
+    "Villa Carmela": [
+      {
+        "nombre": "NAMUNCURA 3",
+        "telefono": "3814195498",
+        "direccion": "Ruta 315, Km 8.5"
+      }
+    ],
+    "Yerba Buena": [
+      {
+        "nombre": "CRISTO REY V",
+        "telefono": "3815167482",
+        "direccion": "Boulevar 9 de julio 1200"
+      },
+      {
+        "nombre": "PLAZOLETA LOBO DE LA VEGA",
+        "telefono": "03814500444",
+        "direccion": "LOBO DE LA VEGA 1090"
+      }
+    ]
+  }
+}

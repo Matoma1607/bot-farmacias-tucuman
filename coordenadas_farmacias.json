@@ -1,0 +1,202 @@
+{
+  "santo tomas|diego de villarroel y v sarsfi|aguilares": {
+    "lat": -27.4314924,
+    "lon": -65.6152235,
+    "aproximada": true,
+    "nombre": "SANTO TOMAS",
+    "direccion": "DIEGO DE VILLARROEL Y V.SARSFI",
+    "localidad": "Aguilares"
+  },
+  "del este 2 gutierrez|av rivadavia 2100|alderetes": {
+    "lat": -26.7999621,
+    "lon": -65.1374627,
+    "aproximada": false,
+    "nombre": "DEL ESTE 2 GUTIERREZ",
+    "direccion": "Av. Rivadavia 2100",
+    "localidad": "Alderetes"
+  },
+  "san jose|av eva peron esq manuela pedraza|alderetes": {
+    "lat": -26.8291801,
+    "lon": -65.1582289,
+    "aproximada": true,
+    "nombre": "SAN JOSE",
+    "direccion": "Av. Eva Peron esq. Manuela Pedraza",
+    "localidad": "Alderetes"
+  },
+  "libertad|san martin 100|bella vista": {
+    "lat": -27.0297915,
+    "lon": -65.3128958,
+    "aproximada": false,
+    "nombre": "LIBERTAD",
+    "direccion": "San Martin 100",
+    "localidad": "Bella Vista"
+  },
+  "san camilo de lelis|24 de septiembre 1473|concepcion": {
+    "lat": -27.3444685,
+    "lon": -65.5926341,
+    "aproximada": false,
+    "nombre": "SAN CAMILO DE LELIS",
+    "direccion": "24 de Septiembre 1473",
+    "localidad": "Concepción"
+  },
+  "la botica|diego de villarroel 256 booeste|famailla": {
+    "lat": -27.0510783,
+    "lon": -65.4099647,
+    "aproximada": false,
+    "nombre": "LA BOTICA",
+    "direccion": "Diego de Villarroel 256 BºOeste",
+    "localidad": "Famaillá"
+  },
+  "vitra famailla|ruta 38 y av calchaqui|famailla": {
+    "lat": -27.0609773,
+    "lon": -65.3960818,
+    "aproximada": true,
+    "nombre": "VITRA FAMAILLÁ",
+    "direccion": "RUTA 38 Y AV. CALCHAQUI",
+    "localidad": "Famaillá"
+  },
+  "sol|av campero 216|juan bautista alberdi": {
+    "lat": -27.5847071,
+    "lon": -65.6187528,
+    "aproximada": false,
+    "nombre": "SOL",
+    "direccion": "Av. Campero 216",
+    "localidad": "Juan Bautista Alberdi"
+  },
+  "fharmasen|filgueira oviedo 941|juan bautista alberdi": {
+    "lat": -27.5878217,
+    "lon": -65.628593,
+    "aproximada": false,
+    "nombre": "FHARMASEN",
+    "direccion": "Filgueira Oviedo 941",
+    "localidad": "Juan Bautista Alberdi"
+  },
+  "santa teresita|sarmiento 69|la cocha": {
+    "lat": -27.7720096,
+    "lon": -65.5892967,
+    "aproximada": false,
+    "nombre": "SANTA TERESITA",
+    "direccion": "SARMIENTO 69",
+    "localidad": "La Cocha"
+  },
+  "del milagro|alberdi 260|monteros": {
+    "lat": -27.1696831,
+    "lon": -65.4994052,
+    "aproximada": false,
+    "nombre": "DEL MILAGRO",
+    "direccion": "ALBERDI 260",
+    "localidad": "Monteros"
+  },
+  "pacara|ernesto padilla180|monteros": {
+    "lat": -27.1760457,
+    "lon": -65.5100907,
+    "aproximada": true,
+    "nombre": "PACARA",
+    "direccion": "Ernesto Padilla180",
+    "localidad": "Monteros"
+  },
+  "del ahorro|av ejercito del norte 2695 loc 2|san miguel de tucuman": {
+    "lat": -26.8228059,
+    "lon": -65.2316869,
+    "aproximada": false,
+    "nombre": "DEL AHORRO",
+    "direccion": "Av. Ejercito del Norte 2695 - Loc. 2",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "munecas|congreso 1088|san miguel de tucuman": {
+    "lat": -26.8461938,
+    "lon": -65.20667,
+    "aproximada": false,
+    "nombre": "MUÑECAS",
+    "direccion": "Congreso 1088",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "ramis|mendoza 2525|san miguel de tucuman": {
+    "lat": -26.818146,
+    "lon": -65.2512603,
+    "aproximada": false,
+    "nombre": "RAMIS",
+    "direccion": "Mendoza 2525",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "santa rosa|av republica del libano 1954|san miguel de tucuman": {
+    "lat": -26.7989759,
+    "lon": -65.2113678,
+    "aproximada": false,
+    "nombre": "SANTA ROSA",
+    "direccion": "Av. Republica del Líbano 1954",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "pueyrredon|pueyrredon 2062|san miguel de tucuman": {
+    "lat": -26.8357188,
+    "lon": -65.2384519,
+    "aproximada": false,
+    "nombre": "PUEYRREDON",
+    "direccion": "Pueyrredon 2062",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del pueblo juan b justo|av juan b justo 1361|san miguel de tucuman": {
+    "lat": -26.8009386,
+    "lon": -65.1895137,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO JUAN B. JUSTO",
+    "direccion": "Av. Juan B. Justo 1361",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "susy|av republica del libano 1405|san miguel de tucuman": {
+    "lat": -26.8159046,
+    "lon": -65.2154612,
+    "aproximada": false,
+    "nombre": "SUSY",
+    "direccion": "AV, REPUBLICA DEL LIBANO 1405",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "alba|av sarmiento 955|san miguel de tucuman": {
+    "lat": -26.8171947,
+    "lon": -65.2085429,
+    "aproximada": false,
+    "nombre": "ALBA",
+    "direccion": "Av. Sarmiento 955",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "la nueva magistral|congreso 801|tafi viejo": {
+    "lat": -26.7364992,
+    "lon": -65.2567311,
+    "aproximada": false,
+    "nombre": "LA NUEVA MAGISTRAL",
+    "direccion": "Congreso 801",
+    "localidad": "Tafí Viejo"
+  },
+  "cristo rey v|boulevar 9 de julio 1200|yerba buena": {
+    "lat": -26.8204516,
+    "lon": -65.283262,
+    "aproximada": false,
+    "nombre": "CRISTO REY V",
+    "direccion": "Boulevar 9 de julio 1200",
+    "localidad": "Yerba Buena"
+  },
+  "plazoleta lobo de la vega|lobo de la vega 1090|yerba buena": {
+    "lat": -26.8030784,
+    "lon": -65.2932709,
+    "aproximada": false,
+    "nombre": "PLAZOLETA LOBO DE LA VEGA",
+    "direccion": "LOBO DE LA VEGA 1090",
+    "localidad": "Yerba Buena"
+  },
+  "san isidro|juan luis nogues 98|lules": {
+    "lat": -26.924948,
+    "lon": -65.333527,
+    "aproximada": false,
+    "nombre": "SAN ISIDRO",
+    "direccion": "Juan Luis Nogués 98",
+    "localidad": "Lules"
+  },
+  "namuncura 3|ruta 315 km 8 5|villa carmela": {
+    "lat": -26.769689,
+    "lon": -65.274012,
+    "aproximada": false,
+    "nombre": "NAMUNCURA 3",
+    "direccion": "Ruta 315, Km 8.5",
+    "localidad": "Villa Carmela"
+  }
+}
