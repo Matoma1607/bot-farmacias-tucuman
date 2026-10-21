@@ -198,5 +198,181 @@
     "nombre": "NAMUNCURA 3",
     "direccion": "Ruta 315, Km 8.5",
     "localidad": "Villa Carmela"
+  },
+  "san nicolas ii|juan xxiii 391|bella vista": {
+    "lat": -27.0248949,
+    "lon": -65.3020022,
+    "aproximada": false,
+    "nombre": "SAN NICOLAS II",
+    "direccion": "Juan XXIII 391",
+    "localidad": "Bella Vista"
+  },
+  "boero|roca y haimes|concepcion": {
+    "lat": -27.3439187,
+    "lon": -65.5903444,
+    "aproximada": true,
+    "nombre": "BOERO",
+    "direccion": "ROCA Y HAIMES",
+    "localidad": "Concepción"
+  },
+  "san jose|san martin esq rivadavia|famailla": {
+    "lat": -27.0598673,
+    "lon": -65.4079037,
+    "aproximada": true,
+    "nombre": "SAN JOSE",
+    "direccion": "SAN MARTIN esq. RIVADAVIA",
+    "localidad": "Famaillá"
+  },
+  "espeche|av sarmiento 565|juan bautista alberdi": {
+    "lat": -27.5882206,
+    "lon": -65.6193931,
+    "aproximada": false,
+    "nombre": "ESPECHE",
+    "direccion": "AV. SARMIENTO 565",
+    "localidad": "Juan Bautista Alberdi"
+  },
+  "san ignacio|av campero 278|juan bautista alberdi": {
+    "lat": -27.585226,
+    "lon": -65.61837,
+    "aproximada": false,
+    "nombre": "SAN IGNACIO",
+    "direccion": "AV CAMPERO 278",
+    "localidad": "Juan Bautista Alberdi"
+  },
+  "malpes|rivadavia 287|la cocha": {
+    "lat": -27.7681903,
+    "lon": -65.5888839,
+    "aproximada": false,
+    "nombre": "MALPES",
+    "direccion": "RIVADAVIA 287",
+    "localidad": "La Cocha"
+  },
+  "de la rosa este|camino del carmen|lastenia": {
+    "lat": -26.8540832,
+    "lon": -65.1619024,
+    "aproximada": false,
+    "nombre": "DE LA ROSA ESTE",
+    "direccion": "Camino del Carmen",
+    "localidad": "Lastenia"
+  },
+  "santa rita|san martin 89|lules": {
+    "lat": -26.9247639,
+    "lon": -65.3375897,
+    "aproximada": false,
+    "nombre": "SANTA RITA",
+    "direccion": "SAN MARTIN 89",
+    "localidad": "Lules"
+  },
+  "yurina|san martin 672|monteros": {
+    "lat": -27.1731401,
+    "lon": -65.503576,
+    "aproximada": false,
+    "nombre": "YURINA",
+    "direccion": "SAN MARTIN 672",
+    "localidad": "Monteros"
+  },
+  "monzon|monzon 203 esq crisostomo alvarez|monteros": {
+    "lat": -27.1655201,
+    "lon": -65.5031109,
+    "aproximada": true,
+    "nombre": "MONZON",
+    "direccion": "Monzon 203 - Esq. Crisostomo Alvarez",
+    "localidad": "Monteros"
+  },
+  "del pueblo urquiza|25 de mayo 791|san miguel de tucuman": {
+    "lat": -26.8204108,
+    "lon": -65.2021275,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO URQUIZA",
+    "direccion": "25 de Mayo 791",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "plazoleta las heras|las heras 702|san miguel de tucuman": {
+    "lat": -26.8411868,
+    "lon": -65.2038981,
+    "aproximada": false,
+    "nombre": "PLAZOLETA LAS HERAS",
+    "direccion": "LAS HERAS 702",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "el nogal|av mitre 448|san miguel de tucuman": {
+    "lat": -26.8217589,
+    "lon": -65.2171052,
+    "aproximada": false,
+    "nombre": "EL NOGAL",
+    "direccion": "Av. Mitre 448",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "plazoleta belgrano|av belgrano 1625|san miguel de tucuman": {
+    "lat": -26.8150418,
+    "lon": -65.2186574,
+    "aproximada": false,
+    "nombre": "PLAZOLETA BELGRANO",
+    "direccion": "Av.Belgrano 1625",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "todofarma|las piedras 1218|san miguel de tucuman": {
+    "lat": -26.8330603,
+    "lon": -65.2170516,
+    "aproximada": false,
+    "nombre": "TODOFARMA",
+    "direccion": "Las Piedras 1218",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "malaga|av sarmiento 87|san miguel de tucuman": {
+    "lat": -26.8196807,
+    "lon": -65.1956046,
+    "aproximada": false,
+    "nombre": "MALAGA",
+    "direccion": "Av. Sarmiento 87",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "valentina|bolivar 1845|san miguel de tucuman": {
+    "lat": -26.8345557,
+    "lon": -65.2379171,
+    "aproximada": false,
+    "nombre": "VALENTINA",
+    "direccion": "Bolivar 1845",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "alem s c s|av alem 1021|san miguel de tucuman": {
+    "lat": -26.8422221,
+    "lon": -65.2221039,
+    "aproximada": false,
+    "nombre": "ALEM S.C.S.",
+    "direccion": "Av. Alem 1021",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "sagrado corazon|25 de mayo 362|simoca": {
+    "lat": -27.2636434,
+    "lon": -65.3570408,
+    "aproximada": false,
+    "nombre": "SAGRADO CORAZON",
+    "direccion": "25 DE MAYO 362",
+    "localidad": "Simoca"
+  },
+  "25 de mayo|25 de mayo 120|simoca": {
+    "lat": -27.2620321,
+    "lon": -65.3681101,
+    "aproximada": false,
+    "nombre": "25 DE MAYO",
+    "direccion": "25 de Mayo 120",
+    "localidad": "Simoca"
+  },
+  "san sebastian|laprida 582|tafi viejo": {
+    "lat": -26.7228843,
+    "lon": -65.2536382,
+    "aproximada": false,
+    "nombre": "SAN SEBASTIAN",
+    "direccion": "Laprida 582",
+    "localidad": "Tafí Viejo"
+  },
+  "cristo rey i|av aconquija 811 loc 3 y 4|yerba buena": {
+    "lat": -26.8159379,
+    "lon": -65.2773551,
+    "aproximada": false,
+    "nombre": "CRISTO REY I",
+    "direccion": "Av. Aconquija 811 - Loc. 3 y 4",
+    "localidad": "Yerba Buena"
   }
 }
