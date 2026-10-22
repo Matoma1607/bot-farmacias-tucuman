@@ -374,5 +374,125 @@
     "nombre": "CRISTO REY I",
     "direccion": "Av. Aconquija 811 - Loc. 3 y 4",
     "localidad": "Yerba Buena"
+  },
+  "ntra sra del carmen|av mitre 576|aguilares": {
+    "lat": -27.4321097,
+    "lon": -65.6137236,
+    "aproximada": false,
+    "nombre": "NTRA.SRA. DEL CARMEN",
+    "direccion": "AV. MITRE 576",
+    "localidad": "Aguilares"
+  },
+  "san martin|san martin 270|bella vista": {
+    "lat": -27.0306521,
+    "lon": -65.3083836,
+    "aproximada": false,
+    "nombre": "SAN MARTIN",
+    "direccion": "SAN MARTIN 270",
+    "localidad": "Bella Vista"
+  },
+  "madras|italia esq roca|concepcion": {
+    "lat": -27.3421104,
+    "lon": -65.6005483,
+    "aproximada": true,
+    "nombre": "MADRAS",
+    "direccion": "Italia Esq. Roca",
+    "localidad": "Concepción"
+  },
+  "sirga|camino de sirga y san martin local 6 y 7|el manantial": {
+    "lat": -26.8341875,
+    "lon": -65.3001415,
+    "aproximada": true,
+    "nombre": "SIRGA",
+    "direccion": "Camino de Sirga y San Martín local 6 y 7",
+    "localidad": "El Manantial"
+  },
+  "ntra sra de fatima|av san martin y pedro riera|famailla": {
+    "lat": -27.0536072,
+    "lon": -65.3922191,
+    "aproximada": true,
+    "nombre": "NTRA. SRA. DE FATIMA",
+    "direccion": "AV. SAN MARTIN Y PEDRO RIERA",
+    "localidad": "Famaillá"
+  },
+  "las marias|lucas cordoba 62|juan bautista alberdi": {
+    "lat": -27.5840941,
+    "lon": -65.6177891,
+    "aproximada": false,
+    "nombre": "LAS MARIAS",
+    "direccion": "Lucas Cordoba 62",
+    "localidad": "Juan Bautista Alberdi"
+  },
+  "robles centro|lidoro quinteros 582|juan bautista alberdi": {
+    "lat": -27.5855028,
+    "lon": -65.6135692,
+    "aproximada": false,
+    "nombre": "ROBLES CENTRO",
+    "direccion": "LIDORO QUINTEROS 582",
+    "localidad": "Juan Bautista Alberdi"
+  },
+  "9 de julio|9 de julio 278|lules": {
+    "lat": -26.9256165,
+    "lon": -65.3368682,
+    "aproximada": false,
+    "nombre": "9 DE JULIO",
+    "direccion": "9 DE JULIO 278",
+    "localidad": "Lules"
+  },
+  "san carlos|ayacucho 897|monteros": {
+    "lat": -27.1729254,
+    "lon": -65.5111892,
+    "aproximada": false,
+    "nombre": "SAN CARLOS",
+    "direccion": "AYACUCHO 897",
+    "localidad": "Monteros"
+  },
+  "cristo rey|25 de mayo 361|monteros": {
+    "lat": -27.1616857,
+    "lon": -65.5061631,
+    "aproximada": false,
+    "nombre": "CRISTO REY",
+    "direccion": "25 DE MAYO 361",
+    "localidad": "Monteros"
+  },
+  "echeverria|necochea 2168|san miguel de tucuman": {
+    "lat": -26.8185749,
+    "lon": -65.2369182,
+    "aproximada": false,
+    "nombre": "ECHEVERRIA",
+    "direccion": "Necochea 2168",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "feput|bo feput|san miguel de tucuman": {
+    "lat": -26.8303703,
+    "lon": -65.2038133,
+    "aproximada": false,
+    "nombre": "FEPUT",
+    "direccion": "Bº FEPUT",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "catedral ii|san martin 565|lamadrid": {
+    "lat": -27.6495127,
+    "lon": -65.2459803,
+    "aproximada": false,
+    "nombre": "CATEDRAL II",
+    "direccion": "San Martin 565",
+    "localidad": "Lamadrid"
+  },
+  "berny|pedro de villalba 498|yerba buena": {
+    "lat": -26.8130324,
+    "lon": -65.271623,
+    "aproximada": false,
+    "nombre": "BERNY",
+    "direccion": "Pedro de Villalba 498",
+    "localidad": "Yerba Buena"
+  },
+  "calcagno yerba buena|lamadrid 1031|yerba buena": {
+    "lat": -26.8234239,
+    "lon": -65.2761451,
+    "aproximada": false,
+    "nombre": "CALCAGNO YERBA BUENA",
+    "direccion": "Lamadrid 1031",
+    "localidad": "Yerba Buena"
   }
 }

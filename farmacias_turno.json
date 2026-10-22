@@ -1,175 +1,143 @@
 {
-  "fecha": "21/10/2026",
+  "fecha": "22/10/2026",
   "turno": "de 08:00 de ese dia a 08:00 del dia siguiente",
   "fuente": "https://cofatuc.org.ar/farmacias-de-turno/",
-  "actualizado": "21/10/2026 17:59",
+  "actualizado": "22/10/2026 11:11",
   "localidades": {
     "Aguilares": [
       {
-        "nombre": "DEL BARRIO",
-        "telefono": "03865 - 481026",
-        "direccion": "Alsina S/Nº entre 20 de Junio y 24 de Septiembre"
-      }
-    ],
-    "Alderetes": [
-      {
-        "nombre": "SAN FRANCISCO",
-        "telefono": "4940499",
-        "direccion": "Ruta 304 - KM 6.5 S/N"
+        "nombre": "NTRA.SRA. DEL CARMEN",
+        "telefono": "03865 - 481579",
+        "direccion": "AV. MITRE 576"
       }
     ],
     "Bella Vista": [
       {
-        "nombre": "SAN NICOLAS II",
-        "telefono": "3816375174",
-        "direccion": "Juan XXIII 391"
+        "nombre": "SAN MARTIN",
+        "telefono": "03814820155",
+        "direccion": "SAN MARTIN 270"
       }
     ],
     "Concepción": [
       {
-        "nombre": "BOERO",
-        "telefono": "03865421100",
-        "direccion": "ROCA Y HAIMES"
+        "nombre": "MADRAS",
+        "telefono": "03865 - 421889",
+        "direccion": "Italia Esq. Roca"
+      }
+    ],
+    "El Manantial": [
+      {
+        "nombre": "SIRGA",
+        "telefono": "4396719",
+        "direccion": "Camino de Sirga y San Martín local 6 y 7"
       }
     ],
     "Famaillá": [
       {
-        "nombre": "SAN JOSE",
-        "telefono": "3814177926",
-        "direccion": "SAN MARTIN esq. RIVADAVIA"
-      },
-      {
-        "nombre": "SALUD",
-        "telefono": "3816504925",
-        "direccion": "Av. Calchaquí 171"
+        "nombre": "NTRA. SRA. DE FATIMA",
+        "telefono": "",
+        "direccion": "AV. SAN MARTIN Y PEDRO RIERA"
       }
     ],
     "Juan Bautista Alberdi": [
       {
-        "nombre": "ESPECHE",
+        "nombre": "LAS MARIAS",
         "telefono": "",
-        "direccion": "AV. SARMIENTO 565"
+        "direccion": "Lucas Cordoba 62"
       },
       {
-        "nombre": "SAN IGNACIO",
-        "telefono": "",
-        "direccion": "AV CAMPERO 278"
-      }
-    ],
-    "La Cocha": [
-      {
-        "nombre": "MALPES",
-        "telefono": "",
-        "direccion": "RIVADAVIA 287"
-      }
-    ],
-    "Lastenia": [
-      {
-        "nombre": "DE LA ROSA ESTE",
-        "telefono": "4879881",
-        "direccion": "Camino del Carmen"
+        "nombre": "ROBLES CENTRO",
+        "telefono": "03865472965",
+        "direccion": "LIDORO QUINTEROS 582"
       }
     ],
     "Lules": [
       {
-        "nombre": "SANTA RITA",
-        "telefono": "03814811683",
-        "direccion": "SAN MARTIN 89"
+        "nombre": "9 DE JULIO",
+        "telefono": "03814811438",
+        "direccion": "9 DE JULIO 278"
       }
     ],
     "Monteros": [
       {
-        "nombre": "YURINA",
+        "nombre": "SAN CARLOS",
         "telefono": "",
-        "direccion": "SAN MARTIN 672"
+        "direccion": "AYACUCHO 897"
       },
       {
-        "nombre": "MONZON",
-        "telefono": "3863424911",
-        "direccion": "Monzon 203 - Esq. Crisostomo Alvarez"
+        "nombre": "CRISTO REY",
+        "telefono": "",
+        "direccion": "25 DE MAYO 361"
       }
     ],
     "San Miguel de Tucumán": [
       {
-        "nombre": "DEL PUEBLO URQUIZA",
+        "nombre": "ECHEVERRIA",
         "telefono": "",
-        "direccion": "25 de Mayo 791"
+        "direccion": "Necochea 2168"
       },
       {
-        "nombre": "PLAZOLETA LAS HERAS",
-        "telefono": "3815075820",
-        "direccion": "LAS HERAS 702"
-      },
+        "nombre": "FEPUT",
+        "telefono": "4505326",
+        "direccion": "Bº FEPUT"
+      }
+    ],
+    "Lamadrid": [
       {
-        "nombre": "EL NOGAL",
-        "telefono": "4398752",
-        "direccion": "Av. Mitre 448"
-      },
-      {
-        "nombre": "PLAZOLETA BELGRANO",
-        "telefono": "4238659",
-        "direccion": "Av.Belgrano 1625"
-      },
-      {
-        "nombre": "TODOFARMA",
-        "telefono": "4246541",
-        "direccion": "Las Piedras 1218"
-      },
-      {
-        "nombre": "MALAGA",
+        "nombre": "LIMAY",
         "telefono": "",
-        "direccion": "Av. Sarmiento 87"
+        "direccion": "Paraguay 4565"
       },
       {
-        "nombre": "VALENTINA",
-        "telefono": "2322949",
-        "direccion": "Bolivar 1845"
+        "nombre": "MARICEL",
+        "telefono": "4300092",
+        "direccion": "Junin 1280"
       },
       {
-        "nombre": "LA PAMPA SRL",
-        "telefono": "4391262",
-        "direccion": "Pje. Pampa 4025"
+        "nombre": "PRIMAVERA NORTE",
+        "telefono": "2326703",
+        "direccion": "Monteagudo 602"
       },
       {
-        "nombre": "ACCESO NORTE",
-        "telefono": "2543804",
-        "direccion": "Av. Rep. del Líbano 2501"
+        "nombre": "CATEDRAL II",
+        "telefono": "",
+        "direccion": "San Martin 565"
       },
       {
-        "nombre": "ALEM S.C.S.",
-        "telefono": "4362471",
-        "direccion": "Av. Alem 1021"
+        "nombre": "FARMACENTER",
+        "telefono": "154139389",
+        "direccion": "Av. Mate de Luna 2800"
+      },
+      {
+        "nombre": "PLAZOLETA ROCA",
+        "telefono": "3815865149",
+        "direccion": "Av. Nestor Kirchner 2310"
       }
     ],
     "Simoca": [
       {
-        "nombre": "SAGRADO CORAZON",
-        "telefono": "0381 - 481028",
-        "direccion": "25 DE MAYO 362"
-      },
-      {
-        "nombre": "25 DE MAYO",
-        "telefono": "03863-481059",
-        "direccion": "25 de Mayo 120"
+        "nombre": "SANTA CECILIA",
+        "telefono": "",
+        "direccion": "Av. Carlos Mario Burieque 76"
       }
     ],
     "Tafí Viejo": [
       {
-        "nombre": "SAN SEBASTIAN",
-        "telefono": "4156588",
-        "direccion": "Laprida 582"
-      },
-      {
-        "nombre": "PINAR STORE",
-        "telefono": "",
-        "direccion": "AV. CONSTITUCION 2400"
+        "nombre": "D ANDREA",
+        "telefono": "4616949",
+        "direccion": "Av. Saenz Peña 923"
       }
     ],
     "Yerba Buena": [
       {
-        "nombre": "CRISTO REY I",
-        "telefono": "4353024",
-        "direccion": "Av. Aconquija 811 - Loc. 3 y 4"
+        "nombre": "BERNY",
+        "telefono": "3813008310",
+        "direccion": "Pedro de Villalba 498"
+      },
+      {
+        "nombre": "CALCAGNO YERBA BUENA",
+        "telefono": "4258836",
+        "direccion": "Lamadrid 1031"
       }
     ]
   }
