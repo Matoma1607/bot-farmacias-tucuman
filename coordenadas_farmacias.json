@@ -494,5 +494,189 @@
     "nombre": "CALCAGNO YERBA BUENA",
     "direccion": "Lamadrid 1031",
     "localidad": "Yerba Buena"
+  },
+  "santa barbara|sarmiento y pellegrini|aguilares": {
+    "lat": -27.433028,
+    "lon": -65.6139773,
+    "aproximada": true,
+    "nombre": "SANTA BARBARA",
+    "direccion": "SARMIENTO Y PELLEGRINI",
+    "localidad": "Aguilares"
+  },
+  "san jorge|av fernando pedro riera 240|bella vista": {
+    "lat": -27.0316109,
+    "lon": -65.3037783,
+    "aproximada": false,
+    "nombre": "SAN JORGE",
+    "direccion": "AV.FERNANDO PEDRO RIERA 240",
+    "localidad": "Bella Vista"
+  },
+  "del sur|san martin y ruta nacional 38|concepcion": {
+    "lat": -27.3469001,
+    "lon": -65.586257,
+    "aproximada": true,
+    "nombre": "DEL SUR",
+    "direccion": "SAN MARTIN Y RUTA NACIONAL 38",
+    "localidad": "Concepción"
+  },
+  "san martin|san martin 1795|concepcion": {
+    "lat": -27.3431843,
+    "lon": -65.6051485,
+    "aproximada": false,
+    "nombre": "SAN MARTIN",
+    "direccion": "SAN MARTIN 1795",
+    "localidad": "Concepción"
+  },
+  "san ramon|b mitre 445|famailla": {
+    "lat": -27.0506804,
+    "lon": -65.4126012,
+    "aproximada": false,
+    "nombre": "SAN RAMON",
+    "direccion": "B. MITRE 445",
+    "localidad": "Famaillá"
+  },
+  "magnolias|azcuenaga 504|famailla": {
+    "lat": -27.0564017,
+    "lon": -65.4007307,
+    "aproximada": false,
+    "nombre": "MAGNOLIAS",
+    "direccion": "Azcuénaga 504",
+    "localidad": "Famaillá"
+  },
+  "avenida rosa mistica|av napoleon maranon esq 25 de mayo|juan bautista alberdi": {
+    "lat": -27.5842258,
+    "lon": -65.6207988,
+    "aproximada": true,
+    "nombre": "AVENIDA ROSA MISTICA",
+    "direccion": "Av. Napoleon Marañon esq. 25 de Mayo",
+    "localidad": "Juan Bautista Alberdi"
+  },
+  "belgrano|12 de octubre esq pje colon|juan bautista alberdi": {
+    "lat": -27.5944174,
+    "lon": -65.619228,
+    "aproximada": true,
+    "nombre": "BELGRANO",
+    "direccion": "12 de Octubre esq. Pje. Colon",
+    "localidad": "Juan Bautista Alberdi"
+  },
+  "independencia s h|san martin 93 bo centro|la cocha": {
+    "lat": -27.7654365,
+    "lon": -65.586801,
+    "aproximada": false,
+    "nombre": "INDEPENDENCIA S.H.",
+    "direccion": "San Martin 93 - Bº Centro",
+    "localidad": "La Cocha"
+  },
+  "santa rita|av eva peron 252|lastenia": {
+    "lat": -26.8625326,
+    "lon": -65.1598449,
+    "aproximada": false,
+    "nombre": "SANTA RITA",
+    "direccion": "Av. Eva Perón 252",
+    "localidad": "Lastenia"
+  },
+  "santa maria|belgrano 275|monteros": {
+    "lat": -27.1696088,
+    "lon": -65.4984572,
+    "aproximada": false,
+    "nombre": "SANTA MARIA",
+    "direccion": "Belgrano 275",
+    "localidad": "Monteros"
+  },
+  "favaloro|la rioja 383|san miguel de tucuman": {
+    "lat": -26.8344308,
+    "lon": -65.2137566,
+    "aproximada": false,
+    "nombre": "FAVALORO",
+    "direccion": "La Rioja 383",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "palihue|av ejercito del norte 290|san miguel de tucuman": {
+    "lat": -26.8207963,
+    "lon": -65.2314201,
+    "aproximada": false,
+    "nombre": "PALIHUE",
+    "direccion": "Av. Ejercito del Norte 290",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "san pedro|coronel zelaya 990|san miguel de tucuman": {
+    "lat": -26.8321546,
+    "lon": -65.2405721,
+    "aproximada": false,
+    "nombre": "SAN PEDRO",
+    "direccion": "Coronel Zelaya 990",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "san francisco solano|mejico 3910|san miguel de tucuman": {
+    "lat": -26.8003909,
+    "lon": -65.2155289,
+    "aproximada": false,
+    "nombre": "SAN FRANCISCO SOLANO",
+    "direccion": "Méjico 3910",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del pueblo roca|av roca 830|san miguel de tucuman": {
+    "lat": -26.8423432,
+    "lon": -65.21273,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO ROCA",
+    "direccion": "Av. Roca 830",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del pueblo esquina norte|av avellaneda 801|san miguel de tucuman": {
+    "lat": -26.8214307,
+    "lon": -65.1942472,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO ESQUINA NORTE",
+    "direccion": "Av. Avellaneda 801",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "bonfarma|monteagudo 506|san miguel de tucuman": {
+    "lat": -26.8249664,
+    "lon": -65.1987549,
+    "aproximada": false,
+    "nombre": "BONFARMA",
+    "direccion": "Monteagudo 506",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "san luis gonzaga|san martin 560|simoca": {
+    "lat": -27.2630435,
+    "lon": -65.3563999,
+    "aproximada": false,
+    "nombre": "SAN LUIS GONZAGA",
+    "direccion": "SAN MARTIN 560",
+    "localidad": "Simoca"
+  },
+  "lalu|sargento cabral 390|tafi viejo": {
+    "lat": -26.7247825,
+    "lon": -65.256809,
+    "aproximada": false,
+    "nombre": "LALU",
+    "direccion": "Sargento Cabral 390",
+    "localidad": "Tafí Viejo"
+  },
+  "roca|av roca 445|tafi viejo": {
+    "lat": -26.7428165,
+    "lon": -65.2577309,
+    "aproximada": false,
+    "nombre": "ROCA",
+    "direccion": "Av. Roca 445",
+    "localidad": "Tafí Viejo"
+  },
+  "santa maria|av aconquija 1915|yerba buena": {
+    "lat": -26.8124792,
+    "lon": -65.2972495,
+    "aproximada": false,
+    "nombre": "SANTA MARIA",
+    "direccion": "Av. Aconquija 1915",
+    "localidad": "Yerba Buena"
+  },
+  "rubis yerba buena|av pte peron 234|yerba buena": {
+    "lat": -26.774309,
+    "lon": -65.2749254,
+    "aproximada": false,
+    "nombre": "RUBIS YERBA BUENA",
+    "direccion": "Av. Pte. Perón 234",
+    "localidad": "Yerba Buena"
   }
 }
