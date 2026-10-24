@@ -1,158 +1,148 @@
 {
-  "fecha": "23/10/2026",
+  "fecha": "24/10/2026",
   "turno": "de 08:00 de ese dia a 08:00 del dia siguiente",
   "fuente": "https://cofatuc.org.ar/farmacias-de-turno/",
-  "actualizado": "23/10/2026 17:50",
+  "actualizado": "24/10/2026 11:11",
   "localidades": {
     "Aguilares": [
       {
-        "nombre": "SANTA BARBARA",
-        "telefono": "03865-481126",
-        "direccion": "SARMIENTO Y PELLEGRINI"
+        "nombre": "DEL BARRIO 1º DE MAYO",
+        "telefono": "",
+        "direccion": "Alberdi 418"
+      }
+    ],
+    "Banda del Río Salí": [
+      {
+        "nombre": "FARMASERVIS S.R.L.",
+        "telefono": "",
+        "direccion": "Av. San Martin 162"
       }
     ],
     "Bella Vista": [
       {
-        "nombre": "SAN JORGE",
-        "telefono": "03814820597",
-        "direccion": "AV.FERNANDO PEDRO RIERA 240"
+        "nombre": "PAOLA",
+        "telefono": "03814820354",
+        "direccion": "GARCIA FERNANDEZ 239"
       }
     ],
     "Concepción": [
       {
-        "nombre": "DEL SUR",
-        "telefono": "03865421275",
-        "direccion": "SAN MARTIN Y RUTA NACIONAL 38"
-      },
-      {
-        "nombre": "SAN MARTIN",
-        "telefono": "03865421035",
-        "direccion": "SAN MARTIN 1795"
+        "nombre": "SAN LUCAS",
+        "telefono": "0381-156102602",
+        "direccion": "SAN MARTIN 1523"
       }
     ],
     "Famaillá": [
       {
-        "nombre": "SAN RAMON",
+        "nombre": "SAN JUAN",
         "telefono": "",
-        "direccion": "B. MITRE 445"
+        "direccion": "San Martin 349"
       },
       {
-        "nombre": "MAGNOLIAS",
-        "telefono": "3813584428",
-        "direccion": "Azcuénaga 504"
+        "nombre": "SAN NICOLAS",
+        "telefono": "3815074175",
+        "direccion": "Bartolomé Mitre al 600"
       }
     ],
     "Juan Bautista Alberdi": [
       {
-        "nombre": "AVENIDA ROSA MISTICA",
+        "nombre": "VASOVI SCS",
         "telefono": "",
-        "direccion": "Av. Napoleon Marañon esq. 25 de Mayo"
+        "direccion": "CAMPERO 514"
       },
       {
-        "nombre": "BELGRANO",
-        "telefono": "",
-        "direccion": "12 de Octubre esq. Pje. Colon"
+        "nombre": "MARIA ROSA MISTICA",
+        "telefono": "03865-471455",
+        "direccion": "AV.SARMIENTO 235"
       }
     ],
     "La Cocha": [
       {
-        "nombre": "INDEPENDENCIA S.H.",
-        "telefono": "03865-496013",
-        "direccion": "San Martin 93 - Bº Centro"
-      }
-    ],
-    "Lastenia": [
-      {
-        "nombre": "SANTA RITA",
-        "telefono": "4261945",
-        "direccion": "Av. Eva Perón 252"
+        "nombre": "SANTA TERESITA",
+        "telefono": "03865-496163",
+        "direccion": "SARMIENTO 69"
       }
     ],
     "Lules": [
       {
-        "nombre": "MARIA AUXILIADORA",
-        "telefono": "4812428",
-        "direccion": "Mariano Moreno S/N - loteo Altos de Aconquija - Lot. 15 - Mza. F - Loc. 3"
+        "nombre": "LIBERTAD",
+        "telefono": "03814811328",
+        "direccion": "LIBERTAD 165"
       }
     ],
     "Monteros": [
       {
-        "nombre": "SANTA MARIA",
-        "telefono": "03863 - 426538",
-        "direccion": "Belgrano 275"
+        "nombre": "ÑUÑORCO",
+        "telefono": "03863428681",
+        "direccion": "COLON 635"
       }
     ],
     "San Miguel de Tucumán": [
       {
-        "nombre": "AMERICANA",
-        "telefono": "4347778",
-        "direccion": "Av. Las Américas 1555"
+        "nombre": "SIGLO XXI",
+        "telefono": "03814201044",
+        "direccion": "AV.ALEM 258"
       },
       {
-        "nombre": "FAVALORO",
-        "telefono": "2559992",
-        "direccion": "La Rioja 383"
+        "nombre": "SAN JUDAS TADEO",
+        "telefono": "4309284",
+        "direccion": "Santiago 943"
       },
       {
-        "nombre": "PALIHUE",
-        "telefono": "4975409",
-        "direccion": "Av. Ejercito del Norte 290"
+        "nombre": "JERONIMO",
+        "telefono": "4312786",
+        "direccion": "Muñecas 1095"
       },
       {
-        "nombre": "SAN PEDRO",
-        "telefono": "4325715",
-        "direccion": "Coronel Zelaya 990"
+        "nombre": "PAULINO",
+        "telefono": "4523860",
+        "direccion": "Rondeau 519"
       },
       {
-        "nombre": "SAN FRANCISCO SOLANO",
-        "telefono": "4851266",
-        "direccion": "Méjico 3910"
-      },
-      {
-        "nombre": "DEL PUEBLO ROCA",
+        "nombre": "CASO",
         "telefono": "",
-        "direccion": "Av. Roca 830"
+        "direccion": "Av. Américo Vespucio 1551"
       },
       {
-        "nombre": "DEL PUEBLO ESQUINA NORTE",
+        "nombre": "DARUICH TRES",
         "telefono": "",
-        "direccion": "Av. Avellaneda 801"
+        "direccion": "AV. BELGRANO 1849"
       },
       {
-        "nombre": "BONFARMA",
-        "telefono": "4211434",
-        "direccion": "Monteagudo 506"
+        "nombre": "RAFAEL",
+        "telefono": "2550185",
+        "direccion": "Lamadrid 2470"
+      },
+      {
+        "nombre": "MAGISTRAL",
+        "telefono": "2333775",
+        "direccion": "Mexico 2898"
       }
     ],
     "Simoca": [
       {
-        "nombre": "SAN LUIS GONZAGA",
-        "telefono": "3815333676",
-        "direccion": "SAN MARTIN 560"
+        "nombre": "NATIVA",
+        "telefono": "3812377763",
+        "direccion": "Av. Belgrano 150 - Loc. 1"
       }
     ],
     "Tafí Viejo": [
       {
-        "nombre": "LALU",
-        "telefono": "4618613",
-        "direccion": "Sargento Cabral 390"
-      },
-      {
-        "nombre": "ROCA",
-        "telefono": "4613236",
-        "direccion": "Av. Roca 445"
+        "nombre": "SAN GABRIEL",
+        "telefono": "4614624",
+        "direccion": "Belgrano 467"
       }
     ],
     "Yerba Buena": [
       {
-        "nombre": "SANTA MARIA",
-        "telefono": "2578316",
-        "direccion": "Av. Aconquija 1915"
+        "nombre": "CRISTO REY II",
+        "telefono": "4858034",
+        "direccion": "Av. Pte. Perón 1800"
       },
       {
-        "nombre": "RUBIS YERBA BUENA",
-        "telefono": "",
-        "direccion": "Av. Pte. Perón 234"
+        "nombre": "FARMADOT",
+        "telefono": "4351378",
+        "direccion": "Boulevard 9 de Julio 659"
       }
     ]
   }

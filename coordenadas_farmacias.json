@@ -678,5 +678,181 @@
     "nombre": "RUBIS YERBA BUENA",
     "direccion": "Av. Pte. Perón 234",
     "localidad": "Yerba Buena"
+  },
+  "del barrio 1o de mayo|alberdi 418|aguilares": {
+    "lat": -27.4257384,
+    "lon": -65.6163794,
+    "aproximada": false,
+    "nombre": "DEL BARRIO 1º DE MAYO",
+    "direccion": "Alberdi 418",
+    "localidad": "Aguilares"
+  },
+  "farmaservis s r l|av san martin 162|banda del rio sali": {
+    "lat": -26.8384658,
+    "lon": -65.1663855,
+    "aproximada": false,
+    "nombre": "FARMASERVIS S.R.L.",
+    "direccion": "Av. San Martin 162",
+    "localidad": "Banda del Río Salí"
+  },
+  "paola|garcia fernandez 239|bella vista": {
+    "lat": -27.031415,
+    "lon": -65.30466,
+    "aproximada": false,
+    "nombre": "PAOLA",
+    "direccion": "GARCIA FERNANDEZ 239",
+    "localidad": "Bella Vista"
+  },
+  "san lucas|san martin 1523|concepcion": {
+    "lat": -27.3452793,
+    "lon": -65.5934179,
+    "aproximada": false,
+    "nombre": "SAN LUCAS",
+    "direccion": "SAN MARTIN 1523",
+    "localidad": "Concepción"
+  },
+  "san juan|san martin 349|famailla": {
+    "lat": -27.0467166,
+    "lon": -65.3997841,
+    "aproximada": false,
+    "nombre": "SAN JUAN",
+    "direccion": "San Martin 349",
+    "localidad": "Famaillá"
+  },
+  "san nicolas|bartolome mitre al 600|famailla": {
+    "lat": -27.0506804,
+    "lon": -65.4126012,
+    "aproximada": false,
+    "nombre": "SAN NICOLAS",
+    "direccion": "Bartolomé Mitre al 600",
+    "localidad": "Famaillá"
+  },
+  "vasovi scs|campero 514|juan bautista alberdi": {
+    "lat": -27.5864711,
+    "lon": -65.6175988,
+    "aproximada": false,
+    "nombre": "VASOVI SCS",
+    "direccion": "CAMPERO 514",
+    "localidad": "Juan Bautista Alberdi"
+  },
+  "maria rosa mistica|av sarmiento 235|juan bautista alberdi": {
+    "lat": -27.5882206,
+    "lon": -65.6193931,
+    "aproximada": false,
+    "nombre": "MARIA ROSA MISTICA",
+    "direccion": "AV.SARMIENTO 235",
+    "localidad": "Juan Bautista Alberdi"
+  },
+  "libertad|libertad 165|lules": {
+    "lat": -26.9267883,
+    "lon": -65.3387833,
+    "aproximada": false,
+    "nombre": "LIBERTAD",
+    "direccion": "LIBERTAD 165",
+    "localidad": "Lules"
+  },
+  "nunorco|colon 635|monteros": {
+    "lat": -27.1727999,
+    "lon": -65.5030039,
+    "aproximada": false,
+    "nombre": "ÑUÑORCO",
+    "direccion": "COLON 635",
+    "localidad": "Monteros"
+  },
+  "siglo xxi|av alem 258|san miguel de tucuman": {
+    "lat": -26.8318722,
+    "lon": -65.2192924,
+    "aproximada": false,
+    "nombre": "SIGLO XXI",
+    "direccion": "AV.ALEM 258",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "san judas tadeo|santiago 943|san miguel de tucuman": {
+    "lat": -26.8226875,
+    "lon": -65.2097982,
+    "aproximada": false,
+    "nombre": "SAN JUDAS TADEO",
+    "direccion": "Santiago 943",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "jeronimo|munecas 1095|san miguel de tucuman": {
+    "lat": -26.8153894,
+    "lon": -65.2025043,
+    "aproximada": false,
+    "nombre": "JERONIMO",
+    "direccion": "Muñecas 1095",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "paulino|rondeau 519|san miguel de tucuman": {
+    "lat": -26.841695,
+    "lon": -65.2078237,
+    "aproximada": false,
+    "nombre": "PAULINO",
+    "direccion": "Rondeau 519",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "caso|av americo vespucio 1551|san miguel de tucuman": {
+    "lat": -26.8574656,
+    "lon": -65.2145782,
+    "aproximada": false,
+    "nombre": "CASO",
+    "direccion": "Av. Américo Vespucio 1551",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "daruich tres|av belgrano 1849|san miguel de tucuman": {
+    "lat": -26.8110673,
+    "lon": -65.2401186,
+    "aproximada": false,
+    "nombre": "DARUICH TRES",
+    "direccion": "AV. BELGRANO 1849",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "rafael|lamadrid 2470|san miguel de tucuman": {
+    "lat": -26.8313387,
+    "lon": -65.2369468,
+    "aproximada": false,
+    "nombre": "RAFAEL",
+    "direccion": "Lamadrid 2470",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "magistral|mexico 2898|san miguel de tucuman": {
+    "lat": -26.8044226,
+    "lon": -65.1944349,
+    "aproximada": false,
+    "nombre": "MAGISTRAL",
+    "direccion": "Mexico 2898",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "nativa|av belgrano 150 loc 1|simoca": {
+    "lat": -27.2657598,
+    "lon": -65.359,
+    "aproximada": false,
+    "nombre": "NATIVA",
+    "direccion": "Av. Belgrano 150 - Loc. 1",
+    "localidad": "Simoca"
+  },
+  "san gabriel|belgrano 467|tafi viejo": {
+    "lat": -26.7333291,
+    "lon": -65.2596434,
+    "aproximada": false,
+    "nombre": "SAN GABRIEL",
+    "direccion": "Belgrano 467",
+    "localidad": "Tafí Viejo"
+  },
+  "cristo rey ii|av pte peron 1800|yerba buena": {
+    "lat": -26.774309,
+    "lon": -65.2749254,
+    "aproximada": false,
+    "nombre": "CRISTO REY II",
+    "direccion": "Av. Pte. Perón 1800",
+    "localidad": "Yerba Buena"
+  },
+  "farmadot|boulevard 9 de julio 659|yerba buena": {
+    "lat": -26.8204516,
+    "lon": -65.283262,
+    "aproximada": false,
+    "nombre": "FARMADOT",
+    "direccion": "Boulevard 9 de Julio 659",
+    "localidad": "Yerba Buena"
   }
 }
