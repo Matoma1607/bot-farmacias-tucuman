@@ -1046,5 +1046,197 @@
     "nombre": "FARMACENTER YERBA BUENA",
     "direccion": "Av. Aconquija 598 - Loc. 14",
     "localidad": "Yerba Buena"
+  },
+  "cordoba|av sarmiento 621|aguilares": {
+    "lat": -27.4275576,
+    "lon": -65.6144587,
+    "aproximada": false,
+    "nombre": "CORDOBA",
+    "direccion": "AV. SARMIENTO 621",
+    "localidad": "Aguilares"
+  },
+  "las salinas centro|av rivadavia 500|alderetes": {
+    "lat": -26.8193712,
+    "lon": -65.1446959,
+    "aproximada": false,
+    "nombre": "LAS SALINAS CENTRO",
+    "direccion": "Av. Rivadavia 500",
+    "localidad": "Alderetes"
+  },
+  "farmacon|av monsenor diaz 271|banda del rio sali": {
+    "lat": -26.8412422,
+    "lon": -65.1583774,
+    "aproximada": false,
+    "nombre": "FARMACON",
+    "direccion": "Av. Monseñor Diaz 271",
+    "localidad": "Banda del Río Salí"
+  },
+  "beti|san martin 1289|concepcion": {
+    "lat": -27.3451484,
+    "lon": -65.5947049,
+    "aproximada": false,
+    "nombre": "BETI",
+    "direccion": "San Martin 1289",
+    "localidad": "Concepción"
+  },
+  "amado|bernabe araoz 235|el manantial": {
+    "lat": -26.8473182,
+    "lon": -65.282931,
+    "aproximada": false,
+    "nombre": "AMADO",
+    "direccion": "Bernabé Araoz 235",
+    "localidad": "El Manantial"
+  },
+  "renacer|av alem 700|famailla": {
+    "lat": -27.0521513,
+    "lon": -65.3943716,
+    "aproximada": false,
+    "nombre": "RENACER",
+    "direccion": "Av. Alem 700",
+    "localidad": "Famaillá"
+  },
+  "los alisos|laprida 185|famailla": {
+    "lat": -27.0563269,
+    "lon": -65.4022119,
+    "aproximada": false,
+    "nombre": "LOS ALISOS",
+    "direccion": "LAPRIDA 185",
+    "localidad": "Famaillá"
+  },
+  "san antonio|alem 710|juan bautista alberdi": {
+    "lat": -27.5864934,
+    "lon": -65.6220578,
+    "aproximada": false,
+    "nombre": "SAN ANTONIO",
+    "direccion": "ALEM 710",
+    "localidad": "Juan Bautista Alberdi"
+  },
+  "virgen del valle|catamarca 276|juan bautista alberdi": {
+    "lat": -27.5914353,
+    "lon": -65.6208054,
+    "aproximada": false,
+    "nombre": "VIRGEN DEL VALLE",
+    "direccion": "Catamarca 276",
+    "localidad": "Juan Bautista Alberdi"
+  },
+  "herminia|bo sta rosa|las talitas": {
+    "lat": -26.7769069,
+    "lon": -65.2036892,
+    "aproximada": false,
+    "nombre": "HERMINIA",
+    "direccion": "Bº. Sta. Rosa",
+    "localidad": "Las Talitas"
+  },
+  "central|9 de julio 258|lules": {
+    "lat": -26.845733,
+    "lon": -65.280723,
+    "aproximada": false,
+    "nombre": "CENTRAL",
+    "direccion": "9 DE JULIO 258",
+    "localidad": "Lules"
+  },
+  "nueva santa teresita|tucuman 138|monteros": {
+    "lat": -27.1646673,
+    "lon": -65.494578,
+    "aproximada": false,
+    "nombre": "NUEVA SANTA TERESITA",
+    "direccion": "Tucumán 138",
+    "localidad": "Monteros"
+  },
+  "althea|24 de septiembre 825|monteros": {
+    "lat": -27.1607812,
+    "lon": -65.502301,
+    "aproximada": false,
+    "nombre": "ALTHEA",
+    "direccion": "24 DE SEPTIEMBRE 825",
+    "localidad": "Monteros"
+  },
+  "barrio oeste ii|belisario roldan 1211|san miguel de tucuman": {
+    "lat": -26.8021431,
+    "lon": -65.2527194,
+    "aproximada": false,
+    "nombre": "BARRIO OESTE II",
+    "direccion": "Belisario Roldan 1211",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "namuncura jbj|av juan b justo 1809|san miguel de tucuman": {
+    "lat": -26.8193842,
+    "lon": -65.1938847,
+    "aproximada": false,
+    "nombre": "NAMUNCURA JBJ",
+    "direccion": "AV JUAN B JUSTO 1809",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "ntra senora de lourdes|ramirez de velazco 3175|san miguel de tucuman": {
+    "lat": -26.7920548,
+    "lon": -65.2377341,
+    "aproximada": false,
+    "nombre": "NTRA SEÑORA DE LOURDES",
+    "direccion": "Ramirez de Velazco 3175",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "nueva|lavalle 999|san miguel de tucuman": {
+    "lat": -26.8372603,
+    "lon": -65.2142927,
+    "aproximada": false,
+    "nombre": "NUEVA",
+    "direccion": "Lavalle 999",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "paris s f t|balcarce 473|san miguel de tucuman": {
+    "lat": -26.8256318,
+    "lon": -65.1971563,
+    "aproximada": false,
+    "nombre": "PARIS S.F.T.",
+    "direccion": "Balcarce 473",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "jenoa|jujuy 3800|san miguel de tucuman": {
+    "lat": -26.8384663,
+    "lon": -65.2130703,
+    "aproximada": false,
+    "nombre": "JENOA",
+    "direccion": "Jujuy 3800",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "silva|25 de mayo y belgrano|simoca": {
+    "lat": -27.2620321,
+    "lon": -65.3681101,
+    "aproximada": true,
+    "nombre": "SILVA",
+    "direccion": "25 de Mayo y Belgrano",
+    "localidad": "Simoca"
+  },
+  "dp tafi viejo|av alem 568|tafi viejo": {
+    "lat": -26.7299239,
+    "lon": -65.2612165,
+    "aproximada": false,
+    "nombre": "DP TAFI VIEJO",
+    "direccion": "Av. Alem 568",
+    "localidad": "Tafí Viejo"
+  },
+  "araucaria|bo 188 viviendas mza d c 30|villa carmela": {
+    "lat": -26.7697034,
+    "lon": -65.2740084,
+    "aproximada": false,
+    "nombre": "ARAUCARIA",
+    "direccion": "Bº 188 Viviendas - Mza. D - C. 30",
+    "localidad": "Villa Carmela"
+  },
+  "cristo rey iv|av solano vera esq las lanzas|yerba buena": {
+    "lat": -26.8176088,
+    "lon": -65.3032806,
+    "aproximada": true,
+    "nombre": "CRISTO REY IV",
+    "direccion": "Av. Solano Vera esq. Las Lanzas",
+    "localidad": "Yerba Buena"
+  },
+  "del pueblo del solar|anzorena 61|yerba buena": {
+    "lat": -26.8147284,
+    "lon": -65.2892187,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO DEL SOLAR",
+    "direccion": "Anzorena 61",
+    "localidad": "Yerba Buena"
   }
 }
