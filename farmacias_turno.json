@@ -2,7 +2,7 @@
   "fecha": "26/10/2026",
   "turno": "de 08:00 de ese dia a 08:00 del dia siguiente",
   "fuente": "https://cofatuc.org.ar/farmacias-de-turno/",
-  "actualizado": "26/10/2026 11:11",
+  "actualizado": "26/10/2026 17:21",
   "localidades": {
     "Aguilares": [
       {
@@ -80,7 +80,7 @@
     "Lules": [
       {
         "nombre": "CENTRAL",
-        "telefono": "3814743116",
+        "telefono": "",
         "direccion": "9 DE JULIO 258"
       }
     ],
