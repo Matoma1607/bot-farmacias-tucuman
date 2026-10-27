@@ -1238,5 +1238,165 @@
     "nombre": "DEL PUEBLO DEL SOLAR",
     "direccion": "Anzorena 61",
     "localidad": "Yerba Buena"
+  },
+  "santo cristo 2003|av sto cristo 585|banda del rio sali": {
+    "lat": -26.8425612,
+    "lon": -65.1592427,
+    "aproximada": false,
+    "nombre": "SANTO CRISTO 2003",
+    "direccion": "Av. Sto. Cristo 585",
+    "localidad": "Banda del Río Salí"
+  },
+  "nasif|juangorena 1494|concepcion": {
+    "lat": -27.3474463,
+    "lon": -65.5922991,
+    "aproximada": false,
+    "nombre": "NASIF",
+    "direccion": "Juangorena 1494",
+    "localidad": "Concepción"
+  },
+  "italiana|obispo colombres 2389|concepcion": {
+    "lat": -27.3434178,
+    "lon": -65.6096309,
+    "aproximada": false,
+    "nombre": "ITALIANA",
+    "direccion": "OBISPO COLOMBRES 2389",
+    "localidad": "Concepción"
+  },
+  "pereira|san martin 354|famailla": {
+    "lat": -27.0547414,
+    "lon": -65.4046094,
+    "aproximada": false,
+    "nombre": "PEREIRA",
+    "direccion": "SAN MARTIN 354",
+    "localidad": "Famaillá"
+  },
+  "union|sarmiento 136|famailla": {
+    "lat": -27.052866,
+    "lon": -65.401861,
+    "aproximada": false,
+    "nombre": "UNION",
+    "direccion": "SARMIENTO 136",
+    "localidad": "Famaillá"
+  },
+  "alberdi|rivadavia 585|juan bautista alberdi": {
+    "lat": -27.5841222,
+    "lon": -65.6133634,
+    "aproximada": false,
+    "nombre": "ALBERDI",
+    "direccion": "Rivadavia 585",
+    "localidad": "Juan Bautista Alberdi"
+  },
+  "martinez|almirante brown 282|lules": {
+    "lat": -26.9244558,
+    "lon": -65.3364533,
+    "aproximada": false,
+    "nombre": "MARTINEZ",
+    "direccion": "ALMIRANTE BROWN 282",
+    "localidad": "Lules"
+  },
+  "sur|av roca 1099|san miguel de tucuman": {
+    "lat": -26.8411586,
+    "lon": -65.216952,
+    "aproximada": false,
+    "nombre": "SUR",
+    "direccion": "Av. Roca 1099",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "avenida|av belgrano 2578|san miguel de tucuman": {
+    "lat": -26.8110673,
+    "lon": -65.2401186,
+    "aproximada": false,
+    "nombre": "AVENIDA",
+    "direccion": "Av. Belgrano 2578",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "facubel|colombia 2609|san miguel de tucuman": {
+    "lat": -26.801815,
+    "lon": -65.2242127,
+    "aproximada": false,
+    "nombre": "FACUBEL",
+    "direccion": "Colombia 2609",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "ganim|bo sutiaga|san miguel de tucuman": {
+    "lat": -26.8303703,
+    "lon": -65.2038133,
+    "aproximada": false,
+    "nombre": "GANIM",
+    "direccion": "Bº Sutiaga",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "lujan|av mitre 799|san miguel de tucuman": {
+    "lat": -26.8174717,
+    "lon": -65.2157043,
+    "aproximada": false,
+    "nombre": "LUJAN",
+    "direccion": "Av. Mitre 799",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "maria iii|av adolfo de la vega 356|san miguel de tucuman": {
+    "lat": -26.8272447,
+    "lon": -65.2525232,
+    "aproximada": false,
+    "nombre": "MARIA III",
+    "direccion": "Av. Adolfo de la Vega 356",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "advenir|jujuy 1518|san miguel de tucuman": {
+    "lat": -26.831827,
+    "lon": -65.2114017,
+    "aproximada": false,
+    "nombre": "ADVENIR",
+    "direccion": "Jujuy 1518",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "farmas colon|av colon 387|san miguel de tucuman": {
+    "lat": -26.8303599,
+    "lon": -65.2334258,
+    "aproximada": false,
+    "nombre": "FARMAS COLON",
+    "direccion": "Av. Colon 387",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "thays|av congreso 798|simoca": {
+    "lat": -27.2662399,
+    "lon": -65.3529467,
+    "aproximada": false,
+    "nombre": "THAYS",
+    "direccion": "Av. Congreso 798",
+    "localidad": "Simoca"
+  },
+  "alto verde|san martin 229|simoca": {
+    "lat": -27.2641046,
+    "lon": -65.3563915,
+    "aproximada": false,
+    "nombre": "ALTO VERDE",
+    "direccion": "San Martin 229",
+    "localidad": "Simoca"
+  },
+  "santa rita ii|calle 12 767|villa mariano moreno": {
+    "lat": -26.7708333,
+    "lon": -65.2014938,
+    "aproximada": false,
+    "nombre": "SANTA RITA II",
+    "direccion": "Calle 12 767",
+    "localidad": "Villa Mariano Moreno"
+  },
+  "julieta|san martin 760|yerba buena": {
+    "lat": -26.8196014,
+    "lon": -65.2925151,
+    "aproximada": false,
+    "nombre": "JULIETA",
+    "direccion": "San Martin 760",
+    "localidad": "Yerba Buena"
+  },
+  "farmas|lobo de la vega 213|yerba buena": {
+    "lat": -26.8101167,
+    "lon": -65.2947542,
+    "aproximada": false,
+    "nombre": "FARMAS",
+    "direccion": "Lobo de la Vega 213",
+    "localidad": "Yerba Buena"
   }
 }
