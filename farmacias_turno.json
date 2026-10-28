@@ -2,179 +2,155 @@
   "fecha": "28/10/2026",
   "turno": "de 08:00 de ese dia a 08:00 del dia siguiente",
   "fuente": "https://cofatuc.org.ar/farmacias-de-turno/",
-  "actualizado": "28/10/2026 11:11",
+  "actualizado": "28/10/2026 17:09",
   "localidades": {
     "Aguilares": [
       {
-        "nombre": "DEL MILAGRO S.R.L.",
-        "telefono": "03865483253",
-        "direccion": "J.B.ALBERDI 864"
-      }
-    ],
-    "Banda del Río Salí": [
-      {
-        "nombre": "SANTO CRISTO 2003",
-        "telefono": "4260926",
-        "direccion": "Av. Sto. Cristo 585"
+        "nombre": "E&A",
+        "telefono": "",
+        "direccion": "Av. Mitre 1575 - Loc. 3 y 4"
       }
     ],
     "Bella Vista": [
       {
-        "nombre": "SAN MARTIN",
-        "telefono": "03814820155",
-        "direccion": "SAN MARTIN 270"
+        "nombre": "SAN JORGE",
+        "telefono": "03814820597",
+        "direccion": "AV.FERNANDO PEDRO RIERA 240"
       }
     ],
     "Concepción": [
       {
-        "nombre": "NASIF",
-        "telefono": "3815350181",
-        "direccion": "Juangorena 1494"
-      },
-      {
-        "nombre": "ITALIANA",
-        "telefono": "03865-422254",
-        "direccion": "OBISPO COLOMBRES 2389"
-      },
-      {
-        "nombre": "7 DE AGOSTO",
+        "nombre": "LA PICHONA",
         "telefono": "",
-        "direccion": "Pedro de Mendoza 2"
+        "direccion": "J. V. Gonzalez y Ruta Nº 38"
       }
     ],
     "Famaillá": [
       {
-        "nombre": "PEREIRA",
-        "telefono": "",
-        "direccion": "SAN MARTIN 354"
+        "nombre": "VITRA FAMAILLÁ",
+        "telefono": "03863426944",
+        "direccion": "RUTA 38 Y AV. CALCHAQUI"
       },
       {
-        "nombre": "UNION",
-        "telefono": "03863-461963",
-        "direccion": "SARMIENTO 136"
+        "nombre": "LA BOTICA",
+        "telefono": "03863-461011",
+        "direccion": "Diego de Villarroel 256 BºOeste"
       }
     ],
     "Juan Bautista Alberdi": [
       {
-        "nombre": "FLORES",
-        "telefono": "3865602989",
-        "direccion": "Brown 430"
+        "nombre": "FHARMASEN",
+        "telefono": "",
+        "direccion": "Filgueira Oviedo 941"
       },
       {
-        "nombre": "ALBERDI",
-        "telefono": "03865 - 472962",
-        "direccion": "Rivadavia 585"
+        "nombre": "SOL",
+        "telefono": "03865 - 472052",
+        "direccion": "Av. Campero 216"
       }
     ],
     "La Cocha": [
       {
-        "nombre": "INDEPENDENCIA S.H.",
-        "telefono": "03865-496013",
-        "direccion": "San Martin 93 - Bº Centro"
+        "nombre": "SANTA TERESITA",
+        "telefono": "03865-496163",
+        "direccion": "SARMIENTO 69"
       }
     ],
     "Lules": [
       {
-        "nombre": "MARTINEZ",
-        "telefono": "03814811472",
-        "direccion": "ALMIRANTE BROWN 282"
+        "nombre": "HYGEIA",
+        "telefono": "0381 - 4815883",
+        "direccion": "Av. Roca 205 - Loc. 6"
       }
     ],
     "Monteros": [
       {
-        "nombre": "LA PROVIDENCIA",
-        "telefono": "03863426545",
-        "direccion": "J.B.ALBERDI 55"
+        "nombre": "SANTA MARIA HOSPITAL",
+        "telefono": "3863428947",
+        "direccion": "IGNACIO SARROZA 193 ESQ. SARMIENTO"
       }
     ],
     "San Miguel de Tucumán": [
       {
-        "nombre": "SUR",
-        "telefono": "2336242",
-        "direccion": "Av. Roca 1099"
+        "nombre": "COSTANERA",
+        "telefono": "4976469",
+        "direccion": "Lola Mora 354"
       },
       {
-        "nombre": "AVENIDA",
-        "telefono": "4381566",
-        "direccion": "Av. Belgrano 2578"
+        "nombre": "DEL PUEBLO BELGRANO 2",
+        "telefono": "4329000",
+        "direccion": "Av. Belgrano 2696"
       },
       {
-        "nombre": "FACUBEL",
-        "telefono": "3171330",
-        "direccion": "Colombia 2609"
+        "nombre": "MICE",
+        "telefono": "4283034",
+        "direccion": "Autopista Pte. peron y Circunvalación , sector I, Loc. 6"
       },
       {
-        "nombre": "GANIM",
-        "telefono": "4362431",
-        "direccion": "Bº Sutiaga"
+        "nombre": "CIUDADELA",
+        "telefono": "4202796",
+        "direccion": "Miguel Lillo 458"
       },
       {
-        "nombre": "LUJAN",
-        "telefono": "2606792",
-        "direccion": "Av. Mitre 799"
-      },
-      {
-        "nombre": "RIO SALI",
-        "telefono": "4223392",
-        "direccion": "Av. B.Araoz 1298"
-      },
-      {
-        "nombre": "MARIA III",
-        "telefono": "381 - 2348430",
-        "direccion": "Av. Adolfo de la Vega 356"
-      },
-      {
-        "nombre": "ADVENIR",
-        "telefono": "4872422",
-        "direccion": "Jujuy 1518"
-      },
-      {
-        "nombre": "FARMAS COLON",
-        "telefono": "3813353845",
-        "direccion": "Av. Colon 387"
-      }
-    ],
-    "Simoca": [
-      {
-        "nombre": "THAYS",
+        "nombre": "SERRAVALLE",
         "telefono": "",
-        "direccion": "Av. Congreso 798"
+        "direccion": "Las Piedras 1639"
       },
       {
-        "nombre": "ALTO VERDE",
-        "telefono": "3863482164",
-        "direccion": "San Martin 229"
+        "nombre": "LA MERCED",
+        "telefono": "4217654",
+        "direccion": "Balcarce 504"
+      },
+      {
+        "nombre": "NATAL",
+        "telefono": "4299378",
+        "direccion": "Jujuy 3315"
+      },
+      {
+        "nombre": "CRISTO REY",
+        "telefono": "4356198",
+        "direccion": "Av. Mate de Luna 3798"
+      },
+      {
+        "nombre": "DIVINA GRACIA",
+        "telefono": "4391251",
+        "direccion": "Bº San Martin - Mza. D - Casa 1"
+      },
+      {
+        "nombre": "DEL PUEBLO",
+        "telefono": "4244504",
+        "direccion": "Av. Alem 199"
       }
     ],
     "Tafí Viejo": [
       {
-        "nombre": "ROCIO",
-        "telefono": "",
-        "direccion": "Velez Sarfield 206"
+        "nombre": "DEL SOL LOMAS",
+        "telefono": "4612667",
+        "direccion": "Sector X - Mza. 10 - C. 1 - Bº Lomas de Tafí"
       },
       {
-        "nombre": "PINAR",
-        "telefono": "3815048402",
-        "direccion": "Av. Constitución 3300 - Bº Pinar II - Loc. 1"
+        "nombre": "PRAVIA",
+        "telefono": "2591789",
+        "direccion": "Av. Alem 366"
       }
     ],
     "Villa Mariano Moreno": [
       {
-        "nombre": "SANTA RITA II",
-        "telefono": "4376702",
-        "direccion": "Calle 12 767"
+        "nombre": "SANTA RITA",
+        "telefono": "4372403",
+        "direccion": "Calle 4 N°352 y Calle 15"
       }
     ],
     "Yerba Buena": [
       {
-        "nombre": "JULIETA",
-        "telefono": "",
-        "direccion": "San Martin 760"
+        "nombre": "DE LA PAZ",
+        "telefono": "4352039",
+        "direccion": "Camino del Perú 202"
       },
       {
-        "nombre": "FARMAS",
-        "telefono": "4864325",
-        "direccion": "Lobo de la Vega 213"
+        "nombre": "CAROLINA",
+        "telefono": "",
+        "direccion": "3815033151 solo mensajes wstp"
       }
     ]
   }

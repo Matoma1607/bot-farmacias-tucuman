@@ -1398,5 +1398,117 @@
     "nombre": "FARMAS",
     "direccion": "Lobo de la Vega 213",
     "localidad": "Yerba Buena"
+  },
+  "e a|av mitre 1575 loc 3 y 4|aguilares": {
+    "lat": -27.4321762,
+    "lon": -65.6239694,
+    "aproximada": false,
+    "nombre": "E&A",
+    "direccion": "Av. Mitre 1575 - Loc. 3 y 4",
+    "localidad": "Aguilares"
+  },
+  "la pichona|j v gonzalez y ruta no 38|concepcion": {
+    "lat": -27.3470352,
+    "lon": -65.5873538,
+    "aproximada": true,
+    "nombre": "LA PICHONA",
+    "direccion": "J. V. Gonzalez y Ruta Nº 38",
+    "localidad": "Concepción"
+  },
+  "costanera|lola mora 354|san miguel de tucuman": {
+    "lat": -26.8468914,
+    "lon": -65.1887834,
+    "aproximada": false,
+    "nombre": "COSTANERA",
+    "direccion": "Lola Mora 354",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del pueblo belgrano 2|av belgrano 2696|san miguel de tucuman": {
+    "lat": -26.8123058,
+    "lon": -65.235143,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO BELGRANO 2",
+    "direccion": "Av. Belgrano 2696",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "ciudadela|miguel lillo 458|san miguel de tucuman": {
+    "lat": -26.8335719,
+    "lon": -65.2214767,
+    "aproximada": false,
+    "nombre": "CIUDADELA",
+    "direccion": "Miguel Lillo 458",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "serravalle|las piedras 1639|san miguel de tucuman": {
+    "lat": -26.8313637,
+    "lon": -65.223392,
+    "aproximada": false,
+    "nombre": "SERRAVALLE",
+    "direccion": "Las Piedras 1639",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "la merced|balcarce 504|san miguel de tucuman": {
+    "lat": -26.8252058,
+    "lon": -65.1969987,
+    "aproximada": false,
+    "nombre": "LA MERCED",
+    "direccion": "Balcarce 504",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "natal|jujuy 3315|san miguel de tucuman": {
+    "lat": -26.831827,
+    "lon": -65.2114017,
+    "aproximada": false,
+    "nombre": "NATAL",
+    "direccion": "Jujuy 3315",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "cristo rey|av mate de luna 3798|san miguel de tucuman": {
+    "lat": -26.8207172,
+    "lon": -65.2529994,
+    "aproximada": false,
+    "nombre": "CRISTO REY",
+    "direccion": "Av. Mate de Luna 3798",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "divina gracia|bo san martin mza d casa 1|san miguel de tucuman": {
+    "lat": -26.8303703,
+    "lon": -65.2038133,
+    "aproximada": false,
+    "nombre": "DIVINA GRACIA",
+    "direccion": "Bº San Martin - Mza. D - Casa 1",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del pueblo|av alem 199|san miguel de tucuman": {
+    "lat": -26.8308902,
+    "lon": -65.2194745,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO",
+    "direccion": "Av. Alem 199",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "pravia|av alem 366|tafi viejo": {
+    "lat": -26.7306592,
+    "lon": -65.2584301,
+    "aproximada": false,
+    "nombre": "PRAVIA",
+    "direccion": "Av. Alem 366",
+    "localidad": "Tafí Viejo"
+  },
+  "santa rita|calle 4 n 352 y calle 15|villa mariano moreno": {
+    "lat": -26.768898,
+    "lon": -65.2090382,
+    "aproximada": true,
+    "nombre": "SANTA RITA",
+    "direccion": "Calle 4 N°352 y Calle 15",
+    "localidad": "Villa Mariano Moreno"
+  },
+  "de la paz|camino del peru 202|yerba buena": {
+    "lat": -26.8155694,
+    "lon": -65.2644793,
+    "aproximada": false,
+    "nombre": "DE LA PAZ",
+    "direccion": "Camino del Perú 202",
+    "localidad": "Yerba Buena"
   }
 }
