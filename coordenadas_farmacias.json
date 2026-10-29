@@ -1622,5 +1622,13 @@
     "nombre": "DEL PUEBLO OPEN",
     "direccion": "Av. Pte. Perón esq. Salta",
     "localidad": "Yerba Buena"
+  },
+  "del pueblo francisco de aguirre|francisco de aguirre 1556|san miguel de tucuman": {
+    "lat": -26.7927165,
+    "lon": -65.2135237,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO FRANCISCO DE AGUIRRE",
+    "direccion": "FRANCISCO DE AGUIRRE 1556",
+    "localidad": "San Miguel de Tucumán"
   }
 }

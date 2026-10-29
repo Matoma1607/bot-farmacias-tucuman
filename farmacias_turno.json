@@ -2,7 +2,7 @@
   "fecha": "29/10/2026",
   "turno": "de 08:00 de ese dia a 08:00 del dia siguiente",
   "fuente": "https://cofatuc.org.ar/farmacias-de-turno/",
-  "actualizado": "29/10/2026 11:11",
+  "actualizado": "29/10/2026 17:25",
   "localidades": {
     "Aguilares": [
       {
@@ -79,6 +79,16 @@
     ],
     "San Miguel de Tucumán": [
       {
+        "nombre": "LAS MARIAS",
+        "telefono": "4249319",
+        "direccion": "Lavalle 1070"
+      },
+      {
+        "nombre": "DEL PUEBLO FRANCISCO DE AGUIRRE",
+        "telefono": "",
+        "direccion": "FRANCISCO DE AGUIRRE 1556"
+      },
+      {
         "nombre": "DARUICH BULNES",
         "telefono": "3812554662",
         "direccion": "CHILE 3192"
@@ -112,11 +122,6 @@
         "nombre": "LURNIC",
         "telefono": "4281484",
         "direccion": "Av. Gdor. del Campo 1227"
-      },
-      {
-        "nombre": "LAS MARIAS",
-        "telefono": "4249319",
-        "direccion": "Lavalle 1070"
       }
     ],
     "Simoca": [
