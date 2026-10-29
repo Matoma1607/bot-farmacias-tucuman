@@ -1510,5 +1510,117 @@
     "nombre": "DE LA PAZ",
     "direccion": "Camino del Perú 202",
     "localidad": "Yerba Buena"
+  },
+  "nueva|av sarmiento 1301|aguilares": {
+    "lat": -27.4340237,
+    "lon": -65.6142431,
+    "aproximada": false,
+    "nombre": "NUEVA",
+    "direccion": "AV.SARMIENTO 1301",
+    "localidad": "Aguilares"
+  },
+  "italia|italia 1274|concepcion": {
+    "lat": -27.3441908,
+    "lon": -65.5899426,
+    "aproximada": false,
+    "nombre": "ITALIA",
+    "direccion": "ITALIA 1274",
+    "localidad": "Concepción"
+  },
+  "turi|belgrano 203|lules": {
+    "lat": -26.9282195,
+    "lon": -65.3386666,
+    "aproximada": false,
+    "nombre": "TURI",
+    "direccion": "BELGRANO 203",
+    "localidad": "Lules"
+  },
+  "colon|colon 345|monteros": {
+    "lat": -27.1701258,
+    "lon": -65.500543,
+    "aproximada": false,
+    "nombre": "COLON",
+    "direccion": "Colon 345",
+    "localidad": "Monteros"
+  },
+  "daruich bulnes|chile 3192|san miguel de tucuman": {
+    "lat": -26.8141027,
+    "lon": -65.1959422,
+    "aproximada": false,
+    "nombre": "DARUICH BULNES",
+    "direccion": "CHILE 3192",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "jujuy|jujuy 2417|san miguel de tucuman": {
+    "lat": -26.8384663,
+    "lon": -65.2130703,
+    "aproximada": false,
+    "nombre": "JUJUY",
+    "direccion": "Jujuy 2417",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "magali|av colon 1483|san miguel de tucuman": {
+    "lat": -26.8687455,
+    "lon": -65.2435618,
+    "aproximada": false,
+    "nombre": "MAGALI",
+    "direccion": "AV. COLON 1483",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "santa victoria|av mate de luna 1898|san miguel de tucuman": {
+    "lat": -26.8267,
+    "lon": -65.2260197,
+    "aproximada": false,
+    "nombre": "SANTA VICTORIA",
+    "direccion": "Av. Mate de Luna 1898",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "principal|esteban echeverria 394|san miguel de tucuman": {
+    "lat": -26.8143269,
+    "lon": -65.2595033,
+    "aproximada": false,
+    "nombre": "PRINCIPAL",
+    "direccion": "Esteban Echeverria 394",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "los lirios|av independencia 3087|san miguel de tucuman": {
+    "lat": -26.8411922,
+    "lon": -65.2498408,
+    "aproximada": false,
+    "nombre": "LOS LIRIOS",
+    "direccion": "Av. Independencia 3087",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "las marias|lavalle 1070|san miguel de tucuman": {
+    "lat": -26.8372868,
+    "lon": -65.2151006,
+    "aproximada": false,
+    "nombre": "LAS MARIAS",
+    "direccion": "Lavalle 1070",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "ntra sra de fatima scs|calle 25 y 10|villa mariano moreno": {
+    "lat": -26.7722736,
+    "lon": -65.2063373,
+    "aproximada": false,
+    "nombre": "NTRA.SRA.DE FATIMA SCS",
+    "direccion": "Calle 25 y 10",
+    "localidad": "Villa Mariano Moreno"
+  },
+  "acassuso|av aconquija 1199|yerba buena": {
+    "lat": -26.8080421,
+    "lon": -65.3209306,
+    "aproximada": false,
+    "nombre": "ACASSUSO",
+    "direccion": "Av. Aconquija 1199",
+    "localidad": "Yerba Buena"
+  },
+  "del pueblo open|av pte peron esq salta|yerba buena": {
+    "lat": -26.774309,
+    "lon": -65.2749254,
+    "aproximada": true,
+    "nombre": "DEL PUEBLO OPEN",
+    "direccion": "Av. Pte. Perón esq. Salta",
+    "localidad": "Yerba Buena"
   }
 }

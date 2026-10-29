@@ -1,156 +1,153 @@
 {
-  "fecha": "28/10/2026",
+  "fecha": "29/10/2026",
   "turno": "de 08:00 de ese dia a 08:00 del dia siguiente",
   "fuente": "https://cofatuc.org.ar/farmacias-de-turno/",
-  "actualizado": "28/10/2026 18:48",
+  "actualizado": "29/10/2026 11:11",
   "localidades": {
     "Aguilares": [
       {
-        "nombre": "E&A",
+        "nombre": "NUEVA",
+        "telefono": "03865-483764",
+        "direccion": "AV.SARMIENTO 1301"
+      }
+    ],
+    "Banda del Río Salí": [
+      {
+        "nombre": "DEL PUEBLO BANDA",
         "telefono": "",
-        "direccion": "Av. Mitre 1575 - Loc. 3 y 4"
+        "direccion": "Av. Monseñor G. Diaz 499"
       }
     ],
     "Bella Vista": [
       {
-        "nombre": "SAN JORGE",
-        "telefono": "03814820597",
-        "direccion": "AV.FERNANDO PEDRO RIERA 240"
+        "nombre": "PAOLA",
+        "telefono": "03814820354",
+        "direccion": "GARCIA FERNANDEZ 239"
       }
     ],
     "Concepción": [
       {
-        "nombre": "LA PICHONA",
-        "telefono": "",
-        "direccion": "J. V. Gonzalez y Ruta Nº 38"
+        "nombre": "ITALIA",
+        "telefono": "03865-424949",
+        "direccion": "ITALIA 1274"
       }
     ],
     "Famaillá": [
       {
-        "nombre": "VITRA FAMAILLÁ",
-        "telefono": "03863426944",
-        "direccion": "RUTA 38 Y AV. CALCHAQUI"
+        "nombre": "SALUD",
+        "telefono": "3816504925",
+        "direccion": "Av. Calchaquí 171"
       },
       {
-        "nombre": "LA BOTICA",
-        "telefono": "03863-461011",
-        "direccion": "Diego de Villarroel 256 BºOeste"
+        "nombre": "SAN JOSE",
+        "telefono": "3814177926",
+        "direccion": "SAN MARTIN esq. RIVADAVIA"
       }
     ],
     "Juan Bautista Alberdi": [
       {
-        "nombre": "FHARMASEN",
+        "nombre": "SAN IGNACIO",
         "telefono": "",
-        "direccion": "Filgueira Oviedo 941"
+        "direccion": "AV CAMPERO 278"
       },
       {
-        "nombre": "SOL",
-        "telefono": "03865 - 472052",
-        "direccion": "Av. Campero 216"
+        "nombre": "ESPECHE",
+        "telefono": "",
+        "direccion": "AV. SARMIENTO 565"
       }
     ],
     "La Cocha": [
       {
-        "nombre": "SANTA TERESITA",
-        "telefono": "03865-496163",
-        "direccion": "SARMIENTO 69"
+        "nombre": "MALPES",
+        "telefono": "",
+        "direccion": "RIVADAVIA 287"
       }
     ],
     "Lules": [
       {
-        "nombre": "HYGEIA",
-        "telefono": "0381 - 4815883",
-        "direccion": "Av. Roca 205 - Loc. 6"
+        "nombre": "TURI",
+        "telefono": "03814811736/1",
+        "direccion": "BELGRANO 203"
       }
     ],
     "Monteros": [
       {
-        "nombre": "SANTA MARIA HOSPITAL",
-        "telefono": "3863428947",
-        "direccion": "IGNACIO SARROZA 193 ESQ. SARMIENTO"
+        "nombre": "COLON",
+        "telefono": "",
+        "direccion": "Colon 345"
       }
     ],
     "San Miguel de Tucumán": [
       {
-        "nombre": "COSTANERA",
-        "telefono": "4976469",
-        "direccion": "Lola Mora 354"
+        "nombre": "DARUICH BULNES",
+        "telefono": "3812554662",
+        "direccion": "CHILE 3192"
       },
       {
-        "nombre": "DEL PUEBLO BELGRANO 2",
-        "telefono": "4329000",
-        "direccion": "Av. Belgrano 2696"
+        "nombre": "JUJUY",
+        "telefono": "3813391905",
+        "direccion": "Jujuy 2417"
       },
       {
-        "nombre": "MICE",
-        "telefono": "4283034",
-        "direccion": "Autopista Pte. peron y Circunvalación , sector I, Loc. 6"
+        "nombre": "MAGALI",
+        "telefono": "4515724",
+        "direccion": "AV. COLON 1483"
       },
       {
-        "nombre": "CIUDADELA",
-        "telefono": "4202796",
-        "direccion": "Miguel Lillo 458"
+        "nombre": "SANTA VICTORIA",
+        "telefono": "4320387",
+        "direccion": "Av. Mate de Luna 1898"
       },
       {
-        "nombre": "SERRAVALLE",
-        "telefono": "",
-        "direccion": "Las Piedras 1639"
+        "nombre": "PRINCIPAL",
+        "telefono": "4359311",
+        "direccion": "Esteban Echeverria 394"
       },
       {
-        "nombre": "LA MERCED",
-        "telefono": "4217654",
-        "direccion": "Balcarce 504"
+        "nombre": "LOS LIRIOS",
+        "telefono": "4362284",
+        "direccion": "Av. Independencia 3087"
       },
       {
-        "nombre": "NATAL",
-        "telefono": "4299378",
-        "direccion": "Jujuy 3315"
+        "nombre": "LURNIC",
+        "telefono": "4281484",
+        "direccion": "Av. Gdor. del Campo 1227"
       },
       {
-        "nombre": "CRISTO REY",
-        "telefono": "4356198",
-        "direccion": "Av. Mate de Luna 3798"
-      },
-      {
-        "nombre": "DIVINA GRACIA",
-        "telefono": "4391251",
-        "direccion": "Bº San Martin - Mza. D - Casa 1"
-      },
-      {
-        "nombre": "DEL PUEBLO",
-        "telefono": "4244504",
-        "direccion": "Av. Alem 199"
+        "nombre": "LAS MARIAS",
+        "telefono": "4249319",
+        "direccion": "Lavalle 1070"
       }
     ],
-    "Tafí Viejo": [
+    "Simoca": [
       {
-        "nombre": "DEL SOL LOMAS",
-        "telefono": "4612667",
-        "direccion": "Sector X - Mza. 10 - C. 1 - Bº Lomas de Tafí"
+        "nombre": "25 DE MAYO",
+        "telefono": "03863-481059",
+        "direccion": "25 de Mayo 120"
       },
       {
-        "nombre": "PRAVIA",
-        "telefono": "2591789",
-        "direccion": "Av. Alem 366"
+        "nombre": "SAGRADO CORAZON",
+        "telefono": "0381 - 481028",
+        "direccion": "25 DE MAYO 362"
       }
     ],
     "Villa Mariano Moreno": [
       {
-        "nombre": "SANTA RITA",
-        "telefono": "4372403",
-        "direccion": "Calle 4 N°352 y Calle 15"
+        "nombre": "NTRA.SRA.DE FATIMA SCS",
+        "telefono": "4372253",
+        "direccion": "Calle 25 y 10"
       }
     ],
     "Yerba Buena": [
       {
-        "nombre": "DE LA PAZ",
-        "telefono": "4352039",
-        "direccion": "Camino del Perú 202"
+        "nombre": "ACASSUSO",
+        "telefono": "",
+        "direccion": "Av. Aconquija 1199"
       },
       {
-        "nombre": "CAROLINA",
+        "nombre": "DEL PUEBLO OPEN",
         "telefono": "",
-        "direccion": "3815033151 solo mensajes wstp"
+        "direccion": "Av. Pte. Perón esq. Salta"
       }
     ]
   }
