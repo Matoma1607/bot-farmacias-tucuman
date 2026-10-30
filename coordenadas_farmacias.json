@@ -1630,5 +1630,149 @@
     "nombre": "DEL PUEBLO FRANCISCO DE AGUIRRE",
     "direccion": "FRANCISCO DE AGUIRRE 1556",
     "localidad": "San Miguel de Tucumán"
+  },
+  "el pucara|ramon simon 705|aguilares": {
+    "lat": -27.4283522,
+    "lon": -65.6223439,
+    "aproximada": false,
+    "nombre": "EL PUCARA",
+    "direccion": "Ramon Simón 705",
+    "localidad": "Aguilares"
+  },
+  "de la rosa|av independencia 431|banda del rio sali": {
+    "lat": -26.8349083,
+    "lon": -65.1645263,
+    "aproximada": false,
+    "nombre": "DE LA ROSA",
+    "direccion": "Av. Independencia 431",
+    "localidad": "Banda del Río Salí"
+  },
+  "alvear|hipolito yrigoyen 132|concepcion": {
+    "lat": -27.3607414,
+    "lon": -65.5972462,
+    "aproximada": false,
+    "nombre": "ALVEAR",
+    "direccion": "Hipolito Yrigoyen 132",
+    "localidad": "Concepción"
+  },
+  "san expedito|obispo colombres 2373|concepcion": {
+    "lat": -27.3434178,
+    "lon": -65.6096309,
+    "aproximada": false,
+    "nombre": "SAN EXPEDITO",
+    "direccion": "OBISPO COLOMBRES 2373",
+    "localidad": "Concepción"
+  },
+  "san martin|san martin 319|lules": {
+    "lat": -26.9215187,
+    "lon": -65.3367823,
+    "aproximada": false,
+    "nombre": "SAN MARTIN",
+    "direccion": "SAN MARTIN 319",
+    "localidad": "Lules"
+  },
+  "del rosario|25 de mayo 252|monteros": {
+    "lat": -27.1616857,
+    "lon": -65.5061631,
+    "aproximada": false,
+    "nombre": "DEL ROSARIO",
+    "direccion": "25 DE MAYO 252",
+    "localidad": "Monteros"
+  },
+  "solana|9 de julio 1399|san miguel de tucuman": {
+    "lat": -26.8897913,
+    "lon": -65.2253518,
+    "aproximada": false,
+    "nombre": "SOLANA",
+    "direccion": "9 de Julio 1399",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del pueblo barrio norte|virgen de la merced 561|san miguel de tucuman": {
+    "lat": -26.8239661,
+    "lon": -65.1998392,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO BARRIO NORTE",
+    "direccion": "Virgen de la Merced 561",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del pueblo distrito|av belgrano 4300|san miguel de tucuman": {
+    "lat": -26.8120702,
+    "lon": -65.23529,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO DISTRITO",
+    "direccion": "Av. Belgrano 4300",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "naranja g|coronel zelaya 774|san miguel de tucuman": {
+    "lat": -26.8595409,
+    "lon": -65.2483717,
+    "aproximada": false,
+    "nombre": "NARANJA G",
+    "direccion": "Coronel Zelaya 774",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "ushuaia|colombia 2998|san miguel de tucuman": {
+    "lat": -26.7997909,
+    "lon": -65.2371007,
+    "aproximada": false,
+    "nombre": "USHUAIA",
+    "direccion": "Colombia 2998",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "panacea|moreno 897|san miguel de tucuman": {
+    "lat": -26.8441183,
+    "lon": -65.201678,
+    "aproximada": false,
+    "nombre": "PANACEA",
+    "direccion": "Moreno 897",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "mateo|av povina 721 bo san martin|san miguel de tucuman": {
+    "lat": -26.8286249,
+    "lon": -65.2662117,
+    "aproximada": false,
+    "nombre": "MATEO",
+    "direccion": "Av. Poviña 721 - Bº San Martín",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "las bases|avda juan b justo 2697|san miguel de tucuman": {
+    "lat": -26.7966381,
+    "lon": -65.1883449,
+    "aproximada": false,
+    "nombre": "LAS BASES",
+    "direccion": "AVDA.JUAN B.JUSTO 2697",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "florencia|don bosco 2590|san miguel de tucuman": {
+    "lat": -26.8198301,
+    "lon": -65.2354469,
+    "aproximada": false,
+    "nombre": "FLORENCIA",
+    "direccion": "Don Bosco 2590",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "gaby|av alem 449|tafi viejo": {
+    "lat": -26.7302088,
+    "lon": -65.2592683,
+    "aproximada": false,
+    "nombre": "GABY",
+    "direccion": "Av. Alem 449",
+    "localidad": "Tafí Viejo"
+  },
+  "san juan bautista|b san juan bautista mzna a lote 1|villa carmela": {
+    "lat": -26.7697034,
+    "lon": -65.2740084,
+    "aproximada": false,
+    "nombre": "SAN JUAN BAUTISTA",
+    "direccion": "B° SAN JUAN BAUTISTA MZNA \"A\" LOTE 1",
+    "localidad": "Villa Carmela"
+  },
+  "del pueblo los troncos|belgrano 51|yerba buena": {
+    "lat": -26.8136611,
+    "lon": -65.2949572,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO LOS TRONCOS",
+    "direccion": "Belgrano 51",
+    "localidad": "Yerba Buena"
   }
 }
