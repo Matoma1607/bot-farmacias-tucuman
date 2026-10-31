@@ -1774,5 +1774,149 @@
     "nombre": "DEL PUEBLO LOS TRONCOS",
     "direccion": "Belgrano 51",
     "localidad": "Yerba Buena"
+  },
+  "9 de julio|sarmiento 1471|aguilares": {
+    "lat": -27.4354996,
+    "lon": -65.6141194,
+    "aproximada": false,
+    "nombre": "9 DE JULIO",
+    "direccion": "Sarmiento 1471",
+    "localidad": "Aguilares"
+  },
+  "de la rosa centro|9 de julio 214|banda del rio sali": {
+    "lat": -26.8384106,
+    "lon": -65.1619965,
+    "aproximada": false,
+    "nombre": "DE LA ROSA CENTRO",
+    "direccion": "9 de Julio 214",
+    "localidad": "Banda del Río Salí"
+  },
+  "san pedro|25 de mayo 131|concepcion": {
+    "lat": -27.3444157,
+    "lon": -65.5917411,
+    "aproximada": false,
+    "nombre": "SAN PEDRO",
+    "direccion": "25 de Mayo 131",
+    "localidad": "Concepción"
+  },
+  "san jorge|cristo rey 440|el manantial": {
+    "lat": -26.8474089,
+    "lon": -65.2893125,
+    "aproximada": false,
+    "nombre": "SAN JORGE",
+    "direccion": "Cristo Rey 440",
+    "localidad": "El Manantial"
+  },
+  "el condor|9 de julio 101|lules": {
+    "lat": -26.845733,
+    "lon": -65.280723,
+    "aproximada": false,
+    "nombre": "EL CONDOR",
+    "direccion": "9 DE JULIO 101",
+    "localidad": "Lules"
+  },
+  "nueva genova|leandro araoz 41|monteros": {
+    "lat": -27.1657168,
+    "lon": -65.4966126,
+    "aproximada": false,
+    "nombre": "NUEVA GENOVA",
+    "direccion": "LEANDRO ARAOZ 41",
+    "localidad": "Monteros"
+  },
+  "santiago|santiago 368|san miguel de tucuman": {
+    "lat": -26.8247792,
+    "lon": -65.2011061,
+    "aproximada": false,
+    "nombre": "SANTIAGO",
+    "direccion": "Santiago 368",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "sagrado corazon|eugenio mendez 604|san miguel de tucuman": {
+    "lat": -26.8516021,
+    "lon": -65.1972533,
+    "aproximada": false,
+    "nombre": "SAGRADO CORAZON",
+    "direccion": "Eugenio Méndez 604",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "dispenfarma|av alem 798|san miguel de tucuman": {
+    "lat": -26.839034,
+    "lon": -65.2209654,
+    "aproximada": false,
+    "nombre": "DISPENFARMA",
+    "direccion": "Av. Alem 798",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "esencial|av mate de luna 4089|san miguel de tucuman": {
+    "lat": -26.8196816,
+    "lon": -65.2561747,
+    "aproximada": false,
+    "nombre": "ESENCIAL",
+    "direccion": "Av. Mate de luna 4089",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "cayetana|bo 2500 viv sector b mza 11 l 24|san miguel de tucuman": {
+    "lat": -26.8303703,
+    "lon": -65.2038133,
+    "aproximada": false,
+    "nombre": "CAYETANA",
+    "direccion": "Bº 2500 Viv. Sector B - Mza. 11 - L. 24",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del pueblo belgrano 3|av belgrano 2176|san miguel de tucuman": {
+    "lat": -26.8137268,
+    "lon": -65.2272905,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO BELGRANO 3",
+    "direccion": "Av. Belgrano 2176",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del pueblo colon|av colon 596|san miguel de tucuman": {
+    "lat": -26.8331653,
+    "lon": -65.2340641,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO COLON",
+    "direccion": "AV. Colon 596",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del senor jesus|chacabuco 2612|san miguel de tucuman": {
+    "lat": -26.8350829,
+    "lon": -65.2089214,
+    "aproximada": false,
+    "nombre": "DEL SEÑOR JESUS",
+    "direccion": "Chacabuco 2612",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "barrio congreso|bo congreso|san miguel de tucuman": {
+    "lat": -26.8303703,
+    "lon": -65.2038133,
+    "aproximada": false,
+    "nombre": "BARRIO CONGRESO",
+    "direccion": "Bº Congreso",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "los andes|alem 49|tafi viejo": {
+    "lat": -26.7312022,
+    "lon": -65.2544975,
+    "aproximada": false,
+    "nombre": "LOS ANDES",
+    "direccion": "Alem 49",
+    "localidad": "Tafí Viejo"
+  },
+  "la arboleda|solano vera esq mendoza|yerba buena": {
+    "lat": -26.8229967,
+    "lon": -65.3049274,
+    "aproximada": true,
+    "nombre": "LA ARBOLEDA",
+    "direccion": "Solano Vera Esq. Mendoza",
+    "localidad": "Yerba Buena"
+  },
+  "daruich dos|av aconquija 941|yerba buena": {
+    "lat": -26.8152797,
+    "lon": -65.2812035,
+    "aproximada": false,
+    "nombre": "DARUICH DOS",
+    "direccion": "Av. Aconquija 941",
+    "localidad": "Yerba Buena"
   }
 }
