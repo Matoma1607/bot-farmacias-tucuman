@@ -1918,5 +1918,149 @@
     "nombre": "DARUICH DOS",
     "direccion": "Av. Aconquija 941",
     "localidad": "Yerba Buena"
+  },
+  "san benito|domingo french 581|aguilares": {
+    "lat": -27.4269904,
+    "lon": -65.6111719,
+    "aproximada": false,
+    "nombre": "SAN BENITO",
+    "direccion": "Domingo French 581",
+    "localidad": "Aguilares"
+  },
+  "salud|av belgrano 528 loc 1|aguilares": {
+    "lat": -27.4254972,
+    "lon": -65.6134065,
+    "aproximada": false,
+    "nombre": "SALUD",
+    "direccion": "Av. Belgrano 528 - Loc. 1",
+    "localidad": "Aguilares"
+  },
+  "divina misericordia|rivadavia 401|alderetes": {
+    "lat": -26.8205295,
+    "lon": -65.1448837,
+    "aproximada": false,
+    "nombre": "DIVINA MISERICORDIA",
+    "direccion": "Rivadavia 401",
+    "localidad": "Alderetes"
+  },
+  "farmacon ii|av monsenor diaz 617|banda del rio sali": {
+    "lat": -26.8412422,
+    "lon": -65.1583774,
+    "aproximada": false,
+    "nombre": "FARMACON II",
+    "direccion": "Av. Monseñor Diaz 617",
+    "localidad": "Banda del Río Salí"
+  },
+  "san jose|belgrano 103|concepcion": {
+    "lat": -27.3439506,
+    "lon": -65.5953123,
+    "aproximada": false,
+    "nombre": "SAN JOSE",
+    "direccion": "BELGRANO 103",
+    "localidad": "Concepción"
+  },
+  "del pilar|don bosco 943|lules": {
+    "lat": -26.9281846,
+    "lon": -65.3283944,
+    "aproximada": false,
+    "nombre": "DEL PILAR",
+    "direccion": "Don Bosco 943",
+    "localidad": "Lules"
+  },
+  "nuova|leandro araoz 81|monteros": {
+    "lat": -27.1654118,
+    "lon": -65.4963634,
+    "aproximada": false,
+    "nombre": "NUOVA",
+    "direccion": "Leandro Araoz 81",
+    "localidad": "Monteros"
+  },
+  "cervantes|general paz 2055|san miguel de tucuman": {
+    "lat": -26.8312782,
+    "lon": -65.2300597,
+    "aproximada": false,
+    "nombre": "CERVANTES",
+    "direccion": "General Paz 2055",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del pueblo plaza|laprida 3|san miguel de tucuman": {
+    "lat": -26.8310394,
+    "lon": -65.2030774,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO PLAZA",
+    "direccion": "Laprida 3",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "rubis s h|av ejercito del norte 2017|san miguel de tucuman": {
+    "lat": -26.8228059,
+    "lon": -65.2316869,
+    "aproximada": false,
+    "nombre": "RUBIS S.H.",
+    "direccion": "Av. Ejercito del Norte 2017",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "santo tomas|uruguay 380|san miguel de tucuman": {
+    "lat": -26.8150902,
+    "lon": -65.1988707,
+    "aproximada": false,
+    "nombre": "SANTO TOMAS",
+    "direccion": "URUGUAY 380",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "san expedito|san juan 3002|san miguel de tucuman": {
+    "lat": -26.8177318,
+    "lon": -65.2414575,
+    "aproximada": false,
+    "nombre": "SAN EXPEDITO",
+    "direccion": "San Juan 3002",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "ntra sra de itati|camino del peru 1651|san miguel de tucuman": {
+    "lat": -26.7964476,
+    "lon": -65.2584677,
+    "aproximada": false,
+    "nombre": "NTRA. SRA. DE ITATI",
+    "direccion": "Camino del Peru 1651",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "ibatin|av alem 1502|san miguel de tucuman": {
+    "lat": -26.8432338,
+    "lon": -65.2220729,
+    "aproximada": false,
+    "nombre": "IBATIN",
+    "direccion": "Av. Alem 1502",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del pilar|santiago del estero 1826|san miguel de tucuman": {
+    "lat": -26.8199648,
+    "lon": -65.2232458,
+    "aproximada": false,
+    "nombre": "DEL PILAR",
+    "direccion": "santiago del estero 1826",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "cristo obrero|av peru sur 1048|tafi viejo": {
+    "lat": -26.7170481,
+    "lon": -65.2655543,
+    "aproximada": false,
+    "nombre": "CRISTO OBRERO",
+    "direccion": "Av. Perú Sur 1048",
+    "localidad": "Tafí Viejo"
+  },
+  "galenica|av aconquija 2177|yerba buena": {
+    "lat": -26.8115385,
+    "lon": -65.3025321,
+    "aproximada": false,
+    "nombre": "GALENICA",
+    "direccion": "Av. Aconquija 2177",
+    "localidad": "Yerba Buena"
+  },
+  "maria v|ruben dario 492 loc 1|yerba buena": {
+    "lat": -26.8182935,
+    "lon": -65.2806604,
+    "aproximada": false,
+    "nombre": "MARIA V",
+    "direccion": "Rubén Darío 492 - Loc. 1",
+    "localidad": "Yerba Buena"
   }
 }

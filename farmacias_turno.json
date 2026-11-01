@@ -1,160 +1,160 @@
 {
-  "fecha": "31/10/2026",
+  "fecha": "01/11/2026",
   "turno": "de 08:00 de ese dia a 08:00 del dia siguiente",
   "fuente": "https://cofatuc.org.ar/farmacias-de-turno/",
-  "actualizado": "31/10/2026 17:39",
+  "actualizado": "01/11/2026 11:11",
   "localidades": {
     "Aguilares": [
       {
-        "nombre": "9 DE JULIO",
+        "nombre": "SAN BENITO",
+        "telefono": "03865485173",
+        "direccion": "Domingo French 581"
+      },
+      {
+        "nombre": "SALUD",
+        "telefono": "3815195188",
+        "direccion": "Av. Belgrano 528 - Loc. 1"
+      }
+    ],
+    "Alderetes": [
+      {
+        "nombre": "DIVINA MISERICORDIA",
         "telefono": "",
-        "direccion": "Sarmiento 1471"
+        "direccion": "Rivadavia 401"
       }
     ],
     "Banda del Río Salí": [
       {
-        "nombre": "DE LA ROSA CENTRO",
-        "telefono": "4267268",
-        "direccion": "9 de Julio 214"
+        "nombre": "FARMACON II",
+        "telefono": "4865514",
+        "direccion": "Av. Monseñor Diaz 617"
       }
     ],
     "Bella Vista": [
       {
-        "nombre": "SAN NICOLAS II",
-        "telefono": "3816375174",
-        "direccion": "Juan XXIII 391"
+        "nombre": "SAN MARTIN",
+        "telefono": "03814820155",
+        "direccion": "SAN MARTIN 270"
       }
     ],
     "Concepción": [
       {
-        "nombre": "SAN PEDRO",
-        "telefono": "03865 - 425994",
-        "direccion": "25 de Mayo 131"
-      }
-    ],
-    "El Manantial": [
-      {
-        "nombre": "SAN JORGE",
-        "telefono": "4390542",
-        "direccion": "Cristo Rey 440"
+        "nombre": "SAN JOSE",
+        "telefono": "3865 429149",
+        "direccion": "BELGRANO 103"
       }
     ],
     "Famaillá": [
       {
-        "nombre": "SAN RAMON",
+        "nombre": "SAN NICOLAS",
         "telefono": "",
-        "direccion": "B. MITRE 445"
+        "direccion": "Bartolomé Mitre al 600"
       },
       {
-        "nombre": "MAGNOLIAS",
-        "telefono": "3813584428",
-        "direccion": "Azcuénaga 504"
+        "nombre": "SAN JUAN",
+        "telefono": "",
+        "direccion": "San Martin 349"
       }
     ],
     "Juan Bautista Alberdi": [
       {
-        "nombre": "BELGRANO",
-        "telefono": "",
-        "direccion": "12 de Octubre esq. Pje. Colon"
+        "nombre": "MARIA ROSA MISTICA",
+        "telefono": "03865-471455",
+        "direccion": "AV.SARMIENTO 235"
       },
       {
-        "nombre": "AVENIDA ROSA MISTICA",
+        "nombre": "VASOVI SCS",
         "telefono": "",
-        "direccion": "Av. Napoleon Marañon esq. 25 de Mayo"
+        "direccion": "CAMPERO 514"
       }
     ],
     "La Cocha": [
       {
-        "nombre": "INDEPENDENCIA S.H.",
-        "telefono": "03865-496013",
-        "direccion": "San Martin 93 - Bº Centro"
+        "nombre": "SANTA TERESITA",
+        "telefono": "03865-496163",
+        "direccion": "SARMIENTO 69"
       }
     ],
     "Lules": [
       {
-        "nombre": "EL CONDOR",
-        "telefono": "03814811376",
-        "direccion": "9 DE JULIO 101"
+        "nombre": "DEL PILAR",
+        "telefono": "38158292",
+        "direccion": "Don Bosco 943"
       }
     ],
     "Monteros": [
       {
-        "nombre": "NUEVA GENOVA",
-        "telefono": "03863-427685",
-        "direccion": "LEANDRO ARAOZ 41"
+        "nombre": "NUOVA",
+        "telefono": "",
+        "direccion": "Leandro Araoz 81"
       }
     ],
     "San Miguel de Tucumán": [
       {
-        "nombre": "SANTIAGO",
-        "telefono": "4219494",
-        "direccion": "Santiago 368"
+        "nombre": "CERVANTES",
+        "telefono": "4231612",
+        "direccion": "General Paz 2055"
       },
       {
-        "nombre": "SAGRADO CORAZON",
-        "telefono": "3816870849",
-        "direccion": "Eugenio Méndez 604"
+        "nombre": "DEL PUEBLO PLAZA",
+        "telefono": "4306731",
+        "direccion": "Laprida 3"
       },
       {
-        "nombre": "DISPENFARMA",
+        "nombre": "RUBIS S.H.",
+        "telefono": "4347363",
+        "direccion": "Av. Ejercito del Norte 2017"
+      },
+      {
+        "nombre": "SANTO TOMAS",
+        "telefono": "4213864",
+        "direccion": "URUGUAY 380"
+      },
+      {
+        "nombre": "SAN EXPEDITO",
         "telefono": "",
-        "direccion": "Av. Alem 798"
+        "direccion": "San Juan 3002"
       },
       {
-        "nombre": "ESENCIAL",
-        "telefono": "4355090",
-        "direccion": "Av. Mate de luna 4089"
+        "nombre": "NTRA. SRA. DE ITATI",
+        "telefono": "4344211",
+        "direccion": "Camino del Peru 1651"
       },
       {
-        "nombre": "CAYETANA",
-        "telefono": "3816230682",
-        "direccion": "Bº 2500 Viv. Sector B - Mza. 11 - L. 24"
+        "nombre": "IBATIN",
+        "telefono": "4361024",
+        "direccion": "Av. Alem 1502"
       },
       {
-        "nombre": "DEL PUEBLO BELGRANO 3",
-        "telefono": "",
-        "direccion": "Av. Belgrano 2176"
-      },
-      {
-        "nombre": "DEL PUEBLO COLON",
-        "telefono": "4527780",
-        "direccion": "AV. Colon 596"
-      },
-      {
-        "nombre": "DEL SEÑOR JESUS",
-        "telefono": "4293071",
-        "direccion": "Chacabuco 2612"
-      },
-      {
-        "nombre": "BARRIO CONGRESO",
-        "telefono": "4853503",
-        "direccion": "Bº Congreso"
+        "nombre": "DEL PILAR",
+        "telefono": "381318223",
+        "direccion": "santiago del estero 1826"
       }
     ],
     "Simoca": [
       {
-        "nombre": "SAN LUIS GONZAGA",
-        "telefono": "3815333676",
-        "direccion": "SAN MARTIN 560"
+        "nombre": "NATIVA",
+        "telefono": "3812377763",
+        "direccion": "Av. Belgrano 150 - Loc. 1"
       }
     ],
     "Tafí Viejo": [
       {
-        "nombre": "LOS ANDES",
-        "telefono": "4617605",
-        "direccion": "Alem 49"
+        "nombre": "CRISTO OBRERO",
+        "telefono": "4616748",
+        "direccion": "Av. Perú Sur 1048"
       }
     ],
     "Yerba Buena": [
       {
-        "nombre": "LA ARBOLEDA",
-        "telefono": "4258283",
-        "direccion": "Solano Vera Esq. Mendoza"
+        "nombre": "GALENICA",
+        "telefono": "4250348",
+        "direccion": "Av. Aconquija 2177"
       },
       {
-        "nombre": "DARUICH DOS",
+        "nombre": "MARIA V",
         "telefono": "",
-        "direccion": "Av. Aconquija 941"
+        "direccion": "Rubén Darío 492 - Loc. 1"
       }
     ]
   }
