@@ -1,160 +1,152 @@
 {
-  "fecha": "01/11/2026",
+  "fecha": "02/11/2026",
   "turno": "de 08:00 de ese dia a 08:00 del dia siguiente",
   "fuente": "https://cofatuc.org.ar/farmacias-de-turno/",
-  "actualizado": "01/11/2026 18:24",
+  "actualizado": "02/11/2026 11:11",
   "localidades": {
     "Aguilares": [
       {
-        "nombre": "SAN BENITO",
-        "telefono": "03865485173",
-        "direccion": "Domingo French 581"
-      },
-      {
-        "nombre": "SALUD",
-        "telefono": "3815195188",
-        "direccion": "Av. Belgrano 528 - Loc. 1"
-      }
-    ],
-    "Alderetes": [
-      {
-        "nombre": "DIVINA MISERICORDIA",
-        "telefono": "",
-        "direccion": "Rivadavia 401"
+        "nombre": "NUESTRA SEÑORA DEL HUERTO",
+        "telefono": "3865698519",
+        "direccion": "Av. 9 de Julio 1176"
       }
     ],
     "Banda del Río Salí": [
       {
-        "nombre": "FARMACON II",
-        "telefono": "4865514",
-        "direccion": "Av. Monseñor Diaz 617"
+        "nombre": "MODERNA",
+        "telefono": "4261637",
+        "direccion": "Av. Independencia 210"
       }
     ],
     "Bella Vista": [
       {
-        "nombre": "SAN MARTIN",
-        "telefono": "03814820155",
-        "direccion": "SAN MARTIN 270"
+        "nombre": "SAN JORGE",
+        "telefono": "03814820597",
+        "direccion": "AV.FERNANDO PEDRO RIERA 240"
       }
     ],
     "Concepción": [
       {
-        "nombre": "SAN JOSE",
-        "telefono": "3865 429149",
-        "direccion": "BELGRANO 103"
+        "nombre": "FARMAPLUS",
+        "telefono": "3865680883",
+        "direccion": "San Juan 185"
       }
     ],
     "Famaillá": [
       {
-        "nombre": "SAN NICOLAS",
-        "telefono": "",
-        "direccion": "Bartolomé Mitre al 600"
-      },
-      {
-        "nombre": "SAN JUAN",
-        "telefono": "",
-        "direccion": "San Martin 349"
+        "nombre": "SAN ANTONIO",
+        "telefono": "03863 - 461089",
+        "direccion": "LAVALLE 362"
       }
     ],
     "Juan Bautista Alberdi": [
       {
-        "nombre": "MARIA ROSA MISTICA",
-        "telefono": "03865-471455",
-        "direccion": "AV.SARMIENTO 235"
+        "nombre": "PISTONE",
+        "telefono": "03865-471131",
+        "direccion": "MITRE 597"
       },
       {
-        "nombre": "VASOVI SCS",
-        "telefono": "",
-        "direccion": "CAMPERO 514"
+        "nombre": "SANTA MARIA",
+        "telefono": "03865471150",
+        "direccion": "Lidoro Quinteros 750"
+      },
+      {
+        "nombre": "FARMA SALUD ALBERDI",
+        "telefono": "3865577687",
+        "direccion": "BELGRANO 785"
       }
     ],
     "La Cocha": [
       {
-        "nombre": "SANTA TERESITA",
-        "telefono": "03865-496163",
-        "direccion": "SARMIENTO 69"
+        "nombre": "MALPES",
+        "telefono": "",
+        "direccion": "RIVADAVIA 287"
+      }
+    ],
+    "Las Talitas": [
+      {
+        "nombre": "SOEME",
+        "telefono": "4371748",
+        "direccion": "Bº SOEME"
       }
     ],
     "Lules": [
       {
-        "nombre": "DEL PILAR",
-        "telefono": "38158292",
-        "direccion": "Don Bosco 943"
+        "nombre": "GEDER",
+        "telefono": "03814811747",
+        "direccion": "BELGRANO 305"
       }
     ],
     "Monteros": [
       {
-        "nombre": "NUOVA",
-        "telefono": "",
-        "direccion": "Leandro Araoz 81"
+        "nombre": "SAN FRANCISCO",
+        "telefono": "03863-428171",
+        "direccion": "COLON 246"
       }
     ],
     "San Miguel de Tucumán": [
       {
-        "nombre": "CERVANTES",
-        "telefono": "4231612",
-        "direccion": "General Paz 2055"
+        "nombre": "PIEDRABUENA",
+        "telefono": "2551465",
+        "direccion": "Álvarez Condarco 960"
       },
       {
-        "nombre": "DEL PUEBLO PLAZA",
-        "telefono": "4306731",
-        "direccion": "Laprida 3"
+        "nombre": "ROCIO",
+        "telefono": "4233683",
+        "direccion": "Av. Ejército Del Norte 801"
       },
       {
-        "nombre": "RUBIS S.H.",
-        "telefono": "4347363",
-        "direccion": "Av. Ejercito del Norte 2017"
+        "nombre": "SANTA MARIA",
+        "telefono": "2315923",
+        "direccion": "Av. Las Américas 300"
       },
       {
-        "nombre": "SANTO TOMAS",
-        "telefono": "4213864",
-        "direccion": "URUGUAY 380"
-      },
-      {
-        "nombre": "SAN EXPEDITO",
+        "nombre": "FARMACIAS TUCUMAN ANDREA",
         "telefono": "",
-        "direccion": "San Juan 3002"
+        "direccion": "Congreso 820"
       },
       {
-        "nombre": "NTRA. SRA. DE ITATI",
-        "telefono": "4344211",
-        "direccion": "Camino del Peru 1651"
+        "nombre": "TORRES",
+        "telefono": "",
+        "direccion": "Av. Brígido Terán 111"
       },
       {
-        "nombre": "IBATIN",
-        "telefono": "4361024",
-        "direccion": "Av. Alem 1502"
+        "nombre": "CRISTO REY AV. AMERICA",
+        "telefono": "",
+        "direccion": "Av. América 411"
       },
       {
-        "nombre": "DEL PILAR",
-        "telefono": "381318223",
-        "direccion": "santiago del estero 1826"
+        "nombre": "LAVALLE",
+        "telefono": "4246671",
+        "direccion": "Lavalle 1731"
       }
     ],
     "Simoca": [
       {
-        "nombre": "NATIVA",
-        "telefono": "3812377763",
-        "direccion": "Av. Belgrano 150 - Loc. 1"
+        "nombre": "9 DE JULIO",
+        "telefono": "",
+        "direccion": "9 DE JULIO 310"
       }
     ],
     "Tafí Viejo": [
       {
-        "nombre": "CRISTO OBRERO",
-        "telefono": "4616748",
-        "direccion": "Av. Perú Sur 1048"
+        "nombre": "TORRES",
+        "telefono": "2591628",
+        "direccion": "Uttinger 99"
+      }
+    ],
+    "Villa Carmela": [
+      {
+        "nombre": "FARMAPLUS",
+        "telefono": "4931547",
+        "direccion": "Ruta 315 Km 6 - Bº 21 de Septiembre"
       }
     ],
     "Yerba Buena": [
       {
-        "nombre": "GALENICA",
-        "telefono": "4250348",
-        "direccion": "Av. Aconquija 2177"
-      },
-      {
-        "nombre": "MARIA V",
+        "nombre": "ZARZOSA",
         "telefono": "",
-        "direccion": "Rubén Darío 492 - Loc. 1"
+        "direccion": "Av. Aconquija 2170"
       }
     ]
   }

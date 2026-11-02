@@ -2062,5 +2062,109 @@
     "nombre": "MARIA V",
     "direccion": "Rubén Darío 492 - Loc. 1",
     "localidad": "Yerba Buena"
+  },
+  "moderna|av independencia 210|banda del rio sali": {
+    "lat": -26.8373231,
+    "lon": -65.165376,
+    "aproximada": false,
+    "nombre": "MODERNA",
+    "direccion": "Av. Independencia 210",
+    "localidad": "Banda del Río Salí"
+  },
+  "farmaplus|san juan 185|concepcion": {
+    "lat": -27.3473996,
+    "lon": -65.601791,
+    "aproximada": false,
+    "nombre": "FARMAPLUS",
+    "direccion": "San Juan 185",
+    "localidad": "Concepción"
+  },
+  "soeme|bo soeme|las talitas": {
+    "lat": -26.7896903,
+    "lon": -65.1875076,
+    "aproximada": false,
+    "nombre": "SOEME",
+    "direccion": "Bº SOEME",
+    "localidad": "Las Talitas"
+  },
+  "geder|belgrano 305|lules": {
+    "lat": -26.9387956,
+    "lon": -65.341414,
+    "aproximada": false,
+    "nombre": "GEDER",
+    "direccion": "BELGRANO 305",
+    "localidad": "Lules"
+  },
+  "san francisco|colon 246|monteros": {
+    "lat": -27.1688287,
+    "lon": -65.4992751,
+    "aproximada": false,
+    "nombre": "SAN FRANCISCO",
+    "direccion": "COLON 246",
+    "localidad": "Monteros"
+  },
+  "piedrabuena|alvarez condarco 960|san miguel de tucuman": {
+    "lat": -26.8173059,
+    "lon": -65.1850109,
+    "aproximada": false,
+    "nombre": "PIEDRABUENA",
+    "direccion": "Álvarez Condarco 960",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "rocio|av ejercito del norte 801|san miguel de tucuman": {
+    "lat": -26.8142178,
+    "lon": -65.229398,
+    "aproximada": false,
+    "nombre": "ROCIO",
+    "direccion": "Av. Ejército Del Norte 801",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "farmacias tucuman andrea|congreso 820|san miguel de tucuman": {
+    "lat": -26.8425603,
+    "lon": -65.2058468,
+    "aproximada": false,
+    "nombre": "FARMACIAS TUCUMAN ANDREA",
+    "direccion": "Congreso 820",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "torres|av brigido teran 111|san miguel de tucuman": {
+    "lat": -26.8347392,
+    "lon": -65.1951948,
+    "aproximada": false,
+    "nombre": "TORRES",
+    "direccion": "Av. Brígido Terán 111",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "cristo rey av america|av america 411|san miguel de tucuman": {
+    "lat": -26.8155638,
+    "lon": -65.2493423,
+    "aproximada": false,
+    "nombre": "CRISTO REY AV. AMERICA",
+    "direccion": "Av. América 411",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "lavalle|lavalle 1731|san miguel de tucuman": {
+    "lat": -26.8347896,
+    "lon": -65.225765,
+    "aproximada": false,
+    "nombre": "LAVALLE",
+    "direccion": "Lavalle 1731",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "torres|uttinger 99|tafi viejo": {
+    "lat": -26.730563,
+    "lon": -65.2645956,
+    "aproximada": false,
+    "nombre": "TORRES",
+    "direccion": "Uttinger 99",
+    "localidad": "Tafí Viejo"
+  },
+  "zarzosa|av aconquija 2170|yerba buena": {
+    "lat": -26.8118662,
+    "lon": -65.3024269,
+    "aproximada": false,
+    "nombre": "ZARZOSA",
+    "direccion": "Av. Aconquija 2170",
+    "localidad": "Yerba Buena"
   }
 }
