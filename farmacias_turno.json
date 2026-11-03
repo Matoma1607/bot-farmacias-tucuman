@@ -1,152 +1,171 @@
 {
-  "fecha": "02/11/2026",
+  "fecha": "03/11/2026",
   "turno": "de 08:00 de ese dia a 08:00 del dia siguiente",
   "fuente": "https://cofatuc.org.ar/farmacias-de-turno/",
-  "actualizado": "02/11/2026 22:17",
+  "actualizado": "03/11/2026 11:11",
   "localidades": {
     "Aguilares": [
       {
-        "nombre": "NUESTRA SEÑORA DEL HUERTO",
-        "telefono": "3865698519",
-        "direccion": "Av. 9 de Julio 1176"
+        "nombre": "SAN MARTIN",
+        "telefono": "03865 - 481839",
+        "direccion": "Juan B. Alberdi 2395"
       }
     ],
     "Banda del Río Salí": [
       {
-        "nombre": "MODERNA",
-        "telefono": "4261637",
-        "direccion": "Av. Independencia 210"
+        "nombre": "NTRA.SRA.DEL VALLE",
+        "telefono": "4260228",
+        "direccion": "Av. Monseñor Diaz 831"
       }
     ],
     "Bella Vista": [
       {
-        "nombre": "SAN JORGE",
-        "telefono": "03814820597",
-        "direccion": "AV.FERNANDO PEDRO RIERA 240"
+        "nombre": "PAOLA",
+        "telefono": "03814820354",
+        "direccion": "GARCIA FERNANDEZ 239"
       }
     ],
     "Concepción": [
       {
-        "nombre": "FARMAPLUS",
-        "telefono": "3865680883",
-        "direccion": "San Juan 185"
+        "nombre": "FARMACON",
+        "telefono": "3865696732",
+        "direccion": "San Martin 2751"
+      },
+      {
+        "nombre": "9 DE JULIO",
+        "telefono": "",
+        "direccion": "9 de Julio 584"
+      },
+      {
+        "nombre": "DE LA CRUZ",
+        "telefono": "4270490",
+        "direccion": "Av. Gral. J. D. Perón 3395"
       }
     ],
     "Famaillá": [
       {
-        "nombre": "SAN ANTONIO",
-        "telefono": "03863 - 461089",
-        "direccion": "LAVALLE 362"
+        "nombre": "LOS ALISOS",
+        "telefono": "03863 - 462103",
+        "direccion": "LAPRIDA 185"
+      },
+      {
+        "nombre": "RENACER",
+        "telefono": "3816023779",
+        "direccion": "Av. Alem 700"
       }
     ],
     "Juan Bautista Alberdi": [
       {
-        "nombre": "PISTONE",
-        "telefono": "03865-471131",
-        "direccion": "MITRE 597"
+        "nombre": "VIRGEN DEL VALLE",
+        "telefono": "03865 - 471683",
+        "direccion": "Catamarca 276"
       },
       {
-        "nombre": "SANTA MARIA",
-        "telefono": "03865471150",
-        "direccion": "Lidoro Quinteros 750"
+        "nombre": "SAN ANTONIO",
+        "telefono": "3865689020",
+        "direccion": "ALEM 710"
       },
       {
-        "nombre": "FARMA SALUD ALBERDI",
-        "telefono": "3865577687",
-        "direccion": "BELGRANO 785"
-      }
-    ],
-    "La Cocha": [
-      {
-        "nombre": "MALPES",
-        "telefono": "",
-        "direccion": "RIVADAVIA 287"
-      }
-    ],
-    "Las Talitas": [
-      {
-        "nombre": "SOEME",
-        "telefono": "4371748",
-        "direccion": "Bº SOEME"
+        "nombre": "NORY",
+        "telefono": "4942796",
+        "direccion": "Ruta Gral San Martin KM 9,5"
       }
     ],
     "Lules": [
       {
-        "nombre": "GEDER",
-        "telefono": "03814811747",
-        "direccion": "BELGRANO 305"
+        "nombre": "BRAHIM",
+        "telefono": "03814811570",
+        "direccion": "BELGRANO 31"
       }
     ],
     "Monteros": [
       {
-        "nombre": "SAN FRANCISCO",
-        "telefono": "03863-428171",
-        "direccion": "COLON 246"
+        "nombre": "CENTRAL",
+        "telefono": "03863 - 426835",
+        "direccion": "COLON 38"
       }
     ],
     "San Miguel de Tucumán": [
       {
-        "nombre": "PIEDRABUENA",
-        "telefono": "2551465",
-        "direccion": "Álvarez Condarco 960"
+        "nombre": "EL CONDOR SCS",
+        "telefono": "4248573",
+        "direccion": "Alberdi 489"
       },
       {
-        "nombre": "ROCIO",
-        "telefono": "4233683",
-        "direccion": "Av. Ejército Del Norte 801"
+        "nombre": "ANCLA",
+        "telefono": "4210856",
+        "direccion": "Av. Juan B. Justo 924"
       },
       {
-        "nombre": "SANTA MARIA",
-        "telefono": "2315923",
-        "direccion": "Av. Las Américas 300"
+        "nombre": "CAROLA",
+        "telefono": "4321634",
+        "direccion": "Santiago 1602"
       },
       {
-        "nombre": "FARMACIAS TUCUMAN ANDREA",
+        "nombre": "PLAZOLETA EL BOSQUE",
+        "telefono": "3812066204",
+        "direccion": "Av. Belgrano 2077"
+      },
+      {
+        "nombre": "INDEPENDENCIA",
         "telefono": "",
-        "direccion": "Congreso 820"
+        "direccion": "Pedro León Gallo y Matheu Mz.3 casa 21,"
       },
       {
-        "nombre": "TORRES",
+        "nombre": "SAN ANTONIO Bº O. PIEDRA BUENA",
+        "telefono": "4285692",
+        "direccion": "Juramento 632"
+      },
+      {
+        "nombre": "PLAZOLETA",
+        "telefono": "4323175",
+        "direccion": "Av. Rep. del Líbano 987"
+      },
+      {
+        "nombre": "LA ESQUINA",
+        "telefono": "4349389",
+        "direccion": "Sargento Cabral 2050"
+      },
+      {
+        "nombre": "HORIZONTE",
+        "telefono": "4341291",
+        "direccion": "Venezuela 3600"
+      },
+      {
+        "nombre": "DAMIR",
         "telefono": "",
-        "direccion": "Av. Brígido Terán 111"
-      },
-      {
-        "nombre": "CRISTO REY AV. AMERICA",
-        "telefono": "",
-        "direccion": "Av. América 411"
-      },
-      {
-        "nombre": "LAVALLE",
-        "telefono": "4246671",
-        "direccion": "Lavalle 1731"
+        "direccion": "Jujuy 2133"
       }
     ],
     "Simoca": [
       {
-        "nombre": "9 DE JULIO",
-        "telefono": "",
-        "direccion": "9 DE JULIO 310"
+        "nombre": "SILVA",
+        "telefono": "03863 - 458010",
+        "direccion": "25 de Mayo y Belgrano"
       }
     ],
     "Tafí Viejo": [
       {
-        "nombre": "TORRES",
-        "telefono": "2591628",
-        "direccion": "Uttinger 99"
-      }
-    ],
-    "Villa Carmela": [
+        "nombre": "JOSEFINA",
+        "telefono": "0381 4615365",
+        "direccion": "9 de Julio 326"
+      },
       {
-        "nombre": "FARMAPLUS",
-        "telefono": "4931547",
-        "direccion": "Ruta 315 Km 6 - Bº 21 de Septiembre"
+        "nombre": "LA ESMERALDA",
+        "telefono": "43208648",
+        "direccion": "Bº Lomas de Tafi - Sector VII - Mza. 7 - C. 16"
       }
     ],
     "Yerba Buena": [
       {
-        "nombre": "ZARZOSA",
-        "telefono": "",
-        "direccion": "Av. Aconquija 2170"
+        "nombre": "FIORE",
+        "telefono": "4253807",
+        "direccion": "Bº Telefónico - Mza.H C.15"
+      },
+      {
+        "nombre": "VIRGEN DE LA CARIDAD",
+        "telefono": "4353974",
+        "direccion": "Perú 780"
       }
     ]
   }

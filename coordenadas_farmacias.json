@@ -2166,5 +2166,149 @@
     "nombre": "ZARZOSA",
     "direccion": "Av. Aconquija 2170",
     "localidad": "Yerba Buena"
+  },
+  "ntra sra del valle|av monsenor diaz 831|banda del rio sali": {
+    "lat": -26.8412422,
+    "lon": -65.1583774,
+    "aproximada": false,
+    "nombre": "NTRA.SRA.DEL VALLE",
+    "direccion": "Av. Monseñor Diaz 831",
+    "localidad": "Banda del Río Salí"
+  },
+  "farmacon|san martin 2751|concepcion": {
+    "lat": -27.3469001,
+    "lon": -65.586257,
+    "aproximada": false,
+    "nombre": "FARMACON",
+    "direccion": "San Martin 2751",
+    "localidad": "Concepción"
+  },
+  "9 de julio|9 de julio 584|concepcion": {
+    "lat": -27.3515361,
+    "lon": -65.5933794,
+    "aproximada": false,
+    "nombre": "9 DE JULIO",
+    "direccion": "9 de Julio 584",
+    "localidad": "Concepción"
+  },
+  "brahim|belgrano 31|lules": {
+    "lat": -26.9258851,
+    "lon": -65.3380306,
+    "aproximada": false,
+    "nombre": "BRAHIM",
+    "direccion": "BELGRANO 31",
+    "localidad": "Lules"
+  },
+  "central|colon 38|monteros": {
+    "lat": -27.1665909,
+    "lon": -65.497453,
+    "aproximada": false,
+    "nombre": "CENTRAL",
+    "direccion": "COLON 38",
+    "localidad": "Monteros"
+  },
+  "el condor scs|alberdi 489|san miguel de tucuman": {
+    "lat": -26.8354821,
+    "lon": -65.2159112,
+    "aproximada": false,
+    "nombre": "EL CONDOR SCS",
+    "direccion": "Alberdi 489",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "ancla|av juan b justo 924|san miguel de tucuman": {
+    "lat": -26.8197011,
+    "lon": -65.1942196,
+    "aproximada": false,
+    "nombre": "ANCLA",
+    "direccion": "Av. Juan B. Justo 924",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "carola|santiago 1602|san miguel de tucuman": {
+    "lat": -26.8206919,
+    "lon": -65.219981,
+    "aproximada": false,
+    "nombre": "CAROLA",
+    "direccion": "Santiago 1602",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "plazoleta el bosque|av belgrano 2077|san miguel de tucuman": {
+    "lat": -26.8137652,
+    "lon": -65.2252726,
+    "aproximada": false,
+    "nombre": "PLAZOLETA EL BOSQUE",
+    "direccion": "Av. Belgrano 2077",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "independencia|pedro leon gallo y matheu mz 3 casa 21|san miguel de tucuman": {
+    "lat": -26.8462147,
+    "lon": -65.2552132,
+    "aproximada": true,
+    "nombre": "INDEPENDENCIA",
+    "direccion": "Pedro León Gallo y Matheu Mz.3 casa 21,",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "san antonio bo o piedra buena|juramento 632|san miguel de tucuman": {
+    "lat": -26.8201828,
+    "lon": -65.1753873,
+    "aproximada": false,
+    "nombre": "SAN ANTONIO Bº O. PIEDRA BUENA",
+    "direccion": "Juramento 632",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "la esquina|sargento cabral 2050|san miguel de tucuman": {
+    "lat": -26.8168451,
+    "lon": -65.2349843,
+    "aproximada": false,
+    "nombre": "LA ESQUINA",
+    "direccion": "Sargento Cabral 2050",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "horizonte|venezuela 3600|san miguel de tucuman": {
+    "lat": -26.7957693,
+    "lon": -65.2466696,
+    "aproximada": false,
+    "nombre": "HORIZONTE",
+    "direccion": "Venezuela 3600",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "damir|jujuy 2133|san miguel de tucuman": {
+    "lat": -26.8384663,
+    "lon": -65.2130703,
+    "aproximada": false,
+    "nombre": "DAMIR",
+    "direccion": "Jujuy 2133",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "josefina|9 de julio 326|tafi viejo": {
+    "lat": -26.7351354,
+    "lon": -65.2576234,
+    "aproximada": false,
+    "nombre": "JOSEFINA",
+    "direccion": "9 de Julio 326",
+    "localidad": "Tafí Viejo"
+  },
+  "la esmeralda|bo lomas de tafi sector vii mza 7 c 16|tafi viejo": {
+    "lat": -26.7343146,
+    "lon": -65.259223,
+    "aproximada": false,
+    "nombre": "LA ESMERALDA",
+    "direccion": "Bº Lomas de Tafi - Sector VII - Mza. 7 - C. 16",
+    "localidad": "Tafí Viejo"
+  },
+  "fiore|bo telefonico mza h c 15|yerba buena": {
+    "lat": -26.8121581,
+    "lon": -65.2981714,
+    "aproximada": false,
+    "nombre": "FIORE",
+    "direccion": "Bº Telefónico - Mza.H C.15",
+    "localidad": "Yerba Buena"
+  },
+  "virgen de la caridad|peru 780|yerba buena": {
+    "lat": -26.8105839,
+    "lon": -65.2760635,
+    "aproximada": false,
+    "nombre": "VIRGEN DE LA CARIDAD",
+    "direccion": "Perú 780",
+    "localidad": "Yerba Buena"
   }
 }
