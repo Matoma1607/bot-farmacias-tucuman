@@ -2310,5 +2310,117 @@
     "nombre": "VIRGEN DE LA CARIDAD",
     "direccion": "Perú 780",
     "localidad": "Yerba Buena"
+  },
+  "las salinas|av rivadavia 1090|alderetes": {
+    "lat": -26.8117643,
+    "lon": -65.1422073,
+    "aproximada": false,
+    "nombre": "LAS SALINAS",
+    "direccion": "Av. Rivadavia 1090",
+    "localidad": "Alderetes"
+  },
+  "cruz alta|san martin 86|banda del rio sali": {
+    "lat": -26.8382006,
+    "lon": -65.167895,
+    "aproximada": false,
+    "nombre": "CRUZ ALTA",
+    "direccion": "San Martin 86",
+    "localidad": "Banda del Río Salí"
+  },
+  "inmaculada concepcion|san martin 2048|concepcion": {
+    "lat": -27.3451484,
+    "lon": -65.5947049,
+    "aproximada": false,
+    "nombre": "INMACULADA CONCEPCION",
+    "direccion": "SAN MARTIN 2048",
+    "localidad": "Concepción"
+  },
+  "avellaneda norte|av sarmiento 199|san miguel de tucuman": {
+    "lat": -26.8193799,
+    "lon": -65.1971313,
+    "aproximada": false,
+    "nombre": "AVELLANEDA NORTE",
+    "direccion": "Av. Sarmiento 199",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del pueblo belgrano|av belgrano 2847|san miguel de tucuman": {
+    "lat": -26.8115385,
+    "lon": -65.237432,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO BELGRANO",
+    "direccion": "Av. Belgrano 2847",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "juan xxiii s h|av roca 1502|san miguel de tucuman": {
+    "lat": -26.8403937,
+    "lon": -65.2228627,
+    "aproximada": false,
+    "nombre": "JUAN XXIII S.H.",
+    "direccion": "Av. Roca 1502",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "plazoleta sur|lavalle 2770|san miguel de tucuman": {
+    "lat": -26.8325424,
+    "lon": -65.2423861,
+    "aproximada": false,
+    "nombre": "PLAZOLETA SUR",
+    "direccion": "Lavalle 2770",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "san isidro|jujuy 3255|san miguel de tucuman": {
+    "lat": -26.8384663,
+    "lon": -65.2130703,
+    "aproximada": false,
+    "nombre": "SAN ISIDRO",
+    "direccion": "Jujuy 3255",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "villa amalia|mariano moreno 1744|san miguel de tucuman": {
+    "lat": -26.8377032,
+    "lon": -65.2012121,
+    "aproximada": false,
+    "nombre": "VILLA AMALIA",
+    "direccion": "Mariano Moreno 1744",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "niza|av ejercito del norte 88|san miguel de tucuman": {
+    "lat": -26.8234147,
+    "lon": -65.2320124,
+    "aproximada": false,
+    "nombre": "NIZA",
+    "direccion": "Av. Ejército del Norte 88",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "farma salud mitre|alberdi 440|san miguel de tucuman": {
+    "lat": -26.8349796,
+    "lon": -65.2154772,
+    "aproximada": false,
+    "nombre": "FARMA-SALUD MITRE",
+    "direccion": "Alberdi 440",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "santa elena|av alem 342|tafi viejo": {
+    "lat": -26.7307082,
+    "lon": -65.2581933,
+    "aproximada": false,
+    "nombre": "SANTA ELENA",
+    "direccion": "Av. Alem 342",
+    "localidad": "Tafí Viejo"
+  },
+  "rocio|moreno 550|yerba buena": {
+    "lat": -26.8071742,
+    "lon": -65.2956962,
+    "aproximada": false,
+    "nombre": "ROCIO",
+    "direccion": "Moreno 550",
+    "localidad": "Yerba Buena"
+  },
+  "flores|las rosas 1051|yerba buena": {
+    "lat": -26.8131806,
+    "lon": -65.2773376,
+    "aproximada": false,
+    "nombre": "FLORES",
+    "direccion": "Las Rosas 1051",
+    "localidad": "Yerba Buena"
   }
 }
