@@ -2422,5 +2422,101 @@
     "nombre": "FLORES",
     "direccion": "Las Rosas 1051",
     "localidad": "Yerba Buena"
+  },
+  "angar|av rivadavia y benjamin araoz|alderetes": {
+    "lat": -26.8105008,
+    "lon": -65.1412816,
+    "aproximada": true,
+    "nombre": "ANGAR",
+    "direccion": "Av. Rivadavia y Benjamín Araoz",
+    "localidad": "Alderetes"
+  },
+  "virgen del rosario s c s|italia 1211|concepcion": {
+    "lat": -27.3440751,
+    "lon": -65.5893917,
+    "aproximada": false,
+    "nombre": "VIRGEN DEL ROSARIO S.C.S.",
+    "direccion": "ITALIA 1211",
+    "localidad": "Concepción"
+  },
+  "lumahe|santa fe 1602|san miguel de tucuman": {
+    "lat": -26.8167197,
+    "lon": -65.21882,
+    "aproximada": false,
+    "nombre": "LUMAHE",
+    "direccion": "Santa Fe 1602",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "martin|av gobernador del campo 798|san miguel de tucuman": {
+    "lat": -26.8218752,
+    "lon": -65.1823972,
+    "aproximada": false,
+    "nombre": "MARTIN",
+    "direccion": "Av. Gobernador del Campo 798",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "mabel|matheu 152|san miguel de tucuman": {
+    "lat": -26.8529288,
+    "lon": -65.2044182,
+    "aproximada": false,
+    "nombre": "MABEL",
+    "direccion": "Matheu 152",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "nueva diza|ayacucho 2500|san miguel de tucuman": {
+    "lat": -26.8525475,
+    "lon": -65.2147692,
+    "aproximada": false,
+    "nombre": "NUEVA DIZA",
+    "direccion": "Ayacucho 2500",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "francisco|camino del peru 2079|san miguel de tucuman": {
+    "lat": -26.7964476,
+    "lon": -65.2584677,
+    "aproximada": false,
+    "nombre": "FRANCISCO",
+    "direccion": "Camino del Peru 2079",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "santa fe|santa fe 302|san miguel de tucuman": {
+    "lat": -26.8207556,
+    "lon": -65.199287,
+    "aproximada": false,
+    "nombre": "SANTA FE",
+    "direccion": "Santa Fe 302",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "plazoleta el abasto|san lorenzo 1902|san miguel de tucuman": {
+    "lat": -26.8292077,
+    "lon": -65.2271626,
+    "aproximada": false,
+    "nombre": "PLAZOLETA EL ABASTO",
+    "direccion": "San Lorenzo 1902",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "andalucia|av colon 3094|san miguel de tucuman": {
+    "lat": -26.8440654,
+    "lon": -65.2373894,
+    "aproximada": false,
+    "nombre": "ANDALUCIA",
+    "direccion": "AV.COLON 3094",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "santa rita|monteagudo 254|tafi viejo": {
+    "lat": -26.7330378,
+    "lon": -65.2577318,
+    "aproximada": false,
+    "nombre": "SANTA RITA",
+    "direccion": "Monteagudo 254",
+    "localidad": "Tafí Viejo"
+  },
+  "plazoleta yerba buena|av aconquija 2099|yerba buena": {
+    "lat": -26.8117863,
+    "lon": -65.3011932,
+    "aproximada": false,
+    "nombre": "PLAZOLETA YERBA BUENA",
+    "direccion": "AV. Aconquija 2099",
+    "localidad": "Yerba Buena"
   }
 }

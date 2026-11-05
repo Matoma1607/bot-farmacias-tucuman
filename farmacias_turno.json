@@ -1,165 +1,146 @@
 {
-  "fecha": "04/11/2026",
+  "fecha": "05/11/2026",
   "turno": "de 08:00 de ese dia a 08:00 del dia siguiente",
   "fuente": "https://cofatuc.org.ar/farmacias-de-turno/",
-  "actualizado": "04/11/2026 20:23",
+  "actualizado": "05/11/2026 11:11",
   "localidades": {
     "Aguilares": [
       {
-        "nombre": "SANTO TOMAS",
-        "telefono": "03865 - 482192",
-        "direccion": "DIEGO DE VILLARROEL Y V.SARSFI"
+        "nombre": "DEL BARRIO",
+        "telefono": "03865 - 481026",
+        "direccion": "Alsina S/Nº entre 20 de Junio y 24 de Septiembre"
       }
     ],
     "Alderetes": [
       {
-        "nombre": "LAS SALINAS",
-        "telefono": "4942935",
-        "direccion": "Av. Rivadavia 1090"
-      }
-    ],
-    "Banda del Río Salí": [
-      {
-        "nombre": "CRUZ ALTA",
-        "telefono": "4261438",
-        "direccion": "San Martin 86"
+        "nombre": "ANGAR",
+        "telefono": "4940350",
+        "direccion": "Av. Rivadavia y Benjamín Araoz"
       }
     ],
     "Bella Vista": [
       {
-        "nombre": "LIBERTAD",
-        "telefono": "4820234",
-        "direccion": "San Martin 100"
+        "nombre": "SAN NICOLAS II",
+        "telefono": "3816375174",
+        "direccion": "Juan XXIII 391"
       }
     ],
     "Concepción": [
       {
-        "nombre": "INMACULADA CONCEPCION",
-        "telefono": "03865421219",
-        "direccion": "SAN MARTIN 2048"
+        "nombre": "VIRGEN DEL ROSARIO S.C.S.",
+        "telefono": "03865424064",
+        "direccion": "ITALIA 1211"
       }
     ],
     "Famaillá": [
       {
-        "nombre": "UNION",
-        "telefono": "03863-461963",
-        "direccion": "SARMIENTO 136"
+        "nombre": "LA BOTICA",
+        "telefono": "03863-461011",
+        "direccion": "Diego de Villarroel 256 BºOeste"
       },
       {
-        "nombre": "PEREIRA",
-        "telefono": "",
-        "direccion": "SAN MARTIN 354"
+        "nombre": "VITRA FAMAILLÁ",
+        "telefono": "03863426944",
+        "direccion": "RUTA 38 Y AV. CALCHAQUI"
       }
     ],
     "Juan Bautista Alberdi": [
       {
-        "nombre": "ALBERDI",
-        "telefono": "03865 - 472962",
-        "direccion": "Rivadavia 585"
+        "nombre": "SOL",
+        "telefono": "03865 - 472052",
+        "direccion": "Av. Campero 216"
       },
       {
-        "nombre": "FLORES",
-        "telefono": "3865602989",
-        "direccion": "Brown 430"
+        "nombre": "FHARMASEN",
+        "telefono": "",
+        "direccion": "Filgueira Oviedo 941"
       }
     ],
     "La Cocha": [
       {
-        "nombre": "INDEPENDENCIA S.H.",
-        "telefono": "03865-496013",
-        "direccion": "San Martin 93 - Bº Centro"
+        "nombre": "SANTA TERESITA",
+        "telefono": "03865-496163",
+        "direccion": "SARMIENTO 69"
       }
     ],
     "Lules": [
       {
-        "nombre": "SAN ISIDRO",
-        "telefono": "4812746",
-        "direccion": "Juan Luis Nogués 98"
+        "nombre": "SANTA RITA",
+        "telefono": "03814811683",
+        "direccion": "SAN MARTIN 89"
       }
     ],
     "Monteros": [
       {
-        "nombre": "DEL MILAGRO",
-        "telefono": "03865-427943",
-        "direccion": "ALBERDI 260"
+        "nombre": "MONZON",
+        "telefono": "3863424911",
+        "direccion": "Monzon 203 - Esq. Crisostomo Alvarez"
       },
       {
-        "nombre": "PACARA",
+        "nombre": "YURINA",
         "telefono": "",
-        "direccion": "Ernesto Padilla180"
+        "direccion": "SAN MARTIN 672"
       }
     ],
     "San Miguel de Tucumán": [
       {
-        "nombre": "AVELLANEDA NORTE",
-        "telefono": "4219399",
-        "direccion": "Av. Sarmiento 199"
+        "nombre": "LUMAHE",
+        "telefono": "4237625",
+        "direccion": "Santa Fe 1602"
       },
       {
-        "nombre": "DEL PUEBLO BELGRANO",
+        "nombre": "MARTIN",
+        "telefono": "4860815",
+        "direccion": "Av. Gobernador del Campo 798"
+      },
+      {
+        "nombre": "MABEL",
+        "telefono": "4292574",
+        "direccion": "Matheu 152"
+      },
+      {
+        "nombre": "NUEVA DIZA",
+        "telefono": "2308584",
+        "direccion": "Ayacucho 2500"
+      },
+      {
+        "nombre": "FRANCISCO",
         "telefono": "",
-        "direccion": "Av. Belgrano 2847"
+        "direccion": "Camino del Peru 2079"
       },
       {
-        "nombre": "JUAN XXIII S.H.",
-        "telefono": "4369561",
-        "direccion": "Av. Roca 1502"
-      },
-      {
-        "nombre": "PLAZOLETA SUR",
-        "telefono": "4234590",
-        "direccion": "Lavalle 2770"
-      },
-      {
-        "nombre": "SAN ISIDRO",
-        "telefono": "4292939",
-        "direccion": "Jujuy 3255"
-      },
-      {
-        "nombre": "VILLA AMALIA",
-        "telefono": "2342651",
-        "direccion": "Mariano Moreno 1744"
-      },
-      {
-        "nombre": "NIZA",
-        "telefono": "4236241",
-        "direccion": "Av. Ejército del Norte 88"
-      },
-      {
-        "nombre": "FARMA-SALUD MITRE",
+        "nombre": "SANTA FE",
         "telefono": "",
-        "direccion": "Alberdi 440"
-      }
-    ],
-    "Simoca": [
-      {
-        "nombre": "ALTO VERDE",
-        "telefono": "3863482164",
-        "direccion": "San Martin 229"
+        "direccion": "Santa Fe 302"
       },
       {
-        "nombre": "THAYS",
-        "telefono": "",
-        "direccion": "Av. Congreso 798"
+        "nombre": "PLAZOLETA EL ABASTO",
+        "telefono": "4323710",
+        "direccion": "San Lorenzo 1902"
+      },
+      {
+        "nombre": "ANDALUCIA",
+        "telefono": "4229177",
+        "direccion": "AV.COLON 3094"
       }
     ],
     "Tafí Viejo": [
       {
-        "nombre": "SANTA ELENA",
-        "telefono": "2590233",
-        "direccion": "Av. Alem 342"
+        "nombre": "SANTA RITA",
+        "telefono": "4616382",
+        "direccion": "Monteagudo 254"
+      },
+      {
+        "nombre": "PLAZOLETA LOMAS DE TAFI",
+        "telefono": "3208203",
+        "direccion": "SECTOR XIV- MZA 9- CASA"
       }
     ],
     "Yerba Buena": [
       {
-        "nombre": "ROCIO",
-        "telefono": "",
-        "direccion": "Moreno 550"
-      },
-      {
-        "nombre": "FLORES",
-        "telefono": "3815899280",
-        "direccion": "Las Rosas 1051"
+        "nombre": "PLAZOLETA YERBA BUENA",
+        "telefono": "4251370",
+        "direccion": "AV. Aconquija 2099"
       }
     ]
   }
