@@ -1,146 +1,195 @@
 {
-  "fecha": "05/11/2026",
+  "fecha": "06/11/2026",
   "turno": "de 08:00 de ese dia a 08:00 del dia siguiente",
   "fuente": "https://cofatuc.org.ar/farmacias-de-turno/",
-  "actualizado": "05/11/2026 20:37",
+  "actualizado": "06/11/2026 11:11",
   "localidades": {
     "Aguilares": [
       {
-        "nombre": "DEL BARRIO",
-        "telefono": "03865 - 481026",
-        "direccion": "Alsina S/Nº entre 20 de Junio y 24 de Septiembre"
+        "nombre": "NTRA.SRA. DEL CARMEN",
+        "telefono": "03865 - 481579",
+        "direccion": "AV. MITRE 576"
       }
     ],
-    "Alderetes": [
+    "Banda del Río Salí": [
       {
-        "nombre": "ANGAR",
-        "telefono": "4940350",
-        "direccion": "Av. Rivadavia y Benjamín Araoz"
+        "nombre": "MARTINIANO",
+        "telefono": "4260918",
+        "direccion": "Dorrego 298"
       }
     ],
     "Bella Vista": [
       {
-        "nombre": "SAN NICOLAS II",
-        "telefono": "3816375174",
-        "direccion": "Juan XXIII 391"
+        "nombre": "SAN MARTIN",
+        "telefono": "03814820155",
+        "direccion": "SAN MARTIN 270"
       }
     ],
     "Concepción": [
       {
-        "nombre": "VIRGEN DEL ROSARIO S.C.S.",
-        "telefono": "03865424064",
-        "direccion": "ITALIA 1211"
+        "nombre": "SAN VALENTIN",
+        "telefono": "03865-424900",
+        "direccion": "24 DE SETIEMBRE 1498"
       }
     ],
     "Famaillá": [
       {
-        "nombre": "LA BOTICA",
-        "telefono": "03863-461011",
-        "direccion": "Diego de Villarroel 256 BºOeste"
+        "nombre": "SAN JOSE",
+        "telefono": "3814177926",
+        "direccion": "SAN MARTIN esq. RIVADAVIA"
       },
       {
-        "nombre": "VITRA FAMAILLÁ",
-        "telefono": "03863426944",
-        "direccion": "RUTA 38 Y AV. CALCHAQUI"
+        "nombre": "SALUD",
+        "telefono": "3816504925",
+        "direccion": "Av. Calchaquí 171"
       }
     ],
     "Juan Bautista Alberdi": [
       {
-        "nombre": "SOL",
-        "telefono": "03865 - 472052",
-        "direccion": "Av. Campero 216"
+        "nombre": "ESPECHE",
+        "telefono": "",
+        "direccion": "AV. SARMIENTO 565"
       },
       {
-        "nombre": "FHARMASEN",
+        "nombre": "SAN IGNACIO",
         "telefono": "",
-        "direccion": "Filgueira Oviedo 941"
+        "direccion": "AV CAMPERO 278"
       }
     ],
     "La Cocha": [
       {
-        "nombre": "SANTA TERESITA",
-        "telefono": "03865-496163",
-        "direccion": "SARMIENTO 69"
+        "nombre": "MALPES",
+        "telefono": "",
+        "direccion": "RIVADAVIA 287"
+      }
+    ],
+    "Lastenia": [
+      {
+        "nombre": "ALQUIMIA",
+        "telefono": "",
+        "direccion": "PJE CASEROS S/N - RUTA 306 KM2.5"
       }
     ],
     "Lules": [
       {
-        "nombre": "SANTA RITA",
-        "telefono": "03814811683",
-        "direccion": "SAN MARTIN 89"
+        "nombre": "9 DE JULIO",
+        "telefono": "03814811438",
+        "direccion": "9 DE JULIO 278"
       }
     ],
     "Monteros": [
       {
-        "nombre": "MONZON",
-        "telefono": "3863424911",
-        "direccion": "Monzon 203 - Esq. Crisostomo Alvarez"
+        "nombre": "CRISTO REY",
+        "telefono": "",
+        "direccion": "25 DE MAYO 361"
       },
       {
-        "nombre": "YURINA",
+        "nombre": "SAN CARLOS",
         "telefono": "",
-        "direccion": "SAN MARTIN 672"
+        "direccion": "AYACUCHO 897"
       }
     ],
     "San Miguel de Tucumán": [
       {
-        "nombre": "LUMAHE",
-        "telefono": "4237625",
-        "direccion": "Santa Fe 1602"
+        "nombre": "MILAN",
+        "telefono": "3815106366",
+        "direccion": "BATALLA DE SUIPACHA 220"
       },
       {
-        "nombre": "MARTIN",
-        "telefono": "4860815",
-        "direccion": "Av. Gobernador del Campo 798"
-      },
-      {
-        "nombre": "MABEL",
-        "telefono": "4292574",
-        "direccion": "Matheu 152"
-      },
-      {
-        "nombre": "NUEVA DIZA",
-        "telefono": "2308584",
-        "direccion": "Ayacucho 2500"
-      },
-      {
-        "nombre": "FRANCISCO",
+        "nombre": "DEL PUEBLO SALTA",
         "telefono": "",
-        "direccion": "Camino del Peru 2079"
+        "direccion": "SALTA 298 LOCAL 5"
       },
       {
-        "nombre": "SANTA FE",
+        "nombre": "PUNTO FARMAX",
+        "telefono": "3814543483",
+        "direccion": "Av. Sarmiento 765"
+      },
+      {
+        "nombre": "MILAN",
         "telefono": "",
-        "direccion": "Santa Fe 302"
+        "direccion": "Suipacha 220"
       },
       {
-        "nombre": "PLAZOLETA EL ABASTO",
-        "telefono": "4323710",
-        "direccion": "San Lorenzo 1902"
+        "nombre": "LAS 2 NIÑAS",
+        "telefono": "4236587",
+        "direccion": "Lavalle 3202"
       },
       {
-        "nombre": "ANDALUCIA",
-        "telefono": "4229177",
-        "direccion": "AV.COLON 3094"
+        "nombre": "ZAVALIA",
+        "telefono": "4277537",
+        "direccion": "Av. Siria 2181 L. 5"
+      },
+      {
+        "nombre": "DEL CERRO",
+        "telefono": "3815970321",
+        "direccion": "México 3525"
+      },
+      {
+        "nombre": "ROCA",
+        "telefono": "4240187",
+        "direccion": "Av. Roca 250"
+      },
+      {
+        "nombre": "PLAZOLETA OESTE",
+        "telefono": "4233419",
+        "direccion": "Av. Ejercito del Norte 505"
+      },
+      {
+        "nombre": "LOS PINOS",
+        "telefono": "03814276376",
+        "direccion": "MUNECAS 2153"
+      },
+      {
+        "nombre": "DE JESUS EMANUEL",
+        "telefono": "4392905",
+        "direccion": "Rufino Cossio 1373"
+      }
+    ],
+    "Simoca": [
+      {
+        "nombre": "25 DE MAYO",
+        "telefono": "03863-481059",
+        "direccion": "25 de Mayo 120"
+      },
+      {
+        "nombre": "SAGRADO CORAZON",
+        "telefono": "0381 - 481028",
+        "direccion": "25 DE MAYO 362"
       }
     ],
     "Tafí Viejo": [
       {
-        "nombre": "SANTA RITA",
-        "telefono": "4616382",
-        "direccion": "Monteagudo 254"
+        "nombre": "ROCIO",
+        "telefono": "",
+        "direccion": "Velez Sarfield 206"
       },
       {
-        "nombre": "PLAZOLETA LOMAS DE TAFI",
-        "telefono": "3208203",
-        "direccion": "SECTOR XIV- MZA 9- CASA"
+        "nombre": "LAS QUINTAS",
+        "telefono": "",
+        "direccion": "Julio Cortazar S/Nº y Camino del Perú - Los Pocitos"
+      },
+      {
+        "nombre": "LOS ALAMOS II",
+        "telefono": "3812193277",
+        "direccion": "Av. Roca 600"
+      },
+      {
+        "nombre": "MARISCAL",
+        "telefono": "3812108190",
+        "direccion": "PUEYRREDON 205"
       }
     ],
     "Yerba Buena": [
       {
-        "nombre": "PLAZOLETA YERBA BUENA",
-        "telefono": "4251370",
-        "direccion": "AV. Aconquija 2099"
+        "nombre": "LOS ALISOS",
+        "telefono": "4843736",
+        "direccion": "Av. Aconquija 2491"
+      },
+      {
+        "nombre": "FARMAS FANZOLATO",
+        "telefono": "3816360434",
+        "direccion": "FANZOLATO S/N ESQUINA nICOLAS AVELLANEDA LOCAL 6"
       }
     ]
   }

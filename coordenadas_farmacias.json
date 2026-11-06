@@ -2518,5 +2518,125 @@
     "nombre": "PLAZOLETA YERBA BUENA",
     "direccion": "AV. Aconquija 2099",
     "localidad": "Yerba Buena"
+  },
+  "martiniano|dorrego 298|banda del rio sali": {
+    "lat": -26.841339,
+    "lon": -65.1706339,
+    "aproximada": false,
+    "nombre": "MARTINIANO",
+    "direccion": "Dorrego 298",
+    "localidad": "Banda del Río Salí"
+  },
+  "milan|batalla de suipacha 220|san miguel de tucuman": {
+    "lat": -26.8224812,
+    "lon": -65.2154289,
+    "aproximada": false,
+    "nombre": "MILAN",
+    "direccion": "BATALLA DE SUIPACHA 220",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del pueblo salta|salta 298 local 5|san miguel de tucuman": {
+    "lat": -26.8257415,
+    "lon": -65.2100036,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO SALTA",
+    "direccion": "SALTA 298 LOCAL 5",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "punto farmax|av sarmiento 765|san miguel de tucuman": {
+    "lat": -26.8177639,
+    "lon": -65.2057251,
+    "aproximada": false,
+    "nombre": "PUNTO FARMAX",
+    "direccion": "Av. Sarmiento 765",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "milan|suipacha 220|san miguel de tucuman": {
+    "lat": -26.8252504,
+    "lon": -65.2162528,
+    "aproximada": false,
+    "nombre": "MILAN",
+    "direccion": "Suipacha 220",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "las 2 ninas|lavalle 3202|san miguel de tucuman": {
+    "lat": -26.8314756,
+    "lon": -65.248382,
+    "aproximada": false,
+    "nombre": "LAS 2 NIÑAS",
+    "direccion": "Lavalle 3202",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del cerro|mexico 3525|san miguel de tucuman": {
+    "lat": -26.7983703,
+    "lon": -65.2257467,
+    "aproximada": false,
+    "nombre": "DEL CERRO",
+    "direccion": "México 3525",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "roca|av roca 250|san miguel de tucuman": {
+    "lat": -26.8440907,
+    "lon": -65.2037812,
+    "aproximada": false,
+    "nombre": "ROCA",
+    "direccion": "Av. Roca 250",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "plazoleta oeste|av ejercito del norte 505|san miguel de tucuman": {
+    "lat": -26.8236381,
+    "lon": -65.2319364,
+    "aproximada": false,
+    "nombre": "PLAZOLETA OESTE",
+    "direccion": "Av. Ejercito del Norte 505",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "los pinos|munecas 2153|san miguel de tucuman": {
+    "lat": -26.8062142,
+    "lon": -65.2004287,
+    "aproximada": false,
+    "nombre": "LOS PINOS",
+    "direccion": "MUNECAS 2153",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "de jesus emanuel|rufino cossio 1373|san miguel de tucuman": {
+    "lat": -26.8567667,
+    "lon": -65.2657434,
+    "aproximada": false,
+    "nombre": "DE JESUS EMANUEL",
+    "direccion": "Rufino Cossio 1373",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "los alamos ii|av roca 600|tafi viejo": {
+    "lat": -26.7429437,
+    "lon": -65.2572659,
+    "aproximada": false,
+    "nombre": "LOS ALAMOS II",
+    "direccion": "Av. Roca 600",
+    "localidad": "Tafí Viejo"
+  },
+  "mariscal|pueyrredon 205|tafi viejo": {
+    "lat": -26.7312116,
+    "lon": -65.2516399,
+    "aproximada": false,
+    "nombre": "MARISCAL",
+    "direccion": "PUEYRREDON 205",
+    "localidad": "Tafí Viejo"
+  },
+  "los alisos|av aconquija 2491|yerba buena": {
+    "lat": -26.8106574,
+    "lon": -65.306991,
+    "aproximada": false,
+    "nombre": "LOS ALISOS",
+    "direccion": "Av. Aconquija 2491",
+    "localidad": "Yerba Buena"
+  },
+  "farmas fanzolato|fanzolato s n esquina nicolas avellaneda local 6|yerba buena": {
+    "lat": -26.8012667,
+    "lon": -65.2701199,
+    "aproximada": true,
+    "nombre": "FARMAS FANZOLATO",
+    "direccion": "FANZOLATO S/N ESQUINA nICOLAS AVELLANEDA LOCAL 6",
+    "localidad": "Yerba Buena"
   }
 }
