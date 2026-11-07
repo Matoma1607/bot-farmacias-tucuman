@@ -2638,5 +2638,133 @@
     "nombre": "FARMAS FANZOLATO",
     "direccion": "FANZOLATO S/N ESQUINA nICOLAS AVELLANEDA LOCAL 6",
     "localidad": "Yerba Buena"
+  },
+  "santa ines|bo santa ines|alderetes": {
+    "lat": -26.8132129,
+    "lon": -65.1411367,
+    "aproximada": false,
+    "nombre": "SANTA INES",
+    "direccion": "Bº Santa Ines",
+    "localidad": "Alderetes"
+  },
+  "gale|av santo cristo 50|banda del rio sali": {
+    "lat": -26.8510937,
+    "lon": -65.1571596,
+    "aproximada": false,
+    "nombre": "GALE",
+    "direccion": "Av. Santo Cristo 50",
+    "localidad": "Banda del Río Salí"
+  },
+  "san francisco|mariano moreno 2594|concepcion": {
+    "lat": -27.3415657,
+    "lon": -65.5986143,
+    "aproximada": false,
+    "nombre": "SAN FRANCISCO",
+    "direccion": "Mariano Moreno 2594",
+    "localidad": "Concepción"
+  },
+  "del pueblo roca 2|av n kirchner 3323|san miguel de tucuman": {
+    "lat": -26.8611113,
+    "lon": -65.2421808,
+    "aproximada": false,
+    "nombre": "DEL PUEBLO ROCA 2",
+    "direccion": "Av. N. Kirchner 3323",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del sol|matheu 1945|san miguel de tucuman": {
+    "lat": -26.8549115,
+    "lon": -65.1956396,
+    "aproximada": false,
+    "nombre": "DEL SOL",
+    "direccion": "Matheu 1945",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "por la vida|av roca 3323|san miguel de tucuman": {
+    "lat": -26.8419916,
+    "lon": -65.2135233,
+    "aproximada": false,
+    "nombre": "POR LA VIDA",
+    "direccion": "Av. Roca 3323",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "nuri|lizondo borda 85|san miguel de tucuman": {
+    "lat": -26.8064841,
+    "lon": -65.2460796,
+    "aproximada": false,
+    "nombre": "NURI",
+    "direccion": "Lizondo Borda 85",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "monteagudo|monteagudo 644|san miguel de tucuman": {
+    "lat": -26.8226044,
+    "lon": -65.1982066,
+    "aproximada": false,
+    "nombre": "MONTEAGUDO",
+    "direccion": "Monteagudo 644",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "mixtura|munecas 1799|san miguel de tucuman": {
+    "lat": -26.8059885,
+    "lon": -65.200237,
+    "aproximada": false,
+    "nombre": "MIXTURA",
+    "direccion": "Muñecas 1799",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "mariana|bo smata ii|san miguel de tucuman": {
+    "lat": -26.8303703,
+    "lon": -65.2038133,
+    "aproximada": false,
+    "nombre": "MARIANA",
+    "direccion": "Bº Smata II",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "lionel|uruguay 1313|san miguel de tucuman": {
+    "lat": -26.8107618,
+    "lon": -65.2197583,
+    "aproximada": false,
+    "nombre": "LIONEL",
+    "direccion": "Uruguay 1313",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "juramento s h|av gobernador del campo 370|san miguel de tucuman": {
+    "lat": -26.8207358,
+    "lon": -65.1886966,
+    "aproximada": false,
+    "nombre": "JURAMENTO S.H.",
+    "direccion": "Av. Gobernador del Campo 370",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "hidalgo s r l|av alem 37|san miguel de tucuman": {
+    "lat": -26.8287767,
+    "lon": -65.2188775,
+    "aproximada": false,
+    "nombre": "HIDALGO S.R.L.",
+    "direccion": "Av. Alem 37",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "la union yerba buena s a|av aconquija 1931|yerba buena": {
+    "lat": -26.8120854,
+    "lon": -65.2976523,
+    "aproximada": false,
+    "nombre": "LA UNION YERBA BUENA S.A.",
+    "direccion": "Av. Aconquija 1931",
+    "localidad": "Yerba Buena"
+  },
+  "sofia|bo bernel 1 mza d lot 17|yerba buena": {
+    "lat": -26.8121581,
+    "lon": -65.2981714,
+    "aproximada": false,
+    "nombre": "SOFIA",
+    "direccion": "Bº Bernel 1 - Mza. D - Lot. 17",
+    "localidad": "Yerba Buena"
+  },
+  "higueritas|las higueritas 2190|yerba buena": {
+    "lat": -26.8060671,
+    "lon": -65.2855476,
+    "aproximada": false,
+    "nombre": "HIGUERITAS",
+    "direccion": "LAS HIGUERITAS 2190",
+    "localidad": "Yerba Buena"
   }
 }
