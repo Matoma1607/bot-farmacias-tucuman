@@ -2766,5 +2766,101 @@
     "nombre": "HIGUERITAS",
     "direccion": "LAS HIGUERITAS 2190",
     "localidad": "Yerba Buena"
+  },
+  "del este|av rivadavia esq teresa de calcuta|alderetes": {
+    "lat": -26.8105008,
+    "lon": -65.1412816,
+    "aproximada": true,
+    "nombre": "DEL ESTE",
+    "direccion": "Av. Rivadavia esq. teresa de calcuta",
+    "localidad": "Alderetes"
+  },
+  "imperial|dorrego y nicolas laguna|banda del rio sali": {
+    "lat": -26.8453401,
+    "lon": -65.1716732,
+    "aproximada": true,
+    "nombre": "IMPERIAL",
+    "direccion": "Dorrego y Nicolás Laguna",
+    "localidad": "Banda del Río Salí"
+  },
+  "argentina|colon 79|concepcion": {
+    "lat": -27.3454077,
+    "lon": -65.5891414,
+    "aproximada": false,
+    "nombre": "ARGENTINA",
+    "direccion": "COLON 79",
+    "localidad": "Concepción"
+  },
+  "ely|av colon 176|san miguel de tucuman": {
+    "lat": -26.8274035,
+    "lon": -65.2325616,
+    "aproximada": false,
+    "nombre": "ELY",
+    "direccion": "Av. Colon 176",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "la salud|mendoza 3185|san miguel de tucuman": {
+    "lat": -26.8192379,
+    "lon": -65.2453291,
+    "aproximada": false,
+    "nombre": "LA SALUD",
+    "direccion": "Mendoza 3185",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "la paz|san lorenzo 996|san miguel de tucuman": {
+    "lat": -26.8323262,
+    "lon": -65.2129281,
+    "aproximada": false,
+    "nombre": "LA PAZ",
+    "direccion": "San Lorenzo 996",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "moreno|moreno 1571|san miguel de tucuman": {
+    "lat": -26.853964,
+    "lon": -65.2044624,
+    "aproximada": false,
+    "nombre": "MORENO",
+    "direccion": "Moreno 1571",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "san valentin|av alem 2027|san miguel de tucuman": {
+    "lat": -26.8432338,
+    "lon": -65.2220729,
+    "aproximada": false,
+    "nombre": "SAN VALENTIN",
+    "direccion": "AV.ALEM 2027",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "de la virgen maria|av siria 1632|san miguel de tucuman": {
+    "lat": -26.8076471,
+    "lon": -65.2052985,
+    "aproximada": false,
+    "nombre": "DE LA VIRGEN MARIA",
+    "direccion": "Av. Siria 1632",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del sol|bo prospero mena 530|tafi viejo": {
+    "lat": -26.7343146,
+    "lon": -65.259223,
+    "aproximada": false,
+    "nombre": "DEL SOL",
+    "direccion": "Bº Prospero Mena 530",
+    "localidad": "Tafí Viejo"
+  },
+  "villa nueva san jose|frias silva 310|yerba buena": {
+    "lat": -26.8065561,
+    "lon": -65.2912995,
+    "aproximada": false,
+    "nombre": "VILLA NUEVA SAN JOSE",
+    "direccion": "Frias Silva 310",
+    "localidad": "Yerba Buena"
+  },
+  "apotek|san lorenzo 207 esq cariola|yerba buena": {
+    "lat": -26.8154358,
+    "lon": -65.2941512,
+    "aproximada": true,
+    "nombre": "APOTEK",
+    "direccion": "SAN LORENZO 207 ESQ. CARIOLA",
+    "localidad": "Yerba Buena"
   }
 }
