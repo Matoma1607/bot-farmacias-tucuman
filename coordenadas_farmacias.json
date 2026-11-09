@@ -2862,5 +2862,117 @@
     "nombre": "APOTEK",
     "direccion": "SAN LORENZO 207 ESQ. CARIOLA",
     "localidad": "Yerba Buena"
+  },
+  "de la rosa sur|sargento cabral 181|banda del rio sali": {
+    "lat": -26.8417461,
+    "lon": -65.1666557,
+    "aproximada": false,
+    "nombre": "DE LA ROSA SUR",
+    "direccion": "Sargento Cabral 181",
+    "localidad": "Banda del Río Salí"
+  },
+  "farmaplus ii|heredia 737|concepcion": {
+    "lat": -27.3395269,
+    "lon": -65.5862373,
+    "aproximada": false,
+    "nombre": "FARMAPLUS II",
+    "direccion": "Heredia 737",
+    "localidad": "Concepción"
+  },
+  "san agustin|stewart shipton y octaviano vera|concepcion": {
+    "lat": -27.348131,
+    "lon": -65.5946853,
+    "aproximada": true,
+    "nombre": "SAN AGUSTIN",
+    "direccion": "Stewart Shipton y Octaviano Vera",
+    "localidad": "Concepción"
+  },
+  "la candelaria|bo 470 viviendas mz q c 18|san andres": {
+    "lat": -26.899346,
+    "lon": -65.1969285,
+    "aproximada": false,
+    "nombre": "LA CANDELARIA",
+    "direccion": "Bº 470 Viviendas - Mz. Q. - C.18",
+    "localidad": "San Andrés"
+  },
+  "florida|felix de olazabal 1318|san miguel de tucuman": {
+    "lat": -26.8006623,
+    "lon": -65.2497874,
+    "aproximada": false,
+    "nombre": "FLORIDA",
+    "direccion": "Felix de Olazabal 1318",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "mate de luna|24 de septiembre 1399|san miguel de tucuman": {
+    "lat": -26.8387609,
+    "lon": -65.2395113,
+    "aproximada": false,
+    "nombre": "MATE DE LUNA",
+    "direccion": "24 de Septiembre 1399",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "santa cruz|av independencia 1602|san miguel de tucuman": {
+    "lat": -26.8451618,
+    "lon": -65.2271253,
+    "aproximada": false,
+    "nombre": "SANTA CRUZ",
+    "direccion": "Av. Independencia 1602",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "pilar|av coronel suarez 1002|san miguel de tucuman": {
+    "lat": -26.8144744,
+    "lon": -65.1757283,
+    "aproximada": false,
+    "nombre": "PILAR",
+    "direccion": "AV. CORONEL SUAREZ 1002",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "plazoleta argentina|avenida roca 663|san miguel de tucuman": {
+    "lat": -26.8425499,
+    "lon": -65.2100665,
+    "aproximada": false,
+    "nombre": "PLAZOLETA ARGENTINA",
+    "direccion": "avenida Roca 663",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "del jardin|av siria 1305|san miguel de tucuman": {
+    "lat": -26.8120948,
+    "lon": -65.2062774,
+    "aproximada": false,
+    "nombre": "DEL JARDIN",
+    "direccion": "Av. Siria 1305",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "celeste|bolivar 2825|san miguel de tucuman": {
+    "lat": -26.8328589,
+    "lon": -65.2465091,
+    "aproximada": false,
+    "nombre": "CELESTE",
+    "direccion": "Bolivar 2825",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "auxiliadora|corrientes 64|san miguel de tucuman": {
+    "lat": -26.8241961,
+    "lon": -65.1963129,
+    "aproximada": false,
+    "nombre": "AUXILIADORA",
+    "direccion": "Corrientes 64",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "de la plaza|congreso 538|tafi viejo": {
+    "lat": -26.7364992,
+    "lon": -65.2567311,
+    "aproximada": false,
+    "nombre": "DE LA PLAZA",
+    "direccion": "Congreso 538",
+    "localidad": "Tafí Viejo"
+  },
+  "plazoleta el cristo|av aconquija 1|yerba buena": {
+    "lat": -26.8181331,
+    "lon": -65.2651211,
+    "aproximada": false,
+    "nombre": "PLAZOLETA EL CRISTO",
+    "direccion": "Av. Aconquija 1",
+    "localidad": "Yerba Buena"
   }
 }
