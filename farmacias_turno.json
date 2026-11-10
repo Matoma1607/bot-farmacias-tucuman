@@ -1,170 +1,184 @@
 {
-  "fecha": "09/11/2026",
+  "fecha": "10/11/2026",
   "turno": "de 08:00 de ese dia a 08:00 del dia siguiente",
   "fuente": "https://cofatuc.org.ar/farmacias-de-turno/",
-  "actualizado": "09/11/2026 22:57",
+  "actualizado": "10/11/2026 11:11",
   "localidades": {
     "Aguilares": [
       {
-        "nombre": "SAN MARTIN DE PORRES",
-        "telefono": "03865-482075",
-        "direccion": "SAN MARTIN 633"
+        "nombre": "CORDOBA",
+        "telefono": "0365485501",
+        "direccion": "AV. SARMIENTO 621"
+      }
+    ],
+    "Alderetes": [
+      {
+        "nombre": "SAN BENITO",
+        "telefono": "4942948",
+        "direccion": "Rivadavia 899"
       }
     ],
     "Banda del Río Salí": [
       {
-        "nombre": "DE LA ROSA SUR",
-        "telefono": "4263049",
-        "direccion": "Sargento Cabral 181"
+        "nombre": "MARIO BRAVO",
+        "telefono": "4872830",
+        "direccion": "Mario Bravo 934"
       }
     ],
     "Bella Vista": [
       {
-        "nombre": "LIBERTAD",
-        "telefono": "4820234",
-        "direccion": "San Martin 100"
+        "nombre": "SAN NICOLAS II",
+        "telefono": "3816375174",
+        "direccion": "Juan XXIII 391"
       }
     ],
     "Concepción": [
       {
-        "nombre": "FARMAPLUS II",
-        "telefono": "",
-        "direccion": "Heredia 737"
+        "nombre": "LA PERLA",
+        "telefono": "03865 23-1432",
+        "direccion": "España 1006"
       },
       {
-        "nombre": "SAN AGUSTIN",
-        "telefono": "",
-        "direccion": "Stewart Shipton y Octaviano Vera"
+        "nombre": "MARTIN",
+        "telefono": "03865-422286",
+        "direccion": "24 DE SETIEMBRE 2476"
       }
     ],
     "Famaillá": [
       {
-        "nombre": "SAN JUAN",
-        "telefono": "",
-        "direccion": "San Martin 349"
-      },
-      {
-        "nombre": "SAN NICOLAS",
-        "telefono": "",
-        "direccion": "Bartolomé Mitre al 600"
+        "nombre": "SAN ANTONIO",
+        "telefono": "03863 - 461089",
+        "direccion": "LAVALLE 362"
       }
     ],
     "Juan Bautista Alberdi": [
       {
-        "nombre": "VASOVI SCS",
-        "telefono": "",
-        "direccion": "CAMPERO 514"
+        "nombre": "SANTA MARIA",
+        "telefono": "03865471150",
+        "direccion": "Lidoro Quinteros 750"
       },
       {
-        "nombre": "MARIA ROSA MISTICA",
-        "telefono": "03865-471455",
-        "direccion": "AV.SARMIENTO 235"
+        "nombre": "FARMA SALUD ALBERDI",
+        "telefono": "3865577687",
+        "direccion": "BELGRANO 785"
+      },
+      {
+        "nombre": "PISTONE",
+        "telefono": "03865-471131",
+        "direccion": "MITRE 597"
       }
     ],
     "La Cocha": [
       {
-        "nombre": "SANTA TERESITA",
-        "telefono": "03865-496163",
-        "direccion": "SARMIENTO 69"
+        "nombre": "MALPES",
+        "telefono": "",
+        "direccion": "RIVADAVIA 287"
+      }
+    ],
+    "Lastenia": [
+      {
+        "nombre": "EMI",
+        "telefono": "4263601",
+        "direccion": "Av. América 391"
       }
     ],
     "Lules": [
       {
-        "nombre": "SAN JOSE",
-        "telefono": "03814811882",
-        "direccion": "ITALIA 249"
-      },
-      {
-        "nombre": "YIBRIL",
+        "nombre": "CENTRAL",
         "telefono": "",
-        "direccion": "Don Bosco y Batalla de Tucumán"
+        "direccion": "9 DE JULIO 258"
       }
     ],
     "Monteros": [
       {
-        "nombre": "NICOLAS",
-        "telefono": "03863-428567",
-        "direccion": "COLON 147"
-      }
-    ],
-    "San Andrés": [
+        "nombre": "ALTHEA",
+        "telefono": "",
+        "direccion": "24 DE SEPTIEMBRE 825"
+      },
       {
-        "nombre": "LA CANDELARIA",
-        "telefono": "4854961",
-        "direccion": "Bº 470 Viviendas - Mz. Q. - C.18"
+        "nombre": "NUEVA SANTA TERESITA",
+        "telefono": "",
+        "direccion": "Tucumán 138"
       }
     ],
     "San Miguel de Tucumán": [
       {
-        "nombre": "FLORIDA",
-        "telefono": "4204557",
-        "direccion": "Felix de Olazabal 1318"
+        "nombre": "SAN LORENZO",
+        "telefono": "4326511",
+        "direccion": "AV. BELGRANO 3592/96"
       },
       {
-        "nombre": "MATE DE LUNA",
-        "telefono": "4302959",
-        "direccion": "24 de Septiembre 1399"
+        "nombre": "SUIPACHA NUEVA GENERACION",
+        "telefono": "4331529",
+        "direccion": "Santiago 1306"
       },
       {
-        "nombre": "SANTA CRUZ",
-        "telefono": "4361877",
-        "direccion": "Av. Independencia 1602"
+        "nombre": "NTRA. SRA.DE SHOENSTATT",
+        "telefono": "",
+        "direccion": "Fortunata Garcia 2498"
       },
       {
-        "nombre": "PILAR",
-        "telefono": "3816528212",
-        "direccion": "AV. CORONEL SUAREZ 1002"
+        "nombre": "SAN FELIPE",
+        "telefono": "2316723",
+        "direccion": "Laprida 530"
       },
       {
-        "nombre": "PLAZOLETA ARGENTINA",
-        "telefono": "3813020323",
-        "direccion": "avenida Roca 663"
+        "nombre": "MILUNO",
+        "telefono": "2308838",
+        "direccion": "Don Bosco 1871"
       },
       {
-        "nombre": "DEL JARDIN",
-        "telefono": "4221459-4005634",
-        "direccion": "Av. Siria 1305"
+        "nombre": "ARIES",
+        "telefono": "4830218",
+        "direccion": "Av. Alem 1280"
       },
       {
-        "nombre": "CELESTE",
-        "telefono": "4233423",
-        "direccion": "Bolivar 2825"
+        "nombre": "PLAZOLETA ESQUINA NORTE",
+        "telefono": "4224285 - 4217135",
+        "direccion": "Av. Juan B.Justo 949"
       },
       {
-        "nombre": "AUXILIADORA",
-        "telefono": "4217607",
-        "direccion": "Corrientes 64"
+        "nombre": "ELINA",
+        "telefono": "3173113",
+        "direccion": "Bolivar 560"
       }
     ],
     "Simoca": [
       {
-        "nombre": "NATIVA",
-        "telefono": "3812377763",
-        "direccion": "Av. Belgrano 150 - Loc. 1"
+        "nombre": "9 DE JULIO",
+        "telefono": "",
+        "direccion": "9 DE JULIO 310"
       }
     ],
     "Tafí Viejo": [
       {
-        "nombre": "DE LA PLAZA",
-        "telefono": "4615331",
-        "direccion": "Congreso 538"
+        "nombre": "LOS ALAMOS",
+        "telefono": "3812083221",
+        "direccion": "Peru Norte 744 - Loc. 3"
       },
       {
-        "nombre": "GIRASOLES",
-        "telefono": "2660009",
-        "direccion": "Sector XX - Mza. 15 - Lomas de TafiC. 20"
+        "nombre": "ORIO",
+        "telefono": "4610120",
+        "direccion": "Constitución 371"
+      }
+    ],
+    "Villa Carmela": [
+      {
+        "nombre": "HELEN",
+        "telefono": "4930945",
+        "direccion": "Bº Oeste III"
       }
     ],
     "Yerba Buena": [
       {
-        "nombre": "PLAZOLETA EL CRISTO",
-        "telefono": "4352657",
-        "direccion": "Av. Aconquija 1"
+        "nombre": "INTEGRAL HEALTH",
+        "telefono": "3815696695",
+        "direccion": "Av. Perón 2250"
       },
       {
-        "nombre": "CERRO AZUL",
-        "telefono": "3815804085",
-        "direccion": "Av. 24 de Marzo y calle S/N"
+        "nombre": "DEL VALLE",
+        "telefono": "2575113",
+        "direccion": "Solano Vera 175"
       }
     ]
   }

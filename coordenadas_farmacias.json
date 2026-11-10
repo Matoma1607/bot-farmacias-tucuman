@@ -2974,5 +2974,125 @@
     "nombre": "PLAZOLETA EL CRISTO",
     "direccion": "Av. Aconquija 1",
     "localidad": "Yerba Buena"
+  },
+  "san benito|rivadavia 899|alderetes": {
+    "lat": -26.8152758,
+    "lon": -65.1427481,
+    "aproximada": false,
+    "nombre": "SAN BENITO",
+    "direccion": "Rivadavia 899",
+    "localidad": "Alderetes"
+  },
+  "mario bravo|mario bravo 934|banda del rio sali": {
+    "lat": -26.8463855,
+    "lon": -65.1545577,
+    "aproximada": false,
+    "nombre": "MARIO BRAVO",
+    "direccion": "Mario Bravo 934",
+    "localidad": "Banda del Río Salí"
+  },
+  "la perla|espana 1006|concepcion": {
+    "lat": -27.3478038,
+    "lon": -65.5851479,
+    "aproximada": false,
+    "nombre": "LA PERLA",
+    "direccion": "España 1006",
+    "localidad": "Concepción"
+  },
+  "san lorenzo|av belgrano 3592 96|san miguel de tucuman": {
+    "lat": -26.8120702,
+    "lon": -65.23529,
+    "aproximada": false,
+    "nombre": "SAN LORENZO",
+    "direccion": "AV. BELGRANO 3592/96",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "suipacha nueva generacion|santiago 1306|san miguel de tucuman": {
+    "lat": -26.821654,
+    "lon": -65.2153509,
+    "aproximada": false,
+    "nombre": "SUIPACHA NUEVA GENERACION",
+    "direccion": "Santiago 1306",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "ntra sra de shoenstatt|fortunata garcia 2498|san miguel de tucuman": {
+    "lat": -26.8544978,
+    "lon": -65.2041881,
+    "aproximada": false,
+    "nombre": "NTRA. SRA.DE SHOENSTATT",
+    "direccion": "Fortunata Garcia 2498",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "san felipe|laprida 530|san miguel de tucuman": {
+    "lat": -26.8241145,
+    "lon": -65.2016513,
+    "aproximada": false,
+    "nombre": "SAN FELIPE",
+    "direccion": "Laprida 530",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "miluno|don bosco 1871|san miguel de tucuman": {
+    "lat": -26.8222541,
+    "lon": -65.2245758,
+    "aproximada": false,
+    "nombre": "MILUNO",
+    "direccion": "Don Bosco 1871",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "aries|av alem 1280|san miguel de tucuman": {
+    "lat": -26.853299,
+    "lon": -65.2244533,
+    "aproximada": false,
+    "nombre": "ARIES",
+    "direccion": "Av. Alem 1280",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "plazoleta esquina norte|av juan b justo 949|san miguel de tucuman": {
+    "lat": -26.8192998,
+    "lon": -65.1937425,
+    "aproximada": false,
+    "nombre": "PLAZOLETA ESQUINA NORTE",
+    "direccion": "Av. Juan B.Justo 949",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "elina|bolivar 560|san miguel de tucuman": {
+    "lat": -26.8403388,
+    "lon": -65.2081088,
+    "aproximada": false,
+    "nombre": "ELINA",
+    "direccion": "Bolivar 560",
+    "localidad": "San Miguel de Tucumán"
+  },
+  "orio|constitucion 371|tafi viejo": {
+    "lat": -26.7466998,
+    "lon": -65.2276583,
+    "aproximada": false,
+    "nombre": "ORIO",
+    "direccion": "Constitución 371",
+    "localidad": "Tafí Viejo"
+  },
+  "helen|bo oeste iii|villa carmela": {
+    "lat": -26.7697034,
+    "lon": -65.2740084,
+    "aproximada": false,
+    "nombre": "HELEN",
+    "direccion": "Bº Oeste III",
+    "localidad": "Villa Carmela"
+  },
+  "integral health|av peron 2250|yerba buena": {
+    "lat": -26.8063726,
+    "lon": -65.2631152,
+    "aproximada": false,
+    "nombre": "INTEGRAL HEALTH",
+    "direccion": "Av. Perón 2250",
+    "localidad": "Yerba Buena"
+  },
+  "del valle|solano vera 175|yerba buena": {
+    "lat": -26.8145117,
+    "lon": -65.3023581,
+    "aproximada": false,
+    "nombre": "DEL VALLE",
+    "direccion": "Solano Vera 175",
+    "localidad": "Yerba Buena"
   }
 }
