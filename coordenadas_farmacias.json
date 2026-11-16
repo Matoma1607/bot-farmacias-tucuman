@@ -3094,5 +3094,13 @@
     "nombre": "DEL VALLE",
     "direccion": "Solano Vera 175",
     "localidad": "Yerba Buena"
+  },
+  "farmacia neo|crisostomo alvarez 1190 local n 3|san miguel de tucuman": {
+    "lat": -26.8301583,
+    "lon": -65.215566,
+    "aproximada": false,
+    "nombre": "FARMACIA NEO",
+    "direccion": "Crisostomo Alvarez 1190 LOCAL N° 3",
+    "localidad": "San Miguel de Tucumán"
   }
 }
