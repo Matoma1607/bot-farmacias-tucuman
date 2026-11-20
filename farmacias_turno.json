@@ -1,161 +1,163 @@
 {
-  "fecha": "19/11/2026",
+  "fecha": "20/11/2026",
   "turno": "de 08:00 de ese dia a 08:00 del dia siguiente",
   "fuente": "https://cofatuc.org.ar/farmacias-de-turno/",
-  "actualizado": "19/11/2026 21:24",
+  "actualizado": "20/11/2026 11:11",
   "localidades": {
     "Aguilares": [
       {
-        "nombre": "SANTO TOMAS",
-        "telefono": "03865 - 482192",
-        "direccion": "DIEGO DE VILLARROEL Y V.SARSFI"
+        "nombre": "DEL BARRIO",
+        "telefono": "03865 - 481026",
+        "direccion": "Alsina S/Nº entre 20 de Junio y 24 de Septiembre"
+      }
+    ],
+    "Banda del Río Salí": [
+      {
+        "nombre": "DEL PUEBLO BANDA",
+        "telefono": "",
+        "direccion": "Av. Monseñor G. Diaz 499"
       }
     ],
     "Bella Vista": [
       {
-        "nombre": "LIBERTAD",
-        "telefono": "4820234",
-        "direccion": "San Martin 100"
+        "nombre": "SAN NICOLAS II",
+        "telefono": "3816375174",
+        "direccion": "Juan XXIII 391"
       }
     ],
     "Concepción": [
       {
-        "nombre": "LA PICHONA",
-        "telefono": "",
-        "direccion": "J. V. Gonzalez y Ruta Nº 38"
+        "nombre": "ITALIA",
+        "telefono": "03865-424949",
+        "direccion": "ITALIA 1274"
       }
     ],
     "Famaillá": [
       {
-        "nombre": "RENACER",
-        "telefono": "3816023779",
-        "direccion": "Av. Alem 700"
+        "nombre": "PEREIRA",
+        "telefono": "",
+        "direccion": "SAN MARTIN 354"
       },
       {
-        "nombre": "LOS ALISOS",
-        "telefono": "03863 - 462103",
-        "direccion": "LAPRIDA 185"
+        "nombre": "UNION",
+        "telefono": "03863-461963",
+        "direccion": "SARMIENTO 136"
       }
     ],
     "Juan Bautista Alberdi": [
       {
-        "nombre": "SAN ANTONIO",
-        "telefono": "3865689020",
-        "direccion": "ALEM 710"
+        "nombre": "FLORES",
+        "telefono": "3865602989",
+        "direccion": "Brown 430"
       },
       {
-        "nombre": "VIRGEN DEL VALLE",
-        "telefono": "03865 - 471683",
-        "direccion": "Catamarca 276"
+        "nombre": "ALBERDI",
+        "telefono": "03865 - 472962",
+        "direccion": "Rivadavia 585"
+      }
+    ],
+    "La Cocha": [
+      {
+        "nombre": "INDEPENDENCIA S.H.",
+        "telefono": "03865-496013",
+        "direccion": "San Martin 93 - Bº Centro"
       }
     ],
     "Lules": [
       {
-        "nombre": "SAN ISIDRO",
-        "telefono": "4812746",
-        "direccion": "Juan Luis Nogués 98"
+        "nombre": "SANTA RITA",
+        "telefono": "03814811683",
+        "direccion": "SAN MARTIN 89"
       }
     ],
     "Monteros": [
       {
-        "nombre": "PACARA",
-        "telefono": "",
-        "direccion": "Ernesto Padilla180"
+        "nombre": "MONZON",
+        "telefono": "3863424911",
+        "direccion": "Monzon 203 - Esq. Crisostomo Alvarez"
       },
       {
-        "nombre": "DEL MILAGRO",
-        "telefono": "03865-427943",
-        "direccion": "ALBERDI 260"
+        "nombre": "YURINA",
+        "telefono": "",
+        "direccion": "SAN MARTIN 672"
       }
     ],
     "San Miguel de Tucumán": [
       {
-        "nombre": "DEL PUEBLO",
-        "telefono": "4244504",
-        "direccion": "Av. Alem 199"
+        "nombre": "LURNIC",
+        "telefono": "4281484",
+        "direccion": "Av. Gdor. del Campo 1227"
       },
       {
-        "nombre": "DEL PUEBLO BELGRANO 2",
-        "telefono": "4329000",
-        "direccion": "Av. Belgrano 2696"
+        "nombre": "LAS MARIAS",
+        "telefono": "4249319",
+        "direccion": "Lavalle 1070"
       },
       {
-        "nombre": "MICE",
-        "telefono": "4283034",
-        "direccion": "Autopista Pte. peron y Circunvalación , sector I, Loc. 6"
+        "nombre": "PRINCIPAL",
+        "telefono": "4359311",
+        "direccion": "Esteban Echeverria 394"
       },
       {
-        "nombre": "CIUDADELA",
-        "telefono": "4202796",
-        "direccion": "Miguel Lillo 458"
+        "nombre": "LOS LIRIOS",
+        "telefono": "4362284",
+        "direccion": "Av. Independencia 3087"
       },
       {
-        "nombre": "SERRAVALLE",
+        "nombre": "DEL PUEBLO FRANCISCO DE AGUIRRE",
         "telefono": "",
-        "direccion": "Las Piedras 1639"
+        "direccion": "FRANCISCO DE AGUIRRE 1556"
       },
       {
-        "nombre": "LA MERCED",
-        "telefono": "4217654",
-        "direccion": "Balcarce 504"
+        "nombre": "DARUICH BULNES",
+        "telefono": "3812554662",
+        "direccion": "CHILE 3192"
       },
       {
-        "nombre": "NATAL",
-        "telefono": "4299378",
-        "direccion": "Jujuy 3315"
+        "nombre": "JUJUY",
+        "telefono": "3813391905",
+        "direccion": "Jujuy 2417"
       },
       {
-        "nombre": "CRISTO REY",
-        "telefono": "4356198",
-        "direccion": "Av. Mate de Luna 3798"
+        "nombre": "MAGALI",
+        "telefono": "4515724",
+        "direccion": "AV. COLON 1483"
       },
       {
-        "nombre": "DIVINA GRACIA",
-        "telefono": "4391251",
-        "direccion": "Bº San Martin - Mza. D - Casa 1"
-      },
-      {
-        "nombre": "COSTANERA",
-        "telefono": "4976469",
-        "direccion": "Lola Mora 354"
+        "nombre": "SANTA VICTORIA",
+        "telefono": "4320387",
+        "direccion": "Av. Mate de Luna 1898"
       }
     ],
     "Simoca": [
       {
-        "nombre": "SILVA",
-        "telefono": "03863 - 458010",
-        "direccion": "25 de Mayo y Belgrano"
-      }
-    ],
-    "Tafí Viejo": [
-      {
-        "nombre": "DEL SOL LOMAS",
-        "telefono": "4612667",
-        "direccion": "Sector X - Mza. 10 - C. 1 - Bº Lomas de Tafí"
+        "nombre": "THAYS",
+        "telefono": "",
+        "direccion": "Av. Congreso 798"
       },
       {
-        "nombre": "PRAVIA",
-        "telefono": "2591789",
-        "direccion": "Av. Alem 366"
+        "nombre": "ALTO VERDE",
+        "telefono": "3863482164",
+        "direccion": "San Martin 229"
       }
     ],
     "Villa Mariano Moreno": [
       {
-        "nombre": "SANTA RITA",
-        "telefono": "4372403",
-        "direccion": "Calle 4 N°352 y Calle 15"
+        "nombre": "NTRA.SRA.DE FATIMA SCS",
+        "telefono": "4372253",
+        "direccion": "Calle 25 y 10"
       }
     ],
     "Yerba Buena": [
       {
-        "nombre": "DE LA PAZ",
-        "telefono": "4352039",
-        "direccion": "Camino del Perú 202"
+        "nombre": "ACASSUSO",
+        "telefono": "",
+        "direccion": "Av. Aconquija 1199"
       },
       {
-        "nombre": "CAROLINA",
+        "nombre": "DEL PUEBLO OPEN",
         "telefono": "",
-        "direccion": "3815033151 solo mensajes wstp"
+        "direccion": "Av. Pte. Perón esq. Salta"
       }
     ]
   }
