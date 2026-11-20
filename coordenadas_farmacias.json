@@ -3102,5 +3102,21 @@
     "nombre": "FARMACIA NEO",
     "direccion": "Crisostomo Alvarez 1190 LOCAL N° 3",
     "localidad": "San Miguel de Tucumán"
+  },
+  "torres ii|av alem 160|tafi viejo": {
+    "lat": -26.7311586,
+    "lon": -65.2560509,
+    "aproximada": false,
+    "nombre": "TORRES II",
+    "direccion": "AV ALEM 160",
+    "localidad": "Tafí Viejo"
+  },
+  "farmagreen ii|benito macias y anacleto tobar|tafi viejo": {
+    "lat": -26.7760606,
+    "lon": -65.2338374,
+    "aproximada": true,
+    "nombre": "FARMAGREEN II",
+    "direccion": "benito macias y anacleto tobar",
+    "localidad": "Tafí Viejo"
   }
 }

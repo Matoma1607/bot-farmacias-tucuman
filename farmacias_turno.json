@@ -2,7 +2,7 @@
   "fecha": "20/11/2026",
   "turno": "de 08:00 de ese dia a 08:00 del dia siguiente",
   "fuente": "https://cofatuc.org.ar/farmacias-de-turno/",
-  "actualizado": "20/11/2026 11:11",
+  "actualizado": "20/11/2026 19:05",
   "localidades": {
     "Aguilares": [
       {
@@ -84,24 +84,9 @@
     ],
     "San Miguel de Tucumán": [
       {
-        "nombre": "LURNIC",
-        "telefono": "4281484",
-        "direccion": "Av. Gdor. del Campo 1227"
-      },
-      {
         "nombre": "LAS MARIAS",
         "telefono": "4249319",
         "direccion": "Lavalle 1070"
-      },
-      {
-        "nombre": "PRINCIPAL",
-        "telefono": "4359311",
-        "direccion": "Esteban Echeverria 394"
-      },
-      {
-        "nombre": "LOS LIRIOS",
-        "telefono": "4362284",
-        "direccion": "Av. Independencia 3087"
       },
       {
         "nombre": "DEL PUEBLO FRANCISCO DE AGUIRRE",
@@ -127,6 +112,21 @@
         "nombre": "SANTA VICTORIA",
         "telefono": "4320387",
         "direccion": "Av. Mate de Luna 1898"
+      },
+      {
+        "nombre": "PRINCIPAL",
+        "telefono": "4359311",
+        "direccion": "Esteban Echeverria 394"
+      },
+      {
+        "nombre": "LOS LIRIOS",
+        "telefono": "4362284",
+        "direccion": "Av. Independencia 3087"
+      },
+      {
+        "nombre": "LURNIC",
+        "telefono": "4281484",
+        "direccion": "Av. Gdor. del Campo 1227"
       }
     ],
     "Simoca": [
@@ -139,6 +139,18 @@
         "nombre": "ALTO VERDE",
         "telefono": "3863482164",
         "direccion": "San Martin 229"
+      }
+    ],
+    "Tafí Viejo": [
+      {
+        "nombre": "TORRES II",
+        "telefono": "3813170811",
+        "direccion": "AV ALEM 160"
+      },
+      {
+        "nombre": "FARMAGREEN II",
+        "telefono": "",
+        "direccion": "benito macias y anacleto tobar"
       }
     ],
     "Villa Mariano Moreno": [
